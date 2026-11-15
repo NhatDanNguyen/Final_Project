@@ -1,0 +1,352 @@
+year,half_year,population_group,road_user,source_value,value_status
+2011,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",283,observed
+2011,Jan-Jun,First Nations people,Motorcyclist,78,observed
+2011,Jan-Jun,First Nations people,Pedal cyclist,57,observed
+2011,Jan-Jun,First Nations people,Pedestrian,115,observed
+2011,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2011,Jan-Jun,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2011,Jan-Jun,First Nations people,Other or unknown,19,observed
+2011,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",7531,observed
+2011,Jan-Jun,Non-Indigenous,Motorcyclist,3524,observed
+2011,Jan-Jun,Non-Indigenous,Pedal cyclist,2629,observed
+2011,Jan-Jun,Non-Indigenous,Pedestrian,1270,observed
+2011,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2011,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2011,Jan-Jun,Non-Indigenous,Bus occupant,117,observed
+2011,Jan-Jun,Non-Indigenous,Other or unknown,235,observed
+2011,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",334,observed
+2011,Jul-Dec,First Nations people,Motorcyclist,109,observed
+2011,Jul-Dec,First Nations people,Pedal cyclist,64,observed
+2011,Jul-Dec,First Nations people,Pedestrian,65,observed
+2011,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",11,observed
+2011,Jul-Dec,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2011,Jul-Dec,First Nations people,Bus occupant,n.p.,suppressed
+2011,Jul-Dec,First Nations people,Other or unknown,15,observed
+2011,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",8066,observed
+2011,Jul-Dec,Non-Indigenous,Motorcyclist,3661,observed
+2011,Jul-Dec,Non-Indigenous,Pedal cyclist,2545,observed
+2011,Jul-Dec,Non-Indigenous,Pedestrian,1252,observed
+2011,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",287,observed
+2011,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2011,Jul-Dec,Non-Indigenous,Bus occupant,n.p.,suppressed
+2011,Jul-Dec,Non-Indigenous,Other or unknown,324,observed
+2012,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",356,observed
+2012,Jan-Jun,First Nations people,Motorcyclist,84,observed
+2012,Jan-Jun,First Nations people,Pedal cyclist,78,observed
+2012,Jan-Jun,First Nations people,Pedestrian,114,observed
+2012,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2012,Jan-Jun,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2012,Jan-Jun,First Nations people,Bus occupant,n.p.,suppressed
+2012,Jan-Jun,First Nations people,Other or unknown,8,observed
+2012,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",7806,observed
+2012,Jan-Jun,Non-Indigenous,Motorcyclist,3664,observed
+2012,Jan-Jun,Non-Indigenous,Pedal cyclist,2747,observed
+2012,Jan-Jun,Non-Indigenous,Pedestrian,1206,observed
+2012,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2012,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2012,Jan-Jun,Non-Indigenous,Bus occupant,n.p.,suppressed
+2012,Jan-Jun,Non-Indigenous,Other or unknown,231,observed
+2012,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",402,observed
+2012,Jul-Dec,First Nations people,Motorcyclist,134,observed
+2012,Jul-Dec,First Nations people,Pedal cyclist,74,observed
+2012,Jul-Dec,First Nations people,Pedestrian,105,observed
+2012,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",5,observed
+2012,Jul-Dec,First Nations people,Pick-up truck or van occupant,9,observed
+2012,Jul-Dec,First Nations people,Bus occupant,5,observed
+2012,Jul-Dec,First Nations people,Other or unknown,22,observed
+2012,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",7444,observed
+2012,Jul-Dec,Non-Indigenous,Motorcyclist,3684,observed
+2012,Jul-Dec,Non-Indigenous,Pedal cyclist,2632,observed
+2012,Jul-Dec,Non-Indigenous,Pedestrian,1184,observed
+2012,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",251,observed
+2012,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,129,observed
+2012,Jul-Dec,Non-Indigenous,Bus occupant,111,observed
+2012,Jul-Dec,Non-Indigenous,Other or unknown,258,observed
+2013,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",354,observed
+2013,Jan-Jun,First Nations people,Motorcyclist,126,observed
+2013,Jan-Jun,First Nations people,Pedal cyclist,92,observed
+2013,Jan-Jun,First Nations people,Pedestrian,90,observed
+2013,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2013,Jan-Jun,First Nations people,Pick-up truck or van occupant,6,observed
+2013,Jan-Jun,First Nations people,Bus occupant,n.p.,suppressed
+2013,Jan-Jun,First Nations people,Other or unknown,13,observed
+2013,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",7495,observed
+2013,Jan-Jun,Non-Indigenous,Motorcyclist,3655,observed
+2013,Jan-Jun,Non-Indigenous,Pedal cyclist,3020,observed
+2013,Jan-Jun,Non-Indigenous,Pedestrian,1170,observed
+2013,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2013,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,113,observed
+2013,Jan-Jun,Non-Indigenous,Bus occupant,n.p.,suppressed
+2013,Jan-Jun,Non-Indigenous,Other or unknown,238,observed
+2013,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",401,observed
+2013,Jul-Dec,First Nations people,Motorcyclist,141,observed
+2013,Jul-Dec,First Nations people,Pedal cyclist,81,observed
+2013,Jul-Dec,First Nations people,Pedestrian,76,observed
+2013,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",10,observed
+2013,Jul-Dec,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2013,Jul-Dec,First Nations people,Bus occupant,n.p.,suppressed
+2013,Jul-Dec,First Nations people,Other or unknown,12,observed
+2013,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",7944,observed
+2013,Jul-Dec,Non-Indigenous,Motorcyclist,3962,observed
+2013,Jul-Dec,Non-Indigenous,Pedal cyclist,2965,observed
+2013,Jul-Dec,Non-Indigenous,Pedestrian,1239,observed
+2013,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",243,observed
+2013,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2013,Jul-Dec,Non-Indigenous,Bus occupant,n.p.,suppressed
+2013,Jul-Dec,Non-Indigenous,Other or unknown,266,observed
+2014,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",374,observed
+2014,Jan-Jun,First Nations people,Motorcyclist,137,observed
+2014,Jan-Jun,First Nations people,Pedal cyclist,95,observed
+2014,Jan-Jun,First Nations people,Pedestrian,87,observed
+2014,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",8,observed
+2014,Jan-Jun,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2014,Jan-Jun,First Nations people,Bus occupant,n.p.,suppressed
+2014,Jan-Jun,First Nations people,Other or unknown,22,observed
+2014,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",7524,observed
+2014,Jan-Jun,Non-Indigenous,Motorcyclist,3950,observed
+2014,Jan-Jun,Non-Indigenous,Pedal cyclist,3272,observed
+2014,Jan-Jun,Non-Indigenous,Pedestrian,1136,observed
+2014,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",213,observed
+2014,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2014,Jan-Jun,Non-Indigenous,Bus occupant,n.p.,suppressed
+2014,Jan-Jun,Non-Indigenous,Other or unknown,219,observed
+2014,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",385,observed
+2014,Jul-Dec,First Nations people,Motorcyclist,117,observed
+2014,Jul-Dec,First Nations people,Pedal cyclist,82,observed
+2014,Jul-Dec,First Nations people,Pedestrian,109,observed
+2014,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",7,observed
+2014,Jul-Dec,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2014,Jul-Dec,First Nations people,Bus occupant,n.p.,suppressed
+2014,Jul-Dec,First Nations people,Other or unknown,16,observed
+2014,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",7839,observed
+2014,Jul-Dec,Non-Indigenous,Motorcyclist,3969,observed
+2014,Jul-Dec,Non-Indigenous,Pedal cyclist,3082,observed
+2014,Jul-Dec,Non-Indigenous,Pedestrian,1180,observed
+2014,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",236,observed
+2014,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2014,Jul-Dec,Non-Indigenous,Bus occupant,n.p.,suppressed
+2014,Jul-Dec,Non-Indigenous,Other or unknown,239,observed
+2015,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",392,observed
+2015,Jan-Jun,First Nations people,Motorcyclist,129,observed
+2015,Jan-Jun,First Nations people,Pedal cyclist,87,observed
+2015,Jan-Jun,First Nations people,Pedestrian,115,observed
+2015,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",6,observed
+2015,Jan-Jun,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2015,Jan-Jun,First Nations people,Bus occupant,n.p.,suppressed
+2015,Jan-Jun,First Nations people,Other or unknown,11,observed
+2015,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",8189,observed
+2015,Jan-Jun,Non-Indigenous,Motorcyclist,3935,observed
+2015,Jan-Jun,Non-Indigenous,Pedal cyclist,3349,observed
+2015,Jan-Jun,Non-Indigenous,Pedestrian,1155,observed
+2015,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",228,observed
+2015,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2015,Jan-Jun,Non-Indigenous,Bus occupant,n.p.,suppressed
+2015,Jan-Jun,Non-Indigenous,Other or unknown,203,observed
+2015,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",491,observed
+2015,Jul-Dec,First Nations people,Motorcyclist,144,observed
+2015,Jul-Dec,First Nations people,Pedal cyclist,90,observed
+2015,Jul-Dec,First Nations people,Pedestrian,91,observed
+2015,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",9,observed
+2015,Jul-Dec,First Nations people,Pick-up truck or van occupant,6,observed
+2015,Jul-Dec,First Nations people,Bus occupant,6,observed
+2015,Jul-Dec,First Nations people,Other or unknown,17,observed
+2015,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",8503,observed
+2015,Jul-Dec,Non-Indigenous,Motorcyclist,3920,observed
+2015,Jul-Dec,Non-Indigenous,Pedal cyclist,3086,observed
+2015,Jul-Dec,Non-Indigenous,Pedestrian,1223,observed
+2015,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",251,observed
+2015,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,107,observed
+2015,Jul-Dec,Non-Indigenous,Bus occupant,129,observed
+2015,Jul-Dec,Non-Indigenous,Other or unknown,261,observed
+2016,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",434,observed
+2016,Jan-Jun,First Nations people,Motorcyclist,147,observed
+2016,Jan-Jun,First Nations people,Pedal cyclist,107,observed
+2016,Jan-Jun,First Nations people,Pedestrian,90,observed
+2016,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",6,observed
+2016,Jan-Jun,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2016,Jan-Jun,First Nations people,Bus occupant,n.p.,suppressed
+2016,Jan-Jun,First Nations people,Other or unknown,13,observed
+2016,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",8700,observed
+2016,Jan-Jun,Non-Indigenous,Motorcyclist,4138,observed
+2016,Jan-Jun,Non-Indigenous,Pedal cyclist,3546,observed
+2016,Jan-Jun,Non-Indigenous,Pedestrian,1228,observed
+2016,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",205,observed
+2016,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2016,Jan-Jun,Non-Indigenous,Bus occupant,n.p.,suppressed
+2016,Jan-Jun,Non-Indigenous,Other or unknown,281,observed
+2016,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",494,observed
+2016,Jul-Dec,First Nations people,Motorcyclist,149,observed
+2016,Jul-Dec,First Nations people,Pedal cyclist,83,observed
+2016,Jul-Dec,First Nations people,Pedestrian,100,observed
+2016,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",8,observed
+2016,Jul-Dec,First Nations people,Pick-up truck or van occupant,5,observed
+2016,Jul-Dec,First Nations people,Bus occupant,9,observed
+2016,Jul-Dec,First Nations people,Other or unknown,12,observed
+2016,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",9172,observed
+2016,Jul-Dec,Non-Indigenous,Motorcyclist,3973,observed
+2016,Jul-Dec,Non-Indigenous,Pedal cyclist,3067,observed
+2016,Jul-Dec,Non-Indigenous,Pedestrian,1286,observed
+2016,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",247,observed
+2016,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,152,observed
+2016,Jul-Dec,Non-Indigenous,Bus occupant,130,observed
+2016,Jul-Dec,Non-Indigenous,Other or unknown,294,observed
+2017,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",434,observed
+2017,Jan-Jun,First Nations people,Motorcyclist,167,observed
+2017,Jan-Jun,First Nations people,Pedal cyclist,101,observed
+2017,Jan-Jun,First Nations people,Pedestrian,100,observed
+2017,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",8,observed
+2017,Jan-Jun,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2017,Jan-Jun,First Nations people,Bus occupant,n.p.,suppressed
+2017,Jan-Jun,First Nations people,Other or unknown,13,observed
+2017,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",8801,observed
+2017,Jan-Jun,Non-Indigenous,Motorcyclist,4287,observed
+2017,Jan-Jun,Non-Indigenous,Pedal cyclist,3505,observed
+2017,Jan-Jun,Non-Indigenous,Pedestrian,1228,observed
+2017,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",250,observed
+2017,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2017,Jan-Jun,Non-Indigenous,Bus occupant,n.p.,suppressed
+2017,Jan-Jun,Non-Indigenous,Other or unknown,284,observed
+2017,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",504,observed
+2017,Jul-Dec,First Nations people,Motorcyclist,152,observed
+2017,Jul-Dec,First Nations people,Pedal cyclist,100,observed
+2017,Jul-Dec,First Nations people,Pedestrian,109,observed
+2017,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",7,observed
+2017,Jul-Dec,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2017,Jul-Dec,First Nations people,Bus occupant,n.p.,suppressed
+2017,Jul-Dec,First Nations people,Other or unknown,22,observed
+2017,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",9100,observed
+2017,Jul-Dec,Non-Indigenous,Motorcyclist,4031,observed
+2017,Jul-Dec,Non-Indigenous,Pedal cyclist,3277,observed
+2017,Jul-Dec,Non-Indigenous,Pedestrian,1237,observed
+2017,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",250,observed
+2017,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2017,Jul-Dec,Non-Indigenous,Bus occupant,n.p.,suppressed
+2017,Jul-Dec,Non-Indigenous,Other or unknown,270,observed
+2018,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",505,observed
+2018,Jan-Jun,First Nations people,Motorcyclist,160,observed
+2018,Jan-Jun,First Nations people,Pedal cyclist,99,observed
+2018,Jan-Jun,First Nations people,Pedestrian,96,observed
+2018,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",8,observed
+2018,Jan-Jun,First Nations people,Pick-up truck or van occupant,n.p.,suppressed
+2018,Jan-Jun,First Nations people,Bus occupant,n.p.,suppressed
+2018,Jan-Jun,First Nations people,Other or unknown,20,observed
+2018,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",8983,observed
+2018,Jan-Jun,Non-Indigenous,Motorcyclist,4140,observed
+2018,Jan-Jun,Non-Indigenous,Pedal cyclist,3522,observed
+2018,Jan-Jun,Non-Indigenous,Pedestrian,1237,observed
+2018,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",265,observed
+2018,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,n.p.,suppressed
+2018,Jan-Jun,Non-Indigenous,Bus occupant,n.p.,suppressed
+2018,Jan-Jun,Non-Indigenous,Other or unknown,277,observed
+2018,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",608,observed
+2018,Jul-Dec,First Nations people,Motorcyclist,173,observed
+2018,Jul-Dec,First Nations people,Pedal cyclist,100,observed
+2018,Jul-Dec,First Nations people,Pedestrian,113,observed
+2018,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",12,observed
+2018,Jul-Dec,First Nations people,Pick-up truck or van occupant,7,observed
+2018,Jul-Dec,First Nations people,Bus occupant,6,observed
+2018,Jul-Dec,First Nations people,Other or unknown,17,observed
+2018,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",9354,observed
+2018,Jul-Dec,Non-Indigenous,Motorcyclist,4060,observed
+2018,Jul-Dec,Non-Indigenous,Pedal cyclist,3154,observed
+2018,Jul-Dec,Non-Indigenous,Pedestrian,1175,observed
+2018,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",259,observed
+2018,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,114,observed
+2018,Jul-Dec,Non-Indigenous,Bus occupant,128,observed
+2018,Jul-Dec,Non-Indigenous,Other or unknown,274,observed
+2019,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",477,observed
+2019,Jan-Jun,First Nations people,Motorcyclist,167,observed
+2019,Jan-Jun,First Nations people,Pedal cyclist,112,observed
+2019,Jan-Jun,First Nations people,Pedestrian,120,observed
+2019,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2019,Jan-Jun,First Nations people,Pick-up truck or van occupant,6,observed
+2019,Jan-Jun,First Nations people,Bus occupant,n.p.,suppressed
+2019,Jan-Jun,First Nations people,Other or unknown,10,observed
+2019,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",8895,observed
+2019,Jan-Jun,Non-Indigenous,Motorcyclist,4239,observed
+2019,Jan-Jun,Non-Indigenous,Pedal cyclist,3667,observed
+2019,Jan-Jun,Non-Indigenous,Pedestrian,1238,observed
+2019,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2019,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,109,observed
+2019,Jan-Jun,Non-Indigenous,Bus occupant,n.p.,suppressed
+2019,Jan-Jun,Non-Indigenous,Other or unknown,273,observed
+2019,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",519,observed
+2019,Jul-Dec,First Nations people,Motorcyclist,186,observed
+2019,Jul-Dec,First Nations people,Pedal cyclist,128,observed
+2019,Jul-Dec,First Nations people,Pedestrian,91,observed
+2019,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",12,observed
+2019,Jul-Dec,First Nations people,Pick-up truck or van occupant,5,observed
+2019,Jul-Dec,First Nations people,Bus occupant,n.p.,suppressed
+2019,Jul-Dec,First Nations people,Other or unknown,n.p.,suppressed
+2019,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",9111,observed
+2019,Jul-Dec,Non-Indigenous,Motorcyclist,4224,observed
+2019,Jul-Dec,Non-Indigenous,Pedal cyclist,3317,observed
+2019,Jul-Dec,Non-Indigenous,Pedestrian,1223,observed
+2019,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",240,observed
+2019,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,135,observed
+2019,Jul-Dec,Non-Indigenous,Bus occupant,n.p.,suppressed
+2019,Jul-Dec,Non-Indigenous,Other or unknown,n.p.,suppressed
+2020,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",486,observed
+2020,Jan-Jun,First Nations people,Motorcyclist,248,observed
+2020,Jan-Jun,First Nations people,Pedal cyclist,118,observed
+2020,Jan-Jun,First Nations people,Pedestrian,96,observed
+2020,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",5,observed
+2020,Jan-Jun,First Nations people,Pick-up truck or van occupant,11,observed
+2020,Jan-Jun,First Nations people,Bus occupant,5,observed
+2020,Jan-Jun,First Nations people,Other or unknown,21,observed
+2020,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",7280,observed
+2020,Jan-Jun,Non-Indigenous,Motorcyclist,3710,observed
+2020,Jan-Jun,Non-Indigenous,Pedal cyclist,3933,observed
+2020,Jan-Jun,Non-Indigenous,Pedestrian,878,observed
+2020,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",222,observed
+2020,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,129,observed
+2020,Jan-Jun,Non-Indigenous,Bus occupant,79,observed
+2020,Jan-Jun,Non-Indigenous,Other or unknown,265,observed
+2020,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",722,observed
+2020,Jul-Dec,First Nations people,Motorcyclist,297,observed
+2020,Jul-Dec,First Nations people,Pedal cyclist,112,observed
+2020,Jul-Dec,First Nations people,Pedestrian,127,observed
+2020,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",5,observed
+2020,Jul-Dec,First Nations people,Pick-up truck or van occupant,8,observed
+2020,Jul-Dec,First Nations people,Bus occupant,5,observed
+2020,Jul-Dec,First Nations people,Other or unknown,24,observed
+2020,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",8563,observed
+2020,Jul-Dec,Non-Indigenous,Motorcyclist,4328,observed
+2020,Jul-Dec,Non-Indigenous,Pedal cyclist,4079,observed
+2020,Jul-Dec,Non-Indigenous,Pedestrian,979,observed
+2020,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",254,observed
+2020,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,146,observed
+2020,Jul-Dec,Non-Indigenous,Bus occupant,81,observed
+2020,Jul-Dec,Non-Indigenous,Other or unknown,260,observed
+2021,Jan-Jun,First Nations people,"Car driver, passenger or unknown position",597,observed
+2021,Jan-Jun,First Nations people,Motorcyclist,246,observed
+2021,Jan-Jun,First Nations people,Pedal cyclist,95,observed
+2021,Jan-Jun,First Nations people,Pedestrian,123,observed
+2021,Jan-Jun,First Nations people,"Heavy transport driver, passenger or unknown position",7,observed
+2021,Jan-Jun,First Nations people,Pick-up truck or van occupant,20,observed
+2021,Jan-Jun,First Nations people,Bus occupant,7,observed
+2021,Jan-Jun,First Nations people,Other or unknown,22,observed
+2021,Jan-Jun,Non-Indigenous,"Car driver, passenger or unknown position",9023,observed
+2021,Jan-Jun,Non-Indigenous,Motorcyclist,4413,observed
+2021,Jan-Jun,Non-Indigenous,Pedal cyclist,3970,observed
+2021,Jan-Jun,Non-Indigenous,Pedestrian,1083,observed
+2021,Jan-Jun,Non-Indigenous,"Heavy transport driver, passenger or unknown position",223,observed
+2021,Jan-Jun,Non-Indigenous,Pick-up truck or van occupant,164,observed
+2021,Jan-Jun,Non-Indigenous,Bus occupant,84,observed
+2021,Jan-Jun,Non-Indigenous,Other or unknown,300,observed
+2021,Jul-Dec,First Nations people,"Car driver, passenger or unknown position",561,observed
+2021,Jul-Dec,First Nations people,Motorcyclist,274,observed
+2021,Jul-Dec,First Nations people,Pedal cyclist,112,observed
+2021,Jul-Dec,First Nations people,Pedestrian,112,observed
+2021,Jul-Dec,First Nations people,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2021,Jul-Dec,First Nations people,Pick-up truck or van occupant,8,observed
+2021,Jul-Dec,First Nations people,Bus occupant,n.p.,suppressed
+2021,Jul-Dec,First Nations people,Other or unknown,30,observed
+2021,Jul-Dec,Non-Indigenous,"Car driver, passenger or unknown position",8075,observed
+2021,Jul-Dec,Non-Indigenous,Motorcyclist,3846,observed
+2021,Jul-Dec,Non-Indigenous,Pedal cyclist,3891,observed
+2021,Jul-Dec,Non-Indigenous,Pedestrian,989,observed
+2021,Jul-Dec,Non-Indigenous,"Heavy transport driver, passenger or unknown position",n.p.,suppressed
+2021,Jul-Dec,Non-Indigenous,Pick-up truck or van occupant,148,observed
+2021,Jul-Dec,Non-Indigenous,Bus occupant,n.p.,suppressed
+2021,Jul-Dec,Non-Indigenous,Other or unknown,241,observed

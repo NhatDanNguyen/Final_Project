@@ -1,0 +1,705 @@
+year,half_year,counterparty,state,source_value,value_status
+2011,Jan-Jun,"Car, pick-up truck or van",NSW,2286,observed
+2011,Jan-Jun,Fixed or stationary object,NSW,760,observed
+2011,Jan-Jun,Non-collision transport accident,NSW,1167,observed
+2011,Jan-Jun,Other,NSW,1010,observed
+2011,Jan-Jun,"Car, pick-up truck or van",Vic,2122,observed
+2011,Jan-Jun,Fixed or stationary object,Vic,689,observed
+2011,Jan-Jun,Non-collision transport accident,Vic,994,observed
+2011,Jan-Jun,Other,Vic,780,observed
+2011,Jan-Jun,"Car, pick-up truck or van",Qld,1025,observed
+2011,Jan-Jun,Fixed or stationary object,Qld,412,observed
+2011,Jan-Jun,Non-collision transport accident,Qld,888,observed
+2011,Jan-Jun,Other,Qld,692,observed
+2011,Jan-Jun,"Car, pick-up truck or van",WA,661,observed
+2011,Jan-Jun,Fixed or stationary object,WA,239,observed
+2011,Jan-Jun,Non-collision transport accident,WA,500,observed
+2011,Jan-Jun,Other,WA,324,observed
+2011,Jan-Jun,"Car, pick-up truck or van",SA,477,observed
+2011,Jan-Jun,Fixed or stationary object,SA,190,observed
+2011,Jan-Jun,Non-collision transport accident,SA,323,observed
+2011,Jan-Jun,Other,SA,157,observed
+2011,Jan-Jun,"Car, pick-up truck or van",Tas,98,observed
+2011,Jan-Jun,Fixed or stationary object,Tas,35,observed
+2011,Jan-Jun,Non-collision transport accident,Tas,68,observed
+2011,Jan-Jun,Other,Tas,46,observed
+2011,Jan-Jun,"Car, pick-up truck or van",ACT,93,observed
+2011,Jan-Jun,Fixed or stationary object,ACT,34,observed
+2011,Jan-Jun,Non-collision transport accident,ACT,97,observed
+2011,Jan-Jun,Other,ACT,59,observed
+2011,Jan-Jun,"Car, pick-up truck or van",NT,58,observed
+2011,Jan-Jun,Fixed or stationary object,NT,22,observed
+2011,Jan-Jun,Non-collision transport accident,NT,83,observed
+2011,Jan-Jun,Other,NT,50,observed
+2011,Jul-Dec,"Car, pick-up truck or van",NSW,2393,observed
+2011,Jul-Dec,Fixed or stationary object,NSW,783,observed
+2011,Jul-Dec,Non-collision transport accident,NSW,1182,observed
+2011,Jul-Dec,Other,NSW,1037,observed
+2011,Jul-Dec,"Car, pick-up truck or van",Vic,2186,observed
+2011,Jul-Dec,Fixed or stationary object,Vic,718,observed
+2011,Jul-Dec,Non-collision transport accident,Vic,981,observed
+2011,Jul-Dec,Other,Vic,856,observed
+2011,Jul-Dec,"Car, pick-up truck or van",Qld,1088,observed
+2011,Jul-Dec,Fixed or stationary object,Qld,389,observed
+2011,Jul-Dec,Non-collision transport accident,Qld,1081,observed
+2011,Jul-Dec,Other,Qld,747,observed
+2011,Jul-Dec,"Car, pick-up truck or van",WA,648,observed
+2011,Jul-Dec,Fixed or stationary object,WA,254,observed
+2011,Jul-Dec,Non-collision transport accident,WA,512,observed
+2011,Jul-Dec,Other,WA,304,observed
+2011,Jul-Dec,"Car, pick-up truck or van",SA,484,observed
+2011,Jul-Dec,Fixed or stationary object,SA,212,observed
+2011,Jul-Dec,Non-collision transport accident,SA,327,observed
+2011,Jul-Dec,Other,SA,189,observed
+2011,Jul-Dec,"Car, pick-up truck or van",Tas,74,observed
+2011,Jul-Dec,Fixed or stationary object,Tas,50,observed
+2011,Jul-Dec,Non-collision transport accident,Tas,70,observed
+2011,Jul-Dec,Other,Tas,52,observed
+2011,Jul-Dec,"Car, pick-up truck or van",ACT,84,observed
+2011,Jul-Dec,Fixed or stationary object,ACT,41,observed
+2011,Jul-Dec,Non-collision transport accident,ACT,80,observed
+2011,Jul-Dec,Other,ACT,49,observed
+2011,Jul-Dec,"Car, pick-up truck or van",NT,49,observed
+2011,Jul-Dec,Fixed or stationary object,NT,37,observed
+2011,Jul-Dec,Non-collision transport accident,NT,115,observed
+2011,Jul-Dec,Other,NT,42,observed
+2012,Jan-Jun,"Car, pick-up truck or van",NSW,2403,observed
+2012,Jan-Jun,Fixed or stationary object,NSW,776,observed
+2012,Jan-Jun,Non-collision transport accident,NSW,1195,observed
+2012,Jan-Jun,Other,NSW,1056,observed
+2012,Jan-Jun,"Car, pick-up truck or van",Vic,2129,observed
+2012,Jan-Jun,Fixed or stationary object,Vic,704,observed
+2012,Jan-Jun,Non-collision transport accident,Vic,1013,observed
+2012,Jan-Jun,Other,Vic,823,observed
+2012,Jan-Jun,"Car, pick-up truck or van",Qld,1079,observed
+2012,Jan-Jun,Fixed or stationary object,Qld,442,observed
+2012,Jan-Jun,Non-collision transport accident,Qld,944,observed
+2012,Jan-Jun,Other,Qld,701,observed
+2012,Jan-Jun,"Car, pick-up truck or van",WA,617,observed
+2012,Jan-Jun,Fixed or stationary object,WA,222,observed
+2012,Jan-Jun,Non-collision transport accident,WA,551,observed
+2012,Jan-Jun,Other,WA,302,observed
+2012,Jan-Jun,"Car, pick-up truck or van",SA,445,observed
+2012,Jan-Jun,Fixed or stationary object,SA,156,observed
+2012,Jan-Jun,Non-collision transport accident,SA,321,observed
+2012,Jan-Jun,Other,SA,185,observed
+2012,Jan-Jun,"Car, pick-up truck or van",Tas,89,observed
+2012,Jan-Jun,Fixed or stationary object,Tas,35,observed
+2012,Jan-Jun,Non-collision transport accident,Tas,101,observed
+2012,Jan-Jun,Other,Tas,46,observed
+2012,Jan-Jun,"Car, pick-up truck or van",ACT,127,observed
+2012,Jan-Jun,Fixed or stationary object,ACT,40,observed
+2012,Jan-Jun,Non-collision transport accident,ACT,107,observed
+2012,Jan-Jun,Other,ACT,39,observed
+2012,Jan-Jun,"Car, pick-up truck or van",NT,62,observed
+2012,Jan-Jun,Fixed or stationary object,NT,23,observed
+2012,Jan-Jun,Non-collision transport accident,NT,86,observed
+2012,Jan-Jun,Other,NT,44,observed
+2012,Jul-Dec,"Car, pick-up truck or van",NSW,2429,observed
+2012,Jul-Dec,Fixed or stationary object,NSW,848,observed
+2012,Jul-Dec,Non-collision transport accident,NSW,1311,observed
+2012,Jul-Dec,Other,NSW,1103,observed
+2012,Jul-Dec,"Car, pick-up truck or van",Vic,1601,observed
+2012,Jul-Dec,Fixed or stationary object,Vic,514,observed
+2012,Jul-Dec,Non-collision transport accident,Vic,682,observed
+2012,Jul-Dec,Other,Vic,632,observed
+2012,Jul-Dec,"Car, pick-up truck or van",Qld,1253,observed
+2012,Jul-Dec,Fixed or stationary object,Qld,534,observed
+2012,Jul-Dec,Non-collision transport accident,Qld,1082,observed
+2012,Jul-Dec,Other,Qld,778,observed
+2012,Jul-Dec,"Car, pick-up truck or van",WA,635,observed
+2012,Jul-Dec,Fixed or stationary object,WA,222,observed
+2012,Jul-Dec,Non-collision transport accident,WA,573,observed
+2012,Jul-Dec,Other,WA,371,observed
+2012,Jul-Dec,"Car, pick-up truck or van",SA,466,observed
+2012,Jul-Dec,Fixed or stationary object,SA,200,observed
+2012,Jul-Dec,Non-collision transport accident,SA,352,observed
+2012,Jul-Dec,Other,SA,186,observed
+2012,Jul-Dec,"Car, pick-up truck or van",Tas,79,observed
+2012,Jul-Dec,Fixed or stationary object,Tas,37,observed
+2012,Jul-Dec,Non-collision transport accident,Tas,92,observed
+2012,Jul-Dec,Other,Tas,57,observed
+2012,Jul-Dec,"Car, pick-up truck or van",ACT,96,observed
+2012,Jul-Dec,Fixed or stationary object,ACT,37,observed
+2012,Jul-Dec,Non-collision transport accident,ACT,100,observed
+2012,Jul-Dec,Other,ACT,55,observed
+2012,Jul-Dec,"Car, pick-up truck or van",NT,57,observed
+2012,Jul-Dec,Fixed or stationary object,NT,29,observed
+2012,Jul-Dec,Non-collision transport accident,NT,130,observed
+2012,Jul-Dec,Other,NT,65,observed
+2013,Jan-Jun,"Car, pick-up truck or van",NSW,2373,observed
+2013,Jan-Jun,Fixed or stationary object,NSW,775,observed
+2013,Jan-Jun,Non-collision transport accident,NSW,1343,observed
+2013,Jan-Jun,Other,NSW,977,observed
+2013,Jan-Jun,"Car, pick-up truck or van",Vic,1723,observed
+2013,Jan-Jun,Fixed or stationary object,Vic,564,observed
+2013,Jan-Jun,Non-collision transport accident,Vic,899,observed
+2013,Jan-Jun,Other,Vic,712,observed
+2013,Jan-Jun,"Car, pick-up truck or van",Qld,1306,observed
+2013,Jan-Jun,Fixed or stationary object,Qld,497,observed
+2013,Jan-Jun,Non-collision transport accident,Qld,1133,observed
+2013,Jan-Jun,Other,Qld,783,observed
+2013,Jan-Jun,"Car, pick-up truck or van",WA,638,observed
+2013,Jan-Jun,Fixed or stationary object,WA,247,observed
+2013,Jan-Jun,Non-collision transport accident,WA,523,observed
+2013,Jan-Jun,Other,WA,394,observed
+2013,Jan-Jun,"Car, pick-up truck or van",SA,385,observed
+2013,Jan-Jun,Fixed or stationary object,SA,183,observed
+2013,Jan-Jun,Non-collision transport accident,SA,332,observed
+2013,Jan-Jun,Other,SA,163,observed
+2013,Jan-Jun,"Car, pick-up truck or van",Tas,92,observed
+2013,Jan-Jun,Fixed or stationary object,Tas,58,observed
+2013,Jan-Jun,Non-collision transport accident,Tas,84,observed
+2013,Jan-Jun,Other,Tas,44,observed
+2013,Jan-Jun,"Car, pick-up truck or van",ACT,101,observed
+2013,Jan-Jun,Fixed or stationary object,ACT,33,observed
+2013,Jan-Jun,Non-collision transport accident,ACT,108,observed
+2013,Jan-Jun,Other,ACT,66,observed
+2013,Jan-Jun,"Car, pick-up truck or van",NT,66,observed
+2013,Jan-Jun,Fixed or stationary object,NT,39,observed
+2013,Jan-Jun,Non-collision transport accident,NT,120,observed
+2013,Jan-Jun,Other,NT,33,observed
+2013,Jul-Dec,"Car, pick-up truck or van",NSW,2675,observed
+2013,Jul-Dec,Fixed or stationary object,NSW,855,observed
+2013,Jul-Dec,Non-collision transport accident,NSW,1347,observed
+2013,Jul-Dec,Other,NSW,1076,observed
+2013,Jul-Dec,"Car, pick-up truck or van",Vic,1715,observed
+2013,Jul-Dec,Fixed or stationary object,Vic,613,observed
+2013,Jul-Dec,Non-collision transport accident,Vic,852,observed
+2013,Jul-Dec,Other,Vic,706,observed
+2013,Jul-Dec,"Car, pick-up truck or van",Qld,1427,observed
+2013,Jul-Dec,Fixed or stationary object,Qld,515,observed
+2013,Jul-Dec,Non-collision transport accident,Qld,1281,observed
+2013,Jul-Dec,Other,Qld,879,observed
+2013,Jul-Dec,"Car, pick-up truck or van",WA,603,observed
+2013,Jul-Dec,Fixed or stationary object,WA,213,observed
+2013,Jul-Dec,Non-collision transport accident,WA,525,observed
+2013,Jul-Dec,Other,WA,332,observed
+2013,Jul-Dec,"Car, pick-up truck or van",SA,457,observed
+2013,Jul-Dec,Fixed or stationary object,SA,167,observed
+2013,Jul-Dec,Non-collision transport accident,SA,340,observed
+2013,Jul-Dec,Other,SA,194,observed
+2013,Jul-Dec,"Car, pick-up truck or van",Tas,87,observed
+2013,Jul-Dec,Fixed or stationary object,Tas,38,observed
+2013,Jul-Dec,Non-collision transport accident,Tas,112,observed
+2013,Jul-Dec,Other,Tas,55,observed
+2013,Jul-Dec,"Car, pick-up truck or van",ACT,85,observed
+2013,Jul-Dec,Fixed or stationary object,ACT,45,observed
+2013,Jul-Dec,Non-collision transport accident,ACT,82,observed
+2013,Jul-Dec,Other,ACT,53,observed
+2013,Jul-Dec,"Car, pick-up truck or van",NT,58,observed
+2013,Jul-Dec,Fixed or stationary object,NT,48,observed
+2013,Jul-Dec,Non-collision transport accident,NT,151,observed
+2013,Jul-Dec,Other,NT,46,observed
+2014,Jan-Jun,"Car, pick-up truck or van",NSW,2458,observed
+2014,Jan-Jun,Fixed or stationary object,NSW,784,observed
+2014,Jan-Jun,Non-collision transport accident,NSW,1349,observed
+2014,Jan-Jun,Other,NSW,1031,observed
+2014,Jan-Jun,"Car, pick-up truck or van",Vic,1819,observed
+2014,Jan-Jun,Fixed or stationary object,Vic,636,observed
+2014,Jan-Jun,Non-collision transport accident,Vic,980,observed
+2014,Jan-Jun,Other,Vic,802,observed
+2014,Jan-Jun,"Car, pick-up truck or van",Qld,1289,observed
+2014,Jan-Jun,Fixed or stationary object,Qld,533,observed
+2014,Jan-Jun,Non-collision transport accident,Qld,1169,observed
+2014,Jan-Jun,Other,Qld,752,observed
+2014,Jan-Jun,"Car, pick-up truck or van",WA,550,observed
+2014,Jan-Jun,Fixed or stationary object,WA,217,observed
+2014,Jan-Jun,Non-collision transport accident,WA,518,observed
+2014,Jan-Jun,Other,WA,324,observed
+2014,Jan-Jun,"Car, pick-up truck or van",SA,465,observed
+2014,Jan-Jun,Fixed or stationary object,SA,187,observed
+2014,Jan-Jun,Non-collision transport accident,SA,375,observed
+2014,Jan-Jun,Other,SA,198,observed
+2014,Jan-Jun,"Car, pick-up truck or van",Tas,116,observed
+2014,Jan-Jun,Fixed or stationary object,Tas,49,observed
+2014,Jan-Jun,Non-collision transport accident,Tas,101,observed
+2014,Jan-Jun,Other,Tas,67,observed
+2014,Jan-Jun,"Car, pick-up truck or van",ACT,104,observed
+2014,Jan-Jun,Fixed or stationary object,ACT,44,observed
+2014,Jan-Jun,Non-collision transport accident,ACT,82,observed
+2014,Jan-Jun,Other,ACT,48,observed
+2014,Jan-Jun,"Car, pick-up truck or van",NT,70,observed
+2014,Jan-Jun,Fixed or stationary object,NT,44,observed
+2014,Jan-Jun,Non-collision transport accident,NT,141,observed
+2014,Jan-Jun,Other,NT,34,observed
+2014,Jul-Dec,"Car, pick-up truck or van",NSW,2547,observed
+2014,Jul-Dec,Fixed or stationary object,NSW,805,observed
+2014,Jul-Dec,Non-collision transport accident,NSW,1334,observed
+2014,Jul-Dec,Other,NSW,1005,observed
+2014,Jul-Dec,"Car, pick-up truck or van",Vic,1938,observed
+2014,Jul-Dec,Fixed or stationary object,Vic,632,observed
+2014,Jul-Dec,Non-collision transport accident,Vic,1000,observed
+2014,Jul-Dec,Other,Vic,716,observed
+2014,Jul-Dec,"Car, pick-up truck or van",Qld,1448,observed
+2014,Jul-Dec,Fixed or stationary object,Qld,541,observed
+2014,Jul-Dec,Non-collision transport accident,Qld,1176,observed
+2014,Jul-Dec,Other,Qld,817,observed
+2014,Jul-Dec,"Car, pick-up truck or van",WA,490,observed
+2014,Jul-Dec,Fixed or stationary object,WA,222,observed
+2014,Jul-Dec,Non-collision transport accident,WA,497,observed
+2014,Jul-Dec,Other,WA,336,observed
+2014,Jul-Dec,"Car, pick-up truck or van",SA,449,observed
+2014,Jul-Dec,Fixed or stationary object,SA,164,observed
+2014,Jul-Dec,Non-collision transport accident,SA,366,observed
+2014,Jul-Dec,Other,SA,177,observed
+2014,Jul-Dec,"Car, pick-up truck or van",Tas,87,observed
+2014,Jul-Dec,Fixed or stationary object,Tas,47,observed
+2014,Jul-Dec,Non-collision transport accident,Tas,116,observed
+2014,Jul-Dec,Other,Tas,63,observed
+2014,Jul-Dec,"Car, pick-up truck or van",ACT,87,observed
+2014,Jul-Dec,Fixed or stationary object,ACT,28,observed
+2014,Jul-Dec,Non-collision transport accident,ACT,103,observed
+2014,Jul-Dec,Other,ACT,46,observed
+2014,Jul-Dec,"Car, pick-up truck or van",NT,75,observed
+2014,Jul-Dec,Fixed or stationary object,NT,36,observed
+2014,Jul-Dec,Non-collision transport accident,NT,131,observed
+2014,Jul-Dec,Other,NT,44,observed
+2015,Jan-Jun,"Car, pick-up truck or van",NSW,2487,observed
+2015,Jan-Jun,Fixed or stationary object,NSW,886,observed
+2015,Jan-Jun,Non-collision transport accident,NSW,1347,observed
+2015,Jan-Jun,Other,NSW,901,observed
+2015,Jan-Jun,"Car, pick-up truck or van",Vic,1999,observed
+2015,Jan-Jun,Fixed or stationary object,Vic,641,observed
+2015,Jan-Jun,Non-collision transport accident,Vic,1071,observed
+2015,Jan-Jun,Other,Vic,821,observed
+2015,Jan-Jun,"Car, pick-up truck or van",Qld,1554,observed
+2015,Jan-Jun,Fixed or stationary object,Qld,533,observed
+2015,Jan-Jun,Non-collision transport accident,Qld,1182,observed
+2015,Jan-Jun,Other,Qld,813,observed
+2015,Jan-Jun,"Car, pick-up truck or van",WA,550,observed
+2015,Jan-Jun,Fixed or stationary object,WA,250,observed
+2015,Jan-Jun,Non-collision transport accident,WA,480,observed
+2015,Jan-Jun,Other,WA,307,observed
+2015,Jan-Jun,"Car, pick-up truck or van",SA,429,observed
+2015,Jan-Jun,Fixed or stationary object,SA,184,observed
+2015,Jan-Jun,Non-collision transport accident,SA,356,observed
+2015,Jan-Jun,Other,SA,211,observed
+2015,Jan-Jun,"Car, pick-up truck or van",Tas,101,observed
+2015,Jan-Jun,Fixed or stationary object,Tas,69,observed
+2015,Jan-Jun,Non-collision transport accident,Tas,112,observed
+2015,Jan-Jun,Other,Tas,63,observed
+2015,Jan-Jun,"Car, pick-up truck or van",ACT,105,observed
+2015,Jan-Jun,Fixed or stationary object,ACT,33,observed
+2015,Jan-Jun,Non-collision transport accident,ACT,126,observed
+2015,Jan-Jun,Other,ACT,72,observed
+2015,Jan-Jun,"Car, pick-up truck or van",NT,93,observed
+2015,Jan-Jun,Fixed or stationary object,NT,30,observed
+2015,Jan-Jun,Non-collision transport accident,NT,162,observed
+2015,Jan-Jun,Other,NT,38,observed
+2015,Jul-Dec,"Car, pick-up truck or van",NSW,2518,observed
+2015,Jul-Dec,Fixed or stationary object,NSW,783,observed
+2015,Jul-Dec,Non-collision transport accident,NSW,1310,observed
+2015,Jul-Dec,Other,NSW,852,observed
+2015,Jul-Dec,"Car, pick-up truck or van",Vic,2251,observed
+2015,Jul-Dec,Fixed or stationary object,Vic,609,observed
+2015,Jul-Dec,Non-collision transport accident,Vic,928,observed
+2015,Jul-Dec,Other,Vic,878,observed
+2015,Jul-Dec,"Car, pick-up truck or van",Qld,1565,observed
+2015,Jul-Dec,Fixed or stationary object,Qld,602,observed
+2015,Jul-Dec,Non-collision transport accident,Qld,1269,observed
+2015,Jul-Dec,Other,Qld,788,observed
+2015,Jul-Dec,"Car, pick-up truck or van",WA,550,observed
+2015,Jul-Dec,Fixed or stationary object,WA,209,observed
+2015,Jul-Dec,Non-collision transport accident,WA,493,observed
+2015,Jul-Dec,Other,WA,344,observed
+2015,Jul-Dec,"Car, pick-up truck or van",SA,488,observed
+2015,Jul-Dec,Fixed or stationary object,SA,210,observed
+2015,Jul-Dec,Non-collision transport accident,SA,390,observed
+2015,Jul-Dec,Other,SA,199,observed
+2015,Jul-Dec,"Car, pick-up truck or van",Tas,98,observed
+2015,Jul-Dec,Fixed or stationary object,Tas,62,observed
+2015,Jul-Dec,Non-collision transport accident,Tas,108,observed
+2015,Jul-Dec,Other,Tas,64,observed
+2015,Jul-Dec,"Car, pick-up truck or van",ACT,139,observed
+2015,Jul-Dec,Fixed or stationary object,ACT,43,observed
+2015,Jul-Dec,Non-collision transport accident,ACT,107,observed
+2015,Jul-Dec,Other,ACT,75,observed
+2015,Jul-Dec,"Car, pick-up truck or van",NT,89,observed
+2015,Jul-Dec,Fixed or stationary object,NT,53,observed
+2015,Jul-Dec,Non-collision transport accident,NT,177,observed
+2015,Jul-Dec,Other,NT,49,observed
+2016,Jan-Jun,"Car, pick-up truck or van",NSW,2596,observed
+2016,Jan-Jun,Fixed or stationary object,NSW,867,observed
+2016,Jan-Jun,Non-collision transport accident,NSW,1349,observed
+2016,Jan-Jun,Other,NSW,964,observed
+2016,Jan-Jun,"Car, pick-up truck or van",Vic,2377,observed
+2016,Jan-Jun,Fixed or stationary object,Vic,720,observed
+2016,Jan-Jun,Non-collision transport accident,Vic,1146,observed
+2016,Jan-Jun,Other,Vic,957,observed
+2016,Jan-Jun,"Car, pick-up truck or van",Qld,1625,observed
+2016,Jan-Jun,Fixed or stationary object,Qld,649,observed
+2016,Jan-Jun,Non-collision transport accident,Qld,1197,observed
+2016,Jan-Jun,Other,Qld,797,observed
+2016,Jan-Jun,"Car, pick-up truck or van",WA,576,observed
+2016,Jan-Jun,Fixed or stationary object,WA,172,observed
+2016,Jan-Jun,Non-collision transport accident,WA,452,observed
+2016,Jan-Jun,Other,WA,308,observed
+2016,Jan-Jun,"Car, pick-up truck or van",SA,540,observed
+2016,Jan-Jun,Fixed or stationary object,SA,192,observed
+2016,Jan-Jun,Non-collision transport accident,SA,391,observed
+2016,Jan-Jun,Other,SA,247,observed
+2016,Jan-Jun,"Car, pick-up truck or van",Tas,87,observed
+2016,Jan-Jun,Fixed or stationary object,Tas,44,observed
+2016,Jan-Jun,Non-collision transport accident,Tas,135,observed
+2016,Jan-Jun,Other,Tas,64,observed
+2016,Jan-Jun,"Car, pick-up truck or van",ACT,113,observed
+2016,Jan-Jun,Fixed or stationary object,ACT,35,observed
+2016,Jan-Jun,Non-collision transport accident,ACT,112,observed
+2016,Jan-Jun,Other,ACT,75,observed
+2016,Jan-Jun,"Car, pick-up truck or van",NT,81,observed
+2016,Jan-Jun,Fixed or stationary object,NT,56,observed
+2016,Jan-Jun,Non-collision transport accident,NT,117,observed
+2016,Jan-Jun,Other,NT,57,observed
+2016,Jul-Dec,"Car, pick-up truck or van",NSW,2621,observed
+2016,Jul-Dec,Fixed or stationary object,NSW,843,observed
+2016,Jul-Dec,Non-collision transport accident,NSW,1385,observed
+2016,Jul-Dec,Other,NSW,849,observed
+2016,Jul-Dec,"Car, pick-up truck or van",Vic,2541,observed
+2016,Jul-Dec,Fixed or stationary object,Vic,695,observed
+2016,Jul-Dec,Non-collision transport accident,Vic,1028,observed
+2016,Jul-Dec,Other,Vic,896,observed
+2016,Jul-Dec,"Car, pick-up truck or van",Qld,1755,observed
+2016,Jul-Dec,Fixed or stationary object,Qld,653,observed
+2016,Jul-Dec,Non-collision transport accident,Qld,1179,observed
+2016,Jul-Dec,Other,Qld,847,observed
+2016,Jul-Dec,"Car, pick-up truck or van",WA,510,observed
+2016,Jul-Dec,Fixed or stationary object,WA,238,observed
+2016,Jul-Dec,Non-collision transport accident,WA,440,observed
+2016,Jul-Dec,Other,WA,335,observed
+2016,Jul-Dec,"Car, pick-up truck or van",SA,524,observed
+2016,Jul-Dec,Fixed or stationary object,SA,195,observed
+2016,Jul-Dec,Non-collision transport accident,SA,374,observed
+2016,Jul-Dec,Other,SA,191,observed
+2016,Jul-Dec,"Car, pick-up truck or van",Tas,110,observed
+2016,Jul-Dec,Fixed or stationary object,Tas,54,observed
+2016,Jul-Dec,Non-collision transport accident,Tas,92,observed
+2016,Jul-Dec,Other,Tas,71,observed
+2016,Jul-Dec,"Car, pick-up truck or van",ACT,122,observed
+2016,Jul-Dec,Fixed or stationary object,ACT,43,observed
+2016,Jul-Dec,Non-collision transport accident,ACT,99,observed
+2016,Jul-Dec,Other,ACT,55,observed
+2016,Jul-Dec,"Car, pick-up truck or van",NT,87,observed
+2016,Jul-Dec,Fixed or stationary object,NT,65,observed
+2016,Jul-Dec,Non-collision transport accident,NT,187,observed
+2016,Jul-Dec,Other,NT,59,observed
+2017,Jan-Jun,"Car, pick-up truck or van",NSW,2558,observed
+2017,Jan-Jun,Fixed or stationary object,NSW,800,observed
+2017,Jan-Jun,Non-collision transport accident,NSW,1328,observed
+2017,Jan-Jun,Other,NSW,914,observed
+2017,Jan-Jun,"Car, pick-up truck or van",Vic,2665,observed
+2017,Jan-Jun,Fixed or stationary object,Vic,734,observed
+2017,Jan-Jun,Non-collision transport accident,Vic,1155,observed
+2017,Jan-Jun,Other,Vic,894,observed
+2017,Jan-Jun,"Car, pick-up truck or van",Qld,1802,observed
+2017,Jan-Jun,Fixed or stationary object,Qld,559,observed
+2017,Jan-Jun,Non-collision transport accident,Qld,1209,observed
+2017,Jan-Jun,Other,Qld,850,observed
+2017,Jan-Jun,"Car, pick-up truck or van",WA,548,observed
+2017,Jan-Jun,Fixed or stationary object,WA,211,observed
+2017,Jan-Jun,Non-collision transport accident,WA,491,observed
+2017,Jan-Jun,Other,WA,366,observed
+2017,Jan-Jun,"Car, pick-up truck or van",SA,508,observed
+2017,Jan-Jun,Fixed or stationary object,SA,181,observed
+2017,Jan-Jun,Non-collision transport accident,SA,380,observed
+2017,Jan-Jun,Other,SA,244,observed
+2017,Jan-Jun,"Car, pick-up truck or van",Tas,99,observed
+2017,Jan-Jun,Fixed or stationary object,Tas,53,observed
+2017,Jan-Jun,Non-collision transport accident,Tas,127,observed
+2017,Jan-Jun,Other,Tas,59,observed
+2017,Jan-Jun,"Car, pick-up truck or van",ACT,114,observed
+2017,Jan-Jun,Fixed or stationary object,ACT,29,observed
+2017,Jan-Jun,Non-collision transport accident,ACT,132,observed
+2017,Jan-Jun,Other,ACT,62,observed
+2017,Jan-Jun,"Car, pick-up truck or van",NT,107,observed
+2017,Jan-Jun,Fixed or stationary object,NT,46,observed
+2017,Jan-Jun,Non-collision transport accident,NT,99,observed
+2017,Jan-Jun,Other,NT,44,observed
+2017,Jul-Dec,"Car, pick-up truck or van",NSW,2454,observed
+2017,Jul-Dec,Fixed or stationary object,NSW,740,observed
+2017,Jul-Dec,Non-collision transport accident,NSW,1310,observed
+2017,Jul-Dec,Other,NSW,912,observed
+2017,Jul-Dec,"Car, pick-up truck or van",Vic,2614,observed
+2017,Jul-Dec,Fixed or stationary object,Vic,775,observed
+2017,Jul-Dec,Non-collision transport accident,Vic,1111,observed
+2017,Jul-Dec,Other,Vic,846,observed
+2017,Jul-Dec,"Car, pick-up truck or van",Qld,1872,observed
+2017,Jul-Dec,Fixed or stationary object,Qld,665,observed
+2017,Jul-Dec,Non-collision transport accident,Qld,1337,observed
+2017,Jul-Dec,Other,Qld,840,observed
+2017,Jul-Dec,"Car, pick-up truck or van",WA,543,observed
+2017,Jul-Dec,Fixed or stationary object,WA,225,observed
+2017,Jul-Dec,Non-collision transport accident,WA,478,observed
+2017,Jul-Dec,Other,WA,333,observed
+2017,Jul-Dec,"Car, pick-up truck or van",SA,382,observed
+2017,Jul-Dec,Fixed or stationary object,SA,191,observed
+2017,Jul-Dec,Non-collision transport accident,SA,308,observed
+2017,Jul-Dec,Other,SA,200,observed
+2017,Jul-Dec,"Car, pick-up truck or van",Tas,113,observed
+2017,Jul-Dec,Fixed or stationary object,Tas,57,observed
+2017,Jul-Dec,Non-collision transport accident,Tas,107,observed
+2017,Jul-Dec,Other,Tas,44,observed
+2017,Jul-Dec,"Car, pick-up truck or van",ACT,107,observed
+2017,Jul-Dec,Fixed or stationary object,ACT,45,observed
+2017,Jul-Dec,Non-collision transport accident,ACT,87,observed
+2017,Jul-Dec,Other,ACT,56,observed
+2017,Jul-Dec,"Car, pick-up truck or van",NT,105,observed
+2017,Jul-Dec,Fixed or stationary object,NT,47,observed
+2017,Jul-Dec,Non-collision transport accident,NT,193,observed
+2017,Jul-Dec,Other,NT,62,observed
+2018,Jan-Jun,"Car, pick-up truck or van",NSW,2117,observed
+2018,Jan-Jun,Fixed or stationary object,NSW,702,observed
+2018,Jan-Jun,Non-collision transport accident,NSW,1257,observed
+2018,Jan-Jun,Other,NSW,841,observed
+2018,Jan-Jun,"Car, pick-up truck or van",Vic,2902,observed
+2018,Jan-Jun,Fixed or stationary object,Vic,779,observed
+2018,Jan-Jun,Non-collision transport accident,Vic,1272,observed
+2018,Jan-Jun,Other,Vic,948,observed
+2018,Jan-Jun,"Car, pick-up truck or van",Qld,1796,observed
+2018,Jan-Jun,Fixed or stationary object,Qld,628,observed
+2018,Jan-Jun,Non-collision transport accident,Qld,1301,observed
+2018,Jan-Jun,Other,Qld,822,observed
+2018,Jan-Jun,"Car, pick-up truck or van",WA,578,observed
+2018,Jan-Jun,Fixed or stationary object,WA,207,observed
+2018,Jan-Jun,Non-collision transport accident,WA,495,observed
+2018,Jan-Jun,Other,WA,359,observed
+2018,Jan-Jun,"Car, pick-up truck or van",SA,456,observed
+2018,Jan-Jun,Fixed or stationary object,SA,167,observed
+2018,Jan-Jun,Non-collision transport accident,SA,383,observed
+2018,Jan-Jun,Other,SA,210,observed
+2018,Jan-Jun,"Car, pick-up truck or van",Tas,112,observed
+2018,Jan-Jun,Fixed or stationary object,Tas,56,observed
+2018,Jan-Jun,Non-collision transport accident,Tas,141,observed
+2018,Jan-Jun,Other,Tas,63,observed
+2018,Jan-Jun,"Car, pick-up truck or van",ACT,144,observed
+2018,Jan-Jun,Fixed or stationary object,ACT,40,observed
+2018,Jan-Jun,Non-collision transport accident,ACT,124,observed
+2018,Jan-Jun,Other,ACT,60,observed
+2018,Jan-Jun,"Car, pick-up truck or van",NT,121,observed
+2018,Jan-Jun,Fixed or stationary object,NT,69,observed
+2018,Jan-Jun,Non-collision transport accident,NT,166,observed
+2018,Jan-Jun,Other,NT,56,observed
+2018,Jul-Dec,"Car, pick-up truck or van",NSW,2017,observed
+2018,Jul-Dec,Fixed or stationary object,NSW,708,observed
+2018,Jul-Dec,Non-collision transport accident,NSW,1254,observed
+2018,Jul-Dec,Other,NSW,898,observed
+2018,Jul-Dec,"Car, pick-up truck or van",Vic,2773,observed
+2018,Jul-Dec,Fixed or stationary object,Vic,828,observed
+2018,Jul-Dec,Non-collision transport accident,Vic,1037,observed
+2018,Jul-Dec,Other,Vic,914,observed
+2018,Jul-Dec,"Car, pick-up truck or van",Qld,1953,observed
+2018,Jul-Dec,Fixed or stationary object,Qld,643,observed
+2018,Jul-Dec,Non-collision transport accident,Qld,1406,observed
+2018,Jul-Dec,Other,Qld,832,observed
+2018,Jul-Dec,"Car, pick-up truck or van",WA,601,observed
+2018,Jul-Dec,Fixed or stationary object,WA,251,observed
+2018,Jul-Dec,Non-collision transport accident,WA,463,observed
+2018,Jul-Dec,Other,WA,320,observed
+2018,Jul-Dec,"Car, pick-up truck or van",SA,470,observed
+2018,Jul-Dec,Fixed or stationary object,SA,217,observed
+2018,Jul-Dec,Non-collision transport accident,SA,346,observed
+2018,Jul-Dec,Other,SA,240,observed
+2018,Jul-Dec,"Car, pick-up truck or van",Tas,142,observed
+2018,Jul-Dec,Fixed or stationary object,Tas,59,observed
+2018,Jul-Dec,Non-collision transport accident,Tas,153,observed
+2018,Jul-Dec,Other,Tas,55,observed
+2018,Jul-Dec,"Car, pick-up truck or van",ACT,139,observed
+2018,Jul-Dec,Fixed or stationary object,ACT,39,observed
+2018,Jul-Dec,Non-collision transport accident,ACT,89,observed
+2018,Jul-Dec,Other,ACT,77,observed
+2018,Jul-Dec,"Car, pick-up truck or van",NT,119,observed
+2018,Jul-Dec,Fixed or stationary object,NT,60,observed
+2018,Jul-Dec,Non-collision transport accident,NT,196,observed
+2018,Jul-Dec,Other,NT,45,observed
+2019,Jan-Jun,"Car, pick-up truck or van",NSW,2139,observed
+2019,Jan-Jun,Fixed or stationary object,NSW,720,observed
+2019,Jan-Jun,Non-collision transport accident,NSW,1259,observed
+2019,Jan-Jun,Other,NSW,871,observed
+2019,Jan-Jun,"Car, pick-up truck or van",Vic,2885,observed
+2019,Jan-Jun,Fixed or stationary object,Vic,800,observed
+2019,Jan-Jun,Non-collision transport accident,Vic,1195,observed
+2019,Jan-Jun,Other,Vic,1023,observed
+2019,Jan-Jun,"Car, pick-up truck or van",Qld,1884,observed
+2019,Jan-Jun,Fixed or stationary object,Qld,675,observed
+2019,Jan-Jun,Non-collision transport accident,Qld,1268,observed
+2019,Jan-Jun,Other,Qld,816,observed
+2019,Jan-Jun,"Car, pick-up truck or van",WA,604,observed
+2019,Jan-Jun,Fixed or stationary object,WA,241,observed
+2019,Jan-Jun,Non-collision transport accident,WA,483,observed
+2019,Jan-Jun,Other,WA,351,observed
+2019,Jan-Jun,"Car, pick-up truck or van",SA,442,observed
+2019,Jan-Jun,Fixed or stationary object,SA,181,observed
+2019,Jan-Jun,Non-collision transport accident,SA,359,observed
+2019,Jan-Jun,Other,SA,239,observed
+2019,Jan-Jun,"Car, pick-up truck or van",Tas,122,observed
+2019,Jan-Jun,Fixed or stationary object,Tas,64,observed
+2019,Jan-Jun,Non-collision transport accident,Tas,117,observed
+2019,Jan-Jun,Other,Tas,85,observed
+2019,Jan-Jun,"Car, pick-up truck or van",ACT,138,observed
+2019,Jan-Jun,Fixed or stationary object,ACT,44,observed
+2019,Jan-Jun,Non-collision transport accident,ACT,116,observed
+2019,Jan-Jun,Other,ACT,64,observed
+2019,Jan-Jun,"Car, pick-up truck or van",NT,68,observed
+2019,Jan-Jun,Fixed or stationary object,NT,52,observed
+2019,Jan-Jun,Non-collision transport accident,NT,145,observed
+2019,Jan-Jun,Other,NT,55,observed
+2019,Jul-Dec,"Car, pick-up truck or van",NSW,2164,observed
+2019,Jul-Dec,Fixed or stationary object,NSW,654,observed
+2019,Jul-Dec,Non-collision transport accident,NSW,1242,observed
+2019,Jul-Dec,Other,NSW,893,observed
+2019,Jul-Dec,"Car, pick-up truck or van",Vic,2745,observed
+2019,Jul-Dec,Fixed or stationary object,Vic,724,observed
+2019,Jul-Dec,Non-collision transport accident,Vic,1019,observed
+2019,Jul-Dec,Other,Vic,1001,observed
+2019,Jul-Dec,"Car, pick-up truck or van",Qld,2001,observed
+2019,Jul-Dec,Fixed or stationary object,Qld,647,observed
+2019,Jul-Dec,Non-collision transport accident,Qld,1343,observed
+2019,Jul-Dec,Other,Qld,881,observed
+2019,Jul-Dec,"Car, pick-up truck or van",WA,666,observed
+2019,Jul-Dec,Fixed or stationary object,WA,271,observed
+2019,Jul-Dec,Non-collision transport accident,WA,585,observed
+2019,Jul-Dec,Other,WA,333,observed
+2019,Jul-Dec,"Car, pick-up truck or van",SA,482,observed
+2019,Jul-Dec,Fixed or stationary object,SA,173,observed
+2019,Jul-Dec,Non-collision transport accident,SA,329,observed
+2019,Jul-Dec,Other,SA,252,observed
+2019,Jul-Dec,"Car, pick-up truck or van",Tas,101,observed
+2019,Jul-Dec,Fixed or stationary object,Tas,51,observed
+2019,Jul-Dec,Non-collision transport accident,Tas,96,observed
+2019,Jul-Dec,Other,Tas,72,observed
+2019,Jul-Dec,"Car, pick-up truck or van",ACT,105,observed
+2019,Jul-Dec,Fixed or stationary object,ACT,38,observed
+2019,Jul-Dec,Non-collision transport accident,ACT,97,observed
+2019,Jul-Dec,Other,ACT,63,observed
+2019,Jul-Dec,"Car, pick-up truck or van",NT,87,observed
+2019,Jul-Dec,Fixed or stationary object,NT,62,observed
+2019,Jul-Dec,Non-collision transport accident,NT,132,observed
+2019,Jul-Dec,Other,NT,55,observed
+2020,Jan-Jun,"Car, pick-up truck or van",NSW,1591,observed
+2020,Jan-Jun,Fixed or stationary object,NSW,651,observed
+2020,Jan-Jun,Non-collision transport accident,NSW,1194,observed
+2020,Jan-Jun,Other,NSW,755,observed
+2020,Jan-Jun,"Car, pick-up truck or van",Vic,2268,observed
+2020,Jan-Jun,Fixed or stationary object,Vic,674,observed
+2020,Jan-Jun,Non-collision transport accident,Vic,1140,observed
+2020,Jan-Jun,Other,Vic,948,observed
+2020,Jan-Jun,"Car, pick-up truck or van",Qld,1549,observed
+2020,Jan-Jun,Fixed or stationary object,Qld,627,observed
+2020,Jan-Jun,Non-collision transport accident,Qld,1332,observed
+2020,Jan-Jun,Other,Qld,779,observed
+2020,Jan-Jun,"Car, pick-up truck or van",WA,486,observed
+2020,Jan-Jun,Fixed or stationary object,WA,287,observed
+2020,Jan-Jun,Non-collision transport accident,WA,583,observed
+2020,Jan-Jun,Other,WA,348,observed
+2020,Jan-Jun,"Car, pick-up truck or van",SA,411,observed
+2020,Jan-Jun,Fixed or stationary object,SA,184,observed
+2020,Jan-Jun,Non-collision transport accident,SA,367,observed
+2020,Jan-Jun,Other,SA,209,observed
+2020,Jan-Jun,"Car, pick-up truck or van",Tas,109,observed
+2020,Jan-Jun,Fixed or stationary object,Tas,45,observed
+2020,Jan-Jun,Non-collision transport accident,Tas,117,observed
+2020,Jan-Jun,Other,Tas,57,observed
+2020,Jan-Jun,"Car, pick-up truck or van",ACT,78,observed
+2020,Jan-Jun,Fixed or stationary object,ACT,41,observed
+2020,Jan-Jun,Non-collision transport accident,ACT,99,observed
+2020,Jan-Jun,Other,ACT,68,observed
+2020,Jan-Jun,"Car, pick-up truck or van",NT,82,observed
+2020,Jan-Jun,Fixed or stationary object,NT,56,observed
+2020,Jan-Jun,Non-collision transport accident,NT,122,observed
+2020,Jan-Jun,Other,NT,62,observed
+2020,Jul-Dec,"Car, pick-up truck or van",NSW,2139,observed
+2020,Jul-Dec,Fixed or stationary object,NSW,754,observed
+2020,Jul-Dec,Non-collision transport accident,NSW,1351,observed
+2020,Jul-Dec,Other,NSW,839,observed
+2020,Jul-Dec,"Car, pick-up truck or van",Vic,1922,observed
+2020,Jul-Dec,Fixed or stationary object,Vic,674,observed
+2020,Jul-Dec,Non-collision transport accident,Vic,1337,observed
+2020,Jul-Dec,Other,Vic,921,observed
+2020,Jul-Dec,"Car, pick-up truck or van",Qld,2193,observed
+2020,Jul-Dec,Fixed or stationary object,Qld,889,observed
+2020,Jul-Dec,Non-collision transport accident,Qld,1564,observed
+2020,Jul-Dec,Other,Qld,868,observed
+2020,Jul-Dec,"Car, pick-up truck or van",WA,677,observed
+2020,Jul-Dec,Fixed or stationary object,WA,298,observed
+2020,Jul-Dec,Non-collision transport accident,WA,588,observed
+2020,Jul-Dec,Other,WA,369,observed
+2020,Jul-Dec,"Car, pick-up truck or van",SA,505,observed
+2020,Jul-Dec,Fixed or stationary object,SA,197,observed
+2020,Jul-Dec,Non-collision transport accident,SA,416,observed
+2020,Jul-Dec,Other,SA,214,observed
+2020,Jul-Dec,"Car, pick-up truck or van",Tas,124,observed
+2020,Jul-Dec,Fixed or stationary object,Tas,65,observed
+2020,Jul-Dec,Non-collision transport accident,Tas,173,observed
+2020,Jul-Dec,Other,Tas,88,observed
+2020,Jul-Dec,"Car, pick-up truck or van",ACT,106,observed
+2020,Jul-Dec,Fixed or stationary object,ACT,45,observed
+2020,Jul-Dec,Non-collision transport accident,ACT,118,observed
+2020,Jul-Dec,Other,ACT,74,observed
+2020,Jul-Dec,"Car, pick-up truck or van",NT,124,observed
+2020,Jul-Dec,Fixed or stationary object,NT,72,observed
+2020,Jul-Dec,Non-collision transport accident,NT,216,observed
+2020,Jul-Dec,Other,NT,53,observed
+2021,Jan-Jun,"Car, pick-up truck or van",NSW,2085,observed
+2021,Jan-Jun,Fixed or stationary object,NSW,729,observed
+2021,Jan-Jun,Non-collision transport accident,NSW,1325,observed
+2021,Jan-Jun,Other,NSW,866,observed
+2021,Jan-Jun,"Car, pick-up truck or van",Vic,2701,observed
+2021,Jan-Jun,Fixed or stationary object,Vic,764,observed
+2021,Jan-Jun,Non-collision transport accident,Vic,1420,observed
+2021,Jan-Jun,Other,Vic,1036,observed
+2021,Jan-Jun,"Car, pick-up truck or van",Qld,2152,observed
+2021,Jan-Jun,Fixed or stationary object,Qld,741,observed
+2021,Jan-Jun,Non-collision transport accident,Qld,1394,observed
+2021,Jan-Jun,Other,Qld,840,observed
+2021,Jan-Jun,"Car, pick-up truck or van",WA,669,observed
+2021,Jan-Jun,Fixed or stationary object,WA,267,observed
+2021,Jan-Jun,Non-collision transport accident,WA,522,observed
+2021,Jan-Jun,Other,WA,342,observed
+2021,Jan-Jun,"Car, pick-up truck or van",SA,568,observed
+2021,Jan-Jun,Fixed or stationary object,SA,196,observed
+2021,Jan-Jun,Non-collision transport accident,SA,342,observed
+2021,Jan-Jun,Other,SA,231,observed
+2021,Jan-Jun,"Car, pick-up truck or van",Tas,156,observed
+2021,Jan-Jun,Fixed or stationary object,Tas,65,observed
+2021,Jan-Jun,Non-collision transport accident,Tas,127,observed
+2021,Jan-Jun,Other,Tas,74,observed
+2021,Jan-Jun,"Car, pick-up truck or van",ACT,151,observed
+2021,Jan-Jun,Fixed or stationary object,ACT,52,observed
+2021,Jan-Jun,Non-collision transport accident,ACT,146,observed
+2021,Jan-Jun,Other,ACT,92,observed
+2021,Jan-Jun,"Car, pick-up truck or van",NT,117,observed
+2021,Jan-Jun,Fixed or stationary object,NT,33,observed
+2021,Jan-Jun,Non-collision transport accident,NT,144,observed
+2021,Jan-Jun,Other,NT,54,observed
+2021,Jul-Dec,"Car, pick-up truck or van",NSW,1369,observed
+2021,Jul-Dec,Fixed or stationary object,NSW,585,observed
+2021,Jul-Dec,Non-collision transport accident,NSW,1238,observed
+2021,Jul-Dec,Other,NSW,806,observed
+2021,Jul-Dec,"Car, pick-up truck or van",Vic,2283,observed
+2021,Jul-Dec,Fixed or stationary object,Vic,710,observed
+2021,Jul-Dec,Non-collision transport accident,Vic,1254,observed
+2021,Jul-Dec,Other,Vic,962,observed
+2021,Jul-Dec,"Car, pick-up truck or van",Qld,2244,observed
+2021,Jul-Dec,Fixed or stationary object,Qld,769,observed
+2021,Jul-Dec,Non-collision transport accident,Qld,1437,observed
+2021,Jul-Dec,Other,Qld,870,observed
+2021,Jul-Dec,"Car, pick-up truck or van",WA,645,observed
+2021,Jul-Dec,Fixed or stationary object,WA,250,observed
+2021,Jul-Dec,Non-collision transport accident,WA,532,observed
+2021,Jul-Dec,Other,WA,341,observed
+2021,Jul-Dec,"Car, pick-up truck or van",SA,525,observed
+2021,Jul-Dec,Fixed or stationary object,SA,222,observed
+2021,Jul-Dec,Non-collision transport accident,SA,328,observed
+2021,Jul-Dec,Other,SA,220,observed
+2021,Jul-Dec,"Car, pick-up truck or van",Tas,138,observed
+2021,Jul-Dec,Fixed or stationary object,Tas,69,observed
+2021,Jul-Dec,Non-collision transport accident,Tas,114,observed
+2021,Jul-Dec,Other,Tas,62,observed
+2021,Jul-Dec,"Car, pick-up truck or van",ACT,81,observed
+2021,Jul-Dec,Fixed or stationary object,ACT,30,observed
+2021,Jul-Dec,Non-collision transport accident,ACT,102,observed
+2021,Jul-Dec,Other,ACT,86,observed
+2021,Jul-Dec,"Car, pick-up truck or van",NT,88,observed
+2021,Jul-Dec,Fixed or stationary object,NT,51,observed
+2021,Jul-Dec,Non-collision transport accident,NT,171,observed
+2021,Jul-Dec,Other,NT,52,observed

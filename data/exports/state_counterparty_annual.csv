@@ -1,0 +1,353 @@
+year,state,counterparty,annual_status,hospitalisations
+2011,ACT,"Car, pick-up truck or van",complete,177
+2011,ACT,Fixed or stationary object,complete,75
+2011,ACT,Non-collision transport accident,complete,177
+2011,ACT,Other,complete,108
+2011,NSW,"Car, pick-up truck or van",complete,4679
+2011,NSW,Fixed or stationary object,complete,1543
+2011,NSW,Non-collision transport accident,complete,2349
+2011,NSW,Other,complete,2047
+2011,NT,"Car, pick-up truck or van",complete,107
+2011,NT,Fixed or stationary object,complete,59
+2011,NT,Non-collision transport accident,complete,198
+2011,NT,Other,complete,92
+2011,Qld,"Car, pick-up truck or van",complete,2113
+2011,Qld,Fixed or stationary object,complete,801
+2011,Qld,Non-collision transport accident,complete,1969
+2011,Qld,Other,complete,1439
+2011,SA,"Car, pick-up truck or van",complete,961
+2011,SA,Fixed or stationary object,complete,402
+2011,SA,Non-collision transport accident,complete,650
+2011,SA,Other,complete,346
+2011,Tas,"Car, pick-up truck or van",complete,172
+2011,Tas,Fixed or stationary object,complete,85
+2011,Tas,Non-collision transport accident,complete,138
+2011,Tas,Other,complete,98
+2011,Vic,"Car, pick-up truck or van",complete,4308
+2011,Vic,Fixed or stationary object,complete,1407
+2011,Vic,Non-collision transport accident,complete,1975
+2011,Vic,Other,complete,1636
+2011,WA,"Car, pick-up truck or van",complete,1309
+2011,WA,Fixed or stationary object,complete,493
+2011,WA,Non-collision transport accident,complete,1012
+2011,WA,Other,complete,628
+2012,ACT,"Car, pick-up truck or van",complete,223
+2012,ACT,Fixed or stationary object,complete,77
+2012,ACT,Non-collision transport accident,complete,207
+2012,ACT,Other,complete,94
+2012,NSW,"Car, pick-up truck or van",complete,4832
+2012,NSW,Fixed or stationary object,complete,1624
+2012,NSW,Non-collision transport accident,complete,2506
+2012,NSW,Other,complete,2159
+2012,NT,"Car, pick-up truck or van",complete,119
+2012,NT,Fixed or stationary object,complete,52
+2012,NT,Non-collision transport accident,complete,216
+2012,NT,Other,complete,109
+2012,Qld,"Car, pick-up truck or van",complete,2332
+2012,Qld,Fixed or stationary object,complete,976
+2012,Qld,Non-collision transport accident,complete,2026
+2012,Qld,Other,complete,1479
+2012,SA,"Car, pick-up truck or van",complete,911
+2012,SA,Fixed or stationary object,complete,356
+2012,SA,Non-collision transport accident,complete,673
+2012,SA,Other,complete,371
+2012,Tas,"Car, pick-up truck or van",complete,168
+2012,Tas,Fixed or stationary object,complete,72
+2012,Tas,Non-collision transport accident,complete,193
+2012,Tas,Other,complete,103
+2012,Vic,"Car, pick-up truck or van",complete,3730
+2012,Vic,Fixed or stationary object,complete,1218
+2012,Vic,Non-collision transport accident,complete,1695
+2012,Vic,Other,complete,1455
+2012,WA,"Car, pick-up truck or van",complete,1252
+2012,WA,Fixed or stationary object,complete,444
+2012,WA,Non-collision transport accident,complete,1124
+2012,WA,Other,complete,673
+2013,ACT,"Car, pick-up truck or van",complete,186
+2013,ACT,Fixed or stationary object,complete,78
+2013,ACT,Non-collision transport accident,complete,190
+2013,ACT,Other,complete,119
+2013,NSW,"Car, pick-up truck or van",complete,5048
+2013,NSW,Fixed or stationary object,complete,1630
+2013,NSW,Non-collision transport accident,complete,2690
+2013,NSW,Other,complete,2053
+2013,NT,"Car, pick-up truck or van",complete,124
+2013,NT,Fixed or stationary object,complete,87
+2013,NT,Non-collision transport accident,complete,271
+2013,NT,Other,complete,79
+2013,Qld,"Car, pick-up truck or van",complete,2733
+2013,Qld,Fixed or stationary object,complete,1012
+2013,Qld,Non-collision transport accident,complete,2414
+2013,Qld,Other,complete,1662
+2013,SA,"Car, pick-up truck or van",complete,842
+2013,SA,Fixed or stationary object,complete,350
+2013,SA,Non-collision transport accident,complete,672
+2013,SA,Other,complete,357
+2013,Tas,"Car, pick-up truck or van",complete,179
+2013,Tas,Fixed or stationary object,complete,96
+2013,Tas,Non-collision transport accident,complete,196
+2013,Tas,Other,complete,99
+2013,Vic,"Car, pick-up truck or van",complete,3438
+2013,Vic,Fixed or stationary object,complete,1177
+2013,Vic,Non-collision transport accident,complete,1751
+2013,Vic,Other,complete,1418
+2013,WA,"Car, pick-up truck or van",complete,1241
+2013,WA,Fixed or stationary object,complete,460
+2013,WA,Non-collision transport accident,complete,1048
+2013,WA,Other,complete,726
+2014,ACT,"Car, pick-up truck or van",complete,191
+2014,ACT,Fixed or stationary object,complete,72
+2014,ACT,Non-collision transport accident,complete,185
+2014,ACT,Other,complete,94
+2014,NSW,"Car, pick-up truck or van",complete,5005
+2014,NSW,Fixed or stationary object,complete,1589
+2014,NSW,Non-collision transport accident,complete,2683
+2014,NSW,Other,complete,2036
+2014,NT,"Car, pick-up truck or van",complete,145
+2014,NT,Fixed or stationary object,complete,80
+2014,NT,Non-collision transport accident,complete,272
+2014,NT,Other,complete,78
+2014,Qld,"Car, pick-up truck or van",complete,2737
+2014,Qld,Fixed or stationary object,complete,1074
+2014,Qld,Non-collision transport accident,complete,2345
+2014,Qld,Other,complete,1569
+2014,SA,"Car, pick-up truck or van",complete,914
+2014,SA,Fixed or stationary object,complete,351
+2014,SA,Non-collision transport accident,complete,741
+2014,SA,Other,complete,375
+2014,Tas,"Car, pick-up truck or van",complete,203
+2014,Tas,Fixed or stationary object,complete,96
+2014,Tas,Non-collision transport accident,complete,217
+2014,Tas,Other,complete,130
+2014,Vic,"Car, pick-up truck or van",complete,3757
+2014,Vic,Fixed or stationary object,complete,1268
+2014,Vic,Non-collision transport accident,complete,1980
+2014,Vic,Other,complete,1518
+2014,WA,"Car, pick-up truck or van",complete,1040
+2014,WA,Fixed or stationary object,complete,439
+2014,WA,Non-collision transport accident,complete,1015
+2014,WA,Other,complete,660
+2015,ACT,"Car, pick-up truck or van",complete,244
+2015,ACT,Fixed or stationary object,complete,76
+2015,ACT,Non-collision transport accident,complete,233
+2015,ACT,Other,complete,147
+2015,NSW,"Car, pick-up truck or van",complete,5005
+2015,NSW,Fixed or stationary object,complete,1669
+2015,NSW,Non-collision transport accident,complete,2657
+2015,NSW,Other,complete,1753
+2015,NT,"Car, pick-up truck or van",complete,182
+2015,NT,Fixed or stationary object,complete,83
+2015,NT,Non-collision transport accident,complete,339
+2015,NT,Other,complete,87
+2015,Qld,"Car, pick-up truck or van",complete,3119
+2015,Qld,Fixed or stationary object,complete,1135
+2015,Qld,Non-collision transport accident,complete,2451
+2015,Qld,Other,complete,1601
+2015,SA,"Car, pick-up truck or van",complete,917
+2015,SA,Fixed or stationary object,complete,394
+2015,SA,Non-collision transport accident,complete,746
+2015,SA,Other,complete,410
+2015,Tas,"Car, pick-up truck or van",complete,199
+2015,Tas,Fixed or stationary object,complete,131
+2015,Tas,Non-collision transport accident,complete,220
+2015,Tas,Other,complete,127
+2015,Vic,"Car, pick-up truck or van",complete,4250
+2015,Vic,Fixed or stationary object,complete,1250
+2015,Vic,Non-collision transport accident,complete,1999
+2015,Vic,Other,complete,1699
+2015,WA,"Car, pick-up truck or van",complete,1100
+2015,WA,Fixed or stationary object,complete,459
+2015,WA,Non-collision transport accident,complete,973
+2015,WA,Other,complete,651
+2016,ACT,"Car, pick-up truck or van",complete,235
+2016,ACT,Fixed or stationary object,complete,78
+2016,ACT,Non-collision transport accident,complete,211
+2016,ACT,Other,complete,130
+2016,NSW,"Car, pick-up truck or van",complete,5217
+2016,NSW,Fixed or stationary object,complete,1710
+2016,NSW,Non-collision transport accident,complete,2734
+2016,NSW,Other,complete,1813
+2016,NT,"Car, pick-up truck or van",complete,168
+2016,NT,Fixed or stationary object,complete,121
+2016,NT,Non-collision transport accident,complete,304
+2016,NT,Other,complete,116
+2016,Qld,"Car, pick-up truck or van",complete,3380
+2016,Qld,Fixed or stationary object,complete,1302
+2016,Qld,Non-collision transport accident,complete,2376
+2016,Qld,Other,complete,1644
+2016,SA,"Car, pick-up truck or van",complete,1064
+2016,SA,Fixed or stationary object,complete,387
+2016,SA,Non-collision transport accident,complete,765
+2016,SA,Other,complete,438
+2016,Tas,"Car, pick-up truck or van",complete,197
+2016,Tas,Fixed or stationary object,complete,98
+2016,Tas,Non-collision transport accident,complete,227
+2016,Tas,Other,complete,135
+2016,Vic,"Car, pick-up truck or van",complete,4918
+2016,Vic,Fixed or stationary object,complete,1415
+2016,Vic,Non-collision transport accident,complete,2174
+2016,Vic,Other,complete,1853
+2016,WA,"Car, pick-up truck or van",complete,1086
+2016,WA,Fixed or stationary object,complete,410
+2016,WA,Non-collision transport accident,complete,892
+2016,WA,Other,complete,643
+2017,ACT,"Car, pick-up truck or van",complete,221
+2017,ACT,Fixed or stationary object,complete,74
+2017,ACT,Non-collision transport accident,complete,219
+2017,ACT,Other,complete,118
+2017,NSW,"Car, pick-up truck or van",complete,5012
+2017,NSW,Fixed or stationary object,complete,1540
+2017,NSW,Non-collision transport accident,complete,2638
+2017,NSW,Other,complete,1826
+2017,NT,"Car, pick-up truck or van",complete,212
+2017,NT,Fixed or stationary object,complete,93
+2017,NT,Non-collision transport accident,complete,292
+2017,NT,Other,complete,106
+2017,Qld,"Car, pick-up truck or van",complete,3674
+2017,Qld,Fixed or stationary object,complete,1224
+2017,Qld,Non-collision transport accident,complete,2546
+2017,Qld,Other,complete,1690
+2017,SA,"Car, pick-up truck or van",complete,890
+2017,SA,Fixed or stationary object,complete,372
+2017,SA,Non-collision transport accident,complete,688
+2017,SA,Other,complete,444
+2017,Tas,"Car, pick-up truck or van",complete,212
+2017,Tas,Fixed or stationary object,complete,110
+2017,Tas,Non-collision transport accident,complete,234
+2017,Tas,Other,complete,103
+2017,Vic,"Car, pick-up truck or van",complete,5279
+2017,Vic,Fixed or stationary object,complete,1509
+2017,Vic,Non-collision transport accident,complete,2266
+2017,Vic,Other,complete,1740
+2017,WA,"Car, pick-up truck or van",complete,1091
+2017,WA,Fixed or stationary object,complete,436
+2017,WA,Non-collision transport accident,complete,969
+2017,WA,Other,complete,699
+2018,ACT,"Car, pick-up truck or van",complete,283
+2018,ACT,Fixed or stationary object,complete,79
+2018,ACT,Non-collision transport accident,complete,213
+2018,ACT,Other,complete,137
+2018,NSW,"Car, pick-up truck or van",complete,4134
+2018,NSW,Fixed or stationary object,complete,1410
+2018,NSW,Non-collision transport accident,complete,2511
+2018,NSW,Other,complete,1739
+2018,NT,"Car, pick-up truck or van",complete,240
+2018,NT,Fixed or stationary object,complete,129
+2018,NT,Non-collision transport accident,complete,362
+2018,NT,Other,complete,101
+2018,Qld,"Car, pick-up truck or van",complete,3749
+2018,Qld,Fixed or stationary object,complete,1271
+2018,Qld,Non-collision transport accident,complete,2707
+2018,Qld,Other,complete,1654
+2018,SA,"Car, pick-up truck or van",complete,926
+2018,SA,Fixed or stationary object,complete,384
+2018,SA,Non-collision transport accident,complete,729
+2018,SA,Other,complete,450
+2018,Tas,"Car, pick-up truck or van",complete,254
+2018,Tas,Fixed or stationary object,complete,115
+2018,Tas,Non-collision transport accident,complete,294
+2018,Tas,Other,complete,118
+2018,Vic,"Car, pick-up truck or van",complete,5675
+2018,Vic,Fixed or stationary object,complete,1607
+2018,Vic,Non-collision transport accident,complete,2309
+2018,Vic,Other,complete,1862
+2018,WA,"Car, pick-up truck or van",complete,1179
+2018,WA,Fixed or stationary object,complete,458
+2018,WA,Non-collision transport accident,complete,958
+2018,WA,Other,complete,679
+2019,ACT,"Car, pick-up truck or van",complete,243
+2019,ACT,Fixed or stationary object,complete,82
+2019,ACT,Non-collision transport accident,complete,213
+2019,ACT,Other,complete,127
+2019,NSW,"Car, pick-up truck or van",complete,4303
+2019,NSW,Fixed or stationary object,complete,1374
+2019,NSW,Non-collision transport accident,complete,2501
+2019,NSW,Other,complete,1764
+2019,NT,"Car, pick-up truck or van",complete,155
+2019,NT,Fixed or stationary object,complete,114
+2019,NT,Non-collision transport accident,complete,277
+2019,NT,Other,complete,110
+2019,Qld,"Car, pick-up truck or van",complete,3885
+2019,Qld,Fixed or stationary object,complete,1322
+2019,Qld,Non-collision transport accident,complete,2611
+2019,Qld,Other,complete,1697
+2019,SA,"Car, pick-up truck or van",complete,924
+2019,SA,Fixed or stationary object,complete,354
+2019,SA,Non-collision transport accident,complete,688
+2019,SA,Other,complete,491
+2019,Tas,"Car, pick-up truck or van",complete,223
+2019,Tas,Fixed or stationary object,complete,115
+2019,Tas,Non-collision transport accident,complete,213
+2019,Tas,Other,complete,157
+2019,Vic,"Car, pick-up truck or van",complete,5630
+2019,Vic,Fixed or stationary object,complete,1524
+2019,Vic,Non-collision transport accident,complete,2214
+2019,Vic,Other,complete,2024
+2019,WA,"Car, pick-up truck or van",complete,1270
+2019,WA,Fixed or stationary object,complete,512
+2019,WA,Non-collision transport accident,complete,1068
+2019,WA,Other,complete,684
+2020,ACT,"Car, pick-up truck or van",complete,184
+2020,ACT,Fixed or stationary object,complete,86
+2020,ACT,Non-collision transport accident,complete,217
+2020,ACT,Other,complete,142
+2020,NSW,"Car, pick-up truck or van",complete,3730
+2020,NSW,Fixed or stationary object,complete,1405
+2020,NSW,Non-collision transport accident,complete,2545
+2020,NSW,Other,complete,1594
+2020,NT,"Car, pick-up truck or van",complete,206
+2020,NT,Fixed or stationary object,complete,128
+2020,NT,Non-collision transport accident,complete,338
+2020,NT,Other,complete,115
+2020,Qld,"Car, pick-up truck or van",complete,3742
+2020,Qld,Fixed or stationary object,complete,1516
+2020,Qld,Non-collision transport accident,complete,2896
+2020,Qld,Other,complete,1647
+2020,SA,"Car, pick-up truck or van",complete,916
+2020,SA,Fixed or stationary object,complete,381
+2020,SA,Non-collision transport accident,complete,783
+2020,SA,Other,complete,423
+2020,Tas,"Car, pick-up truck or van",complete,233
+2020,Tas,Fixed or stationary object,complete,110
+2020,Tas,Non-collision transport accident,complete,290
+2020,Tas,Other,complete,145
+2020,Vic,"Car, pick-up truck or van",complete,4190
+2020,Vic,Fixed or stationary object,complete,1348
+2020,Vic,Non-collision transport accident,complete,2477
+2020,Vic,Other,complete,1869
+2020,WA,"Car, pick-up truck or van",complete,1163
+2020,WA,Fixed or stationary object,complete,585
+2020,WA,Non-collision transport accident,complete,1171
+2020,WA,Other,complete,717
+2021,ACT,"Car, pick-up truck or van",complete,232
+2021,ACT,Fixed or stationary object,complete,82
+2021,ACT,Non-collision transport accident,complete,248
+2021,ACT,Other,complete,178
+2021,NSW,"Car, pick-up truck or van",complete,3454
+2021,NSW,Fixed or stationary object,complete,1314
+2021,NSW,Non-collision transport accident,complete,2563
+2021,NSW,Other,complete,1672
+2021,NT,"Car, pick-up truck or van",complete,205
+2021,NT,Fixed or stationary object,complete,84
+2021,NT,Non-collision transport accident,complete,315
+2021,NT,Other,complete,106
+2021,Qld,"Car, pick-up truck or van",complete,4396
+2021,Qld,Fixed or stationary object,complete,1510
+2021,Qld,Non-collision transport accident,complete,2831
+2021,Qld,Other,complete,1710
+2021,SA,"Car, pick-up truck or van",complete,1093
+2021,SA,Fixed or stationary object,complete,418
+2021,SA,Non-collision transport accident,complete,670
+2021,SA,Other,complete,451
+2021,Tas,"Car, pick-up truck or van",complete,294
+2021,Tas,Fixed or stationary object,complete,134
+2021,Tas,Non-collision transport accident,complete,241
+2021,Tas,Other,complete,136
+2021,Vic,"Car, pick-up truck or van",complete,4984
+2021,Vic,Fixed or stationary object,complete,1474
+2021,Vic,Non-collision transport accident,complete,2674
+2021,Vic,Other,complete,1998
+2021,WA,"Car, pick-up truck or van",complete,1314
+2021,WA,Fixed or stationary object,complete,517
+2021,WA,Non-collision transport accident,complete,1054
+2021,WA,Other,complete,683
