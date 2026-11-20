@@ -1,0 +1,697 @@
+"year","road_user","state","first_half","second_half","hospitalisations_status","bed_days_status","hospitalisations","bed_days","completeness"
+2011,"Bus occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Bus occupant","NSW",1,1,"reported","reported","52, 38","219, 151",1
+2011,"Bus occupant","NT",1,0,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Bus occupant","Qld",1,1,"reported","reported","20, 9","55, 22",1
+2011,"Bus occupant","SA",1,1,"reported, suppressed","reported, suppressed","14, n.p.","72, n.p.",0
+2011,"Bus occupant","Tas",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Bus occupant","Vic",1,1,"reported","reported","22, 17","35, 27",1
+2011,"Bus occupant","WA",1,1,"reported","reported","10, 16","33, 39",1
+2011,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","103, 95","628, 295",1
+2011,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2538, 2747","12423, 11263",1
+2011,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","93, 116","803, 712",1
+2011,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","1329, 1439","6165, 6805",1
+2011,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","601, 654","3399, 2576",1
+2011,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","103, 122","491, 1084",1
+2011,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","2366, 2495","8075, 9076",1
+2011,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","787, 829","3938, 4339",1
+2011,"Heavy transport driver, passenger or unknown position","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","82, 79","364, 372",1
+2011,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","63, 99","211, 565",1
+2011,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","9, 19","46, 39",1
+2011,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","69, 87","244, 388",1
+2011,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","22, 23","175, 80",1
+2011,"Motorcyclist","ACT",1,1,"reported","reported","67, 77","277, 372",1
+2011,"Motorcyclist","NSW",1,1,"reported","reported","1191, 1202","6147, 5716",1
+2011,"Motorcyclist","NT",1,1,"reported","reported","49, 57","433, 275",1
+2011,"Motorcyclist","Qld",1,1,"reported","reported","821, 960","4388, 3966",1
+2011,"Motorcyclist","SA",1,1,"reported","reported","243, 217","1531, 1267",1
+2011,"Motorcyclist","Tas",1,1,"reported","reported","66, 63","530, 325",1
+2011,"Motorcyclist","Vic",1,1,"reported","reported","830, 792","3362, 3163",1
+2011,"Motorcyclist","WA",1,1,"reported","reported","427, 440","3066, 2479",1
+2011,"Other or unknown","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Other or unknown","NSW",1,1,"reported","reported","68, 104","400, 555",1
+2011,"Other or unknown","NT",1,1,"reported","reported","16, 8","55, 48",1
+2011,"Other or unknown","Qld",1,1,"reported","reported","72, 71","297, 300",1
+2011,"Other or unknown","SA",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Other or unknown","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Other or unknown","Vic",1,1,"reported","reported","53, 98","220, 278",1
+2011,"Other or unknown","WA",1,1,"reported","reported","34, 36","98, 187",1
+2011,"Pedal cyclist","ACT",1,1,"reported","reported","85, 64","239, 190",1
+2011,"Pedal cyclist","NSW",1,1,"reported","reported","770, 717","2251, 1971",1
+2011,"Pedal cyclist","NT",1,1,"reported","reported","25, 37","91, 98",1
+2011,"Pedal cyclist","Qld",1,1,"reported","reported","463, 492","1301, 1540",1
+2011,"Pedal cyclist","SA",1,1,"reported","reported","184, 195","612, 707",1
+2011,"Pedal cyclist","Tas",1,1,"reported","reported","41, 32","101, 73",1
+2011,"Pedal cyclist","Vic",1,1,"reported","reported","852, 835","2204, 1970",1
+2011,"Pedal cyclist","WA",1,1,"reported","reported","283, 247","906, 779",1
+2011,"Pedestrian","ACT",1,1,"reported","reported","21, 9","282, 177",1
+2011,"Pedestrian","NSW",1,1,"reported","reported","497, 470","4212, 4128",1
+2011,"Pedestrian","NT",1,1,"reported","reported","26, 18","409, 44",1
+2011,"Pedestrian","Qld",1,1,"reported","reported","232, 211","1454, 1229",1
+2011,"Pedestrian","SA",1,1,"reported","reported","79, 97","747, 885",1
+2011,"Pedestrian","Tas",1,1,"reported","reported","27, 18","217, 130",1
+2011,"Pedestrian","Vic",1,1,"reported","reported","356, 383","2495, 2182",1
+2011,"Pedestrian","WA",1,1,"reported","reported","148, 113","1028, 882",1
+2011,"Pick-up truck or van occupant","ACT",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","25, 38","73, 99",1
+2011,"Pick-up truck or van occupant","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 21",0
+2011,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","17, 24","96, 139",1
+2011,"Pick-up truck or van occupant","SA",1,1,"suppressed, reported","suppressed, reported","n.p., 11","n.p., 35",0
+2011,"Pick-up truck or van occupant","Tas",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","37, 34","64, 141",1
+2011,"Pick-up truck or van occupant","WA",1,1,"reported","reported","13, 14","140, 316",1
+2012,"Bus occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"Bus occupant","NSW",1,1,"reported","reported","41, 50","156, 267",1
+2012,"Bus occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"Bus occupant","Qld",1,1,"reported","reported","14, 19","35, 65",1
+2012,"Bus occupant","SA",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 27",0
+2012,"Bus occupant","Tas",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"Bus occupant","Vic",1,1,"reported","reported","20, 13","101, 47",1
+2012,"Bus occupant","WA",1,1,"reported","reported","10, 14","39, 61",1
+2012,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","131, 106","602, 389",1
+2012,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2702, 2721","11003, 11441",1
+2012,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","106, 141","620, 738",1
+2012,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","1486, 1713","6805, 7435",1
+2012,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","541, 592","3222, 3357",1
+2012,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","128, 117","869, 651",1
+2012,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","2368, 1694","7762, 7095",1
+2012,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","741, 827","4123, 4261",1
+2012,"Heavy transport driver, passenger or unknown position","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","66, 76","261, 420",1
+2012,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 18",0
+2012,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","63, 83","295, 367",1
+2012,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","15, 16","52, 38",1
+2012,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","68, 48","361, 168",1
+2012,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","26, 24","166, 168",1
+2012,"Motorcyclist","ACT",1,1,"reported","reported","84, 60","280, 243",1
+2012,"Motorcyclist","NSW",1,1,"reported","reported","1244, 1382","6146, 6714",1
+2012,"Motorcyclist","NT",1,1,"reported","reported","52, 66","308, 352",1
+2012,"Motorcyclist","Qld",1,1,"reported","reported","816, 960","3887, 4660",1
+2012,"Motorcyclist","SA",1,1,"reported","reported","213, 238","1194, 1285",1
+2012,"Motorcyclist","Tas",1,1,"reported","reported","64, 60","426, 192",1
+2012,"Motorcyclist","Vic",1,1,"reported","reported","884, 621","3330, 2779",1
+2012,"Motorcyclist","WA",1,1,"reported","reported","432, 477","2654, 2734",1
+2012,"Other or unknown","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 11","n.p., 22",0
+2012,"Other or unknown","NSW",1,1,"reported","reported","56, 77","329, 333",1
+2012,"Other or unknown","NT",1,1,"reported","reported","5, 8","26, 63",1
+2012,"Other or unknown","Qld",1,1,"reported","reported","75, 63","414, 326",1
+2012,"Other or unknown","SA",1,1,"reported","reported","22, 39","94, 84",1
+2012,"Other or unknown","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 10",0
+2012,"Other or unknown","Vic",1,1,"reported","reported","57, 46","219, 223",1
+2012,"Other or unknown","WA",1,1,"reported","reported","34, 54","159, 166",1
+2012,"Pedal cyclist","ACT",1,1,"reported","reported","82, 91","298, 229",1
+2012,"Pedal cyclist","NSW",1,1,"reported","reported","826, 841","2268, 2363",1
+2012,"Pedal cyclist","NT",1,1,"reported","reported","19, 26","39, 145",1
+2012,"Pedal cyclist","Qld",1,1,"reported","reported","492, 562","1263, 1790",1
+2012,"Pedal cyclist","SA",1,1,"reported","reported","199, 202","565, 906",1
+2012,"Pedal cyclist","Tas",1,1,"reported","reported","42, 49","96, 104",1
+2012,"Pedal cyclist","Vic",1,1,"reported","reported","865, 665","1984, 1881",1
+2012,"Pedal cyclist","WA",1,1,"reported","reported","310, 277","811, 758",1
+2012,"Pedestrian","ACT",1,1,"reported","reported","13, 14","96, 66",1
+2012,"Pedestrian","NSW",1,1,"reported","reported","458, 497","3275, 4510",1
+2012,"Pedestrian","NT",1,1,"reported","reported","29, 22","290, 289",1
+2012,"Pedestrian","Qld",1,1,"reported","reported","199, 217","1503, 1347",1
+2012,"Pedestrian","SA",1,1,"reported","reported","97, 99","886, 629",1
+2012,"Pedestrian","Tas",1,1,"reported","reported","32, 19","281, 153",1
+2012,"Pedestrian","Vic",1,1,"reported","reported","368, 307","2069, 1776",1
+2012,"Pedestrian","WA",1,1,"reported","reported","125, 117","745, 904",1
+2012,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","37, 47","247, 225",1
+2012,"Pick-up truck or van occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","21, 30","114, 108",1
+2012,"Pick-up truck or van occupant","SA",1,1,"suppressed, reported","suppressed, reported","n.p., 10","n.p., 10",0
+2012,"Pick-up truck or van occupant","Tas",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","39, 35","181, 269",1
+2012,"Pick-up truck or van occupant","WA",1,1,"reported","reported","14, 11","123, 27",1
+2013,"Bus occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Bus occupant","NSW",1,1,"reported","reported","45, 37","271, 170",1
+2013,"Bus occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Bus occupant","Qld",1,1,"reported","reported","21, 16","78, 65",1
+2013,"Bus occupant","SA",1,1,"reported","reported","11, 5","27, 31",1
+2013,"Bus occupant","Tas",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Bus occupant","Vic",1,1,"reported","reported","25, 20","113, 62",1
+2013,"Bus occupant","WA",1,1,"reported","reported","10, 20","30, 83",1
+2013,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","110, 102","574, 371",1
+2013,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2702, 2883","10523, 10390",1
+2013,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","120, 176","757, 1063",1
+2013,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","1762, 1896","6030, 6464",1
+2013,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","524, 582","2922, 2591",1
+2013,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","135, 130","726, 622",1
+2013,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","1788, 1901","7149, 6403",1
+2013,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","732, 720","2986, 4096",1
+2013,"Heavy transport driver, passenger or unknown position","ACT",1,0,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","47, 80","221, 342",1
+2013,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","67, 98","296, 423",1
+2013,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","14, 11","135, 67",1
+2013,"Heavy transport driver, passenger or unknown position","Tas",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","57, 46","332, 226",1
+2013,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","19, 21","221, 121",1
+2013,"Motorcyclist","ACT",1,1,"reported","reported","72, 65","349, 262",1
+2013,"Motorcyclist","NSW",1,1,"reported","reported","1206, 1364","5610, 6520",1
+2013,"Motorcyclist","NT",1,1,"reported","reported","68, 53","519, 433",1
+2013,"Motorcyclist","Qld",1,1,"reported","reported","955, 1092","4458, 4467",1
+2013,"Motorcyclist","SA",1,1,"reported","reported","209, 246","1226, 1492",1
+2013,"Motorcyclist","Tas",1,1,"reported","reported","69, 80","344, 284",1
+2013,"Motorcyclist","Vic",1,1,"reported","reported","765, 756","2998, 3000",1
+2013,"Motorcyclist","WA",1,1,"reported","reported","492, 466","2934, 2364",1
+2013,"Other or unknown","ACT",1,1,"reported, suppressed","reported, suppressed","5, n.p.","42, n.p.",0
+2013,"Other or unknown","NSW",1,1,"reported","reported","68, 94","277, 636",1
+2013,"Other or unknown","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Other or unknown","Qld",1,1,"reported","reported","64, 76","250, 259",1
+2013,"Other or unknown","SA",1,1,"reported","reported","11, 16","16, 61",1
+2013,"Other or unknown","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 9","n.p., 81",0
+2013,"Other or unknown","Vic",1,1,"reported","reported","63, 55","221, 259",1
+2013,"Other or unknown","WA",1,1,"reported","reported","33, 23","136, 115",1
+2013,"Pedal cyclist","ACT",1,1,"reported","reported","100, 74","301, 174",1
+2013,"Pedal cyclist","NSW",1,1,"reported","reported","893, 942","2654, 2307",1
+2013,"Pedal cyclist","NT",1,1,"reported","reported","36, 34","128, 123",1
+2013,"Pedal cyclist","Qld",1,1,"reported","reported","618, 703","1681, 1836",1
+2013,"Pedal cyclist","SA",1,1,"reported","reported","199, 201","621, 791",1
+2013,"Pedal cyclist","Tas",1,1,"reported","reported","48, 46","135, 163",1
+2013,"Pedal cyclist","Vic",1,1,"reported","reported","825, 758","2071, 1873",1
+2013,"Pedal cyclist","WA",1,1,"reported","reported","387, 288","1318, 885",1
+2013,"Pedestrian","ACT",1,1,"reported","reported","14, 19","179, 178",1
+2013,"Pedestrian","NSW",1,1,"reported","reported","466, 527","3158, 3661",1
+2013,"Pedestrian","NT",1,1,"reported","reported","20, 22","199, 233",1
+2013,"Pedestrian","Qld",1,1,"reported","reported","208, 192","1129, 1317",1
+2013,"Pedestrian","SA",1,1,"reported","reported","87, 85","731, 766",1
+2013,"Pedestrian","Tas",1,1,"reported","reported","23, 20","144, 339",1
+2013,"Pedestrian","Vic",1,1,"reported","reported","348, 325","2269, 1802",1
+2013,"Pedestrian","WA",1,1,"reported","reported","118, 127","791, 905",1
+2013,"Pick-up truck or van occupant","ACT",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","41, 26","171, 128",1
+2013,"Pick-up truck or van occupant","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 6","n.p., 59",0
+2013,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","24, 29","169, 97",1
+2013,"Pick-up truck or van occupant","SA",1,1,"reported","reported","8, 12","33, 61",1
+2013,"Pick-up truck or van occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","27, 25","163, 125",1
+2013,"Pick-up truck or van occupant","WA",1,1,"reported","reported","11, 8","61, 180",1
+2014,"Bus occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"Bus occupant","NSW",1,1,"reported","reported","48, 59","373, 255",1
+2014,"Bus occupant","NT",1,0,"reported","reported","7","43",0
+2014,"Bus occupant","Qld",1,1,"reported","reported","26, 23","141, 151",1
+2014,"Bus occupant","SA",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 28",0
+2014,"Bus occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"Bus occupant","Vic",1,1,"reported","reported","26, 31","185, 99",1
+2014,"Bus occupant","WA",1,1,"reported","reported","18, 11","62, 34",1
+2014,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","132, 100","567, 376",1
+2014,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2623, 2696","10317, 10191",1
+2014,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","140, 136","710, 621",1
+2014,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","1680, 1900","6123, 6752",1
+2014,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","520, 546","2400, 2817",1
+2014,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","133, 128","681, 700",1
+2014,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","1993, 2077","6785, 6391",1
+2014,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","645, 637","3151, 3881",1
+2014,"Heavy transport driver, passenger or unknown position","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","77, 68","439, 225",1
+2014,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 5","n.p., 51",0
+2014,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","61, 85","368, 514",1
+2014,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","21, 14","71, 41",1
+2014,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","58, 49","337, 272",1
+2014,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","9, 26","46, 163",1
+2014,"Motorcyclist","ACT",1,1,"reported","reported","50, 52","184, 339",1
+2014,"Motorcyclist","NSW",1,1,"reported","reported","1296, 1340","5389, 5690",1
+2014,"Motorcyclist","NT",1,1,"reported","reported","79, 71","407, 491",1
+2014,"Motorcyclist","Qld",1,1,"reported","reported","1030, 1040","4080, 4437",1
+2014,"Motorcyclist","SA",1,1,"reported","reported","289, 268","1279, 1091",1
+2014,"Motorcyclist","Tas",1,1,"reported","reported","98, 106","341, 446",1
+2014,"Motorcyclist","Vic",1,1,"reported","reported","858, 796","3288, 2969",1
+2014,"Motorcyclist","WA",1,1,"reported","reported","437, 428","2534, 2792",1
+2014,"Other or unknown","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"Other or unknown","NSW",1,1,"reported","reported","59, 72","313, 241",1
+2014,"Other or unknown","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"Other or unknown","Qld",1,1,"reported","reported","77, 57","238, 170",1
+2014,"Other or unknown","SA",1,1,"suppressed, reported","suppressed, reported","n.p., 16","n.p., 51",0
+2014,"Other or unknown","Tas",1,1,"reported, suppressed","reported, suppressed","9, n.p.","20, n.p.",0
+2014,"Other or unknown","Vic",1,1,"reported","reported","61, 54","248, 152",1
+2014,"Other or unknown","WA",1,1,"reported","reported","23, 46","124, 123",1
+2014,"Pedal cyclist","ACT",1,1,"reported","reported","83, 96","240, 190",1
+2014,"Pedal cyclist","NSW",1,1,"reported","reported","1005, 897","2679, 2320",1
+2014,"Pedal cyclist","NT",1,1,"reported","reported","27, 38","73, 97",1
+2014,"Pedal cyclist","Qld",1,1,"reported","reported","671, 662","1908, 1589",1
+2014,"Pedal cyclist","SA",1,1,"reported","reported","277, 217","807, 701",1
+2014,"Pedal cyclist","Tas",1,1,"reported","reported","58, 53","261, 96",1
+2014,"Pedal cyclist","Vic",1,1,"reported","reported","899, 920","2116, 2120",1
+2014,"Pedal cyclist","WA",1,1,"reported","reported","363, 294","1176, 850",1
+2014,"Pedestrian","ACT",1,1,"reported","reported","8, 12","17, 94",1
+2014,"Pedestrian","NSW",1,1,"reported","reported","475, 525","3671, 3614",1
+2014,"Pedestrian","NT",1,1,"reported","reported","33, 26","276, 142",1
+2014,"Pedestrian","Qld",1,1,"reported","reported","173, 199","1043, 1334",1
+2014,"Pedestrian","SA",1,1,"reported","reported","83, 79","649, 1072",1
+2014,"Pedestrian","Tas",1,1,"reported","reported","29, 16","212, 72",1
+2014,"Pedestrian","Vic",1,1,"reported","reported","312, 331","2091, 1650",1
+2014,"Pedestrian","WA",1,1,"reported","reported","107, 91","922, 660",1
+2014,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","39, 34","118, 205",1
+2014,"Pick-up truck or van occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","25, 16","116, 52",1
+2014,"Pick-up truck or van occupant","SA",1,1,"reported","reported","18, 8","56, 15",1
+2014,"Pick-up truck or van occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","30, 28","228, 94",1
+2014,"Pick-up truck or van occupant","WA",1,1,"reported","reported","7, 12","30, 41",1
+2015,"Bus occupant","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 12","n.p., 51",0
+2015,"Bus occupant","NSW",1,1,"reported","reported","45, 51","394, 234",1
+2015,"Bus occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2015,"Bus occupant","Qld",1,1,"reported","reported","23, 17","54, 87",1
+2015,"Bus occupant","SA",1,1,"reported, suppressed","reported, suppressed","6, n.p.","15, n.p.",0
+2015,"Bus occupant","Tas",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2015,"Bus occupant","Vic",1,1,"reported","reported","20, 40","120, 353",1
+2015,"Bus occupant","WA",1,1,"suppressed, reported","suppressed, reported","n.p., 13","n.p., 100",0
+2015,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","113, 162","407, 756",1
+2015,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2763, 2665","10394, 14984",1
+2015,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","142, 193","663, 944",1
+2015,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","1967, 2046","6204, 9464",1
+2015,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","556, 637","2699, 2872",1
+2015,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","161, 164","834, 840",1
+2015,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","2190, 2368","7238, 17789",1
+2015,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","666, 706","4127, 4815",1
+2015,"Heavy transport driver, passenger or unknown position","ACT",1,1,"reported, suppressed","reported, suppressed","6, n.p.","6, n.p.",0
+2015,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","72, 91","421, 718",1
+2015,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2015,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","68, 73","324, 504",1
+2015,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported, suppressed","reported, suppressed","17, n.p.","40, n.p.",0
+2015,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 33",0
+2015,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","55, 52","242, 262",1
+2015,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","13, 20","50, 211",1
+2015,"Motorcyclist","ACT",1,1,"reported","reported","69, 76","374, 329",1
+2015,"Motorcyclist","NSW",1,1,"reported","reported","1233, 1226","5055, 8794",1
+2015,"Motorcyclist","NT",1,1,"reported","reported","81, 88","287, 477",1
+2015,"Motorcyclist","Qld",1,1,"reported","reported","1050, 1094","3980, 6175",1
+2015,"Motorcyclist","SA",1,1,"reported","reported","281, 268","1510, 1499",1
+2015,"Motorcyclist","Tas",1,1,"reported","reported","97, 100","494, 315",1
+2015,"Motorcyclist","Vic",1,1,"reported","reported","859, 835","3176, 6770",1
+2015,"Motorcyclist","WA",1,1,"reported","reported","441, 401","2460, 2675",1
+2015,"Other or unknown","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2015,"Other or unknown","NSW",1,1,"reported","reported","66, 63","234, 513",1
+2015,"Other or unknown","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2015,"Other or unknown","Qld",1,1,"reported","reported","48, 65","290, 322",1
+2015,"Other or unknown","SA",1,1,"reported","reported","12, 20","75, 41",1
+2015,"Other or unknown","Tas",1,1,"reported, suppressed","reported, suppressed","9, n.p.","65, n.p.",0
+2015,"Other or unknown","Vic",1,1,"reported","reported","52, 70","197, 410",1
+2015,"Other or unknown","WA",1,1,"reported","reported","22, 48","74, 151",1
+2015,"Pedal cyclist","ACT",1,1,"reported","reported","131, 91","396, 269",1
+2015,"Pedal cyclist","NSW",1,1,"reported","reported","939, 854","2199, 2697",1
+2015,"Pedal cyclist","NT",1,1,"reported","reported","41, 40","116, 97",1
+2015,"Pedal cyclist","Qld",1,1,"reported","reported","688, 690","1535, 2125",1
+2015,"Pedal cyclist","SA",1,1,"reported","reported","246, 271","584, 758",1
+2015,"Pedal cyclist","Tas",1,1,"reported","reported","56, 37","130, 214",1
+2015,"Pedal cyclist","Vic",1,1,"reported","reported","996, 898","2320, 3197",1
+2015,"Pedal cyclist","WA",1,1,"reported","reported","322, 299","991, 972",1
+2015,"Pedestrian","ACT",1,1,"reported","reported","12, 15","86, 174",1
+2015,"Pedestrian","NSW",1,1,"reported","reported","468, 483","2796, 4582",1
+2015,"Pedestrian","NT",1,1,"reported","reported","41, 30","229, 473",1
+2015,"Pedestrian","Qld",1,1,"reported","reported","218, 209","1024, 1801",1
+2015,"Pedestrian","SA",1,1,"reported","reported","55, 66","286, 636",1
+2015,"Pedestrian","Tas",1,1,"reported","reported","16, 19","150, 300",1
+2015,"Pedestrian","Vic",1,1,"reported","reported","326, 374","1463, 6186",1
+2015,"Pedestrian","WA",1,1,"reported","reported","103, 101","666, 1048",1
+2015,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","35, 30","98, 218",1
+2015,"Pick-up truck or van occupant","NT",1,1,"reported","reported","10, 9","48, 24",1
+2015,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","20, 30","98, 283",1
+2015,"Pick-up truck or van occupant","SA",1,1,"reported","reported","7, 5","23, 73",1
+2015,"Pick-up truck or van occupant","Tas",1,0,"suppressed","suppressed","n.p.","n.p.",0
+2015,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","34, 29","159, 190",1
+2015,"Pick-up truck or van occupant","WA",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 29",0
+2016,"Bus occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2016,"Bus occupant","NSW",1,1,"reported","reported","51, 63","215, 311",1
+2016,"Bus occupant","NT",1,1,"reported, suppressed","reported, suppressed","5, n.p.","11, n.p.",0
+2016,"Bus occupant","Qld",1,1,"reported","reported","28, 13","150, 252",1
+2016,"Bus occupant","SA",1,1,"reported","reported","7","60, 11",1
+2016,"Bus occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2016,"Bus occupant","Vic",1,1,"reported","reported","32, 31","454, 171",1
+2016,"Bus occupant","WA",1,1,"reported","reported","8, 13","29, 78",1
+2016,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","127, 123","599, 564",1
+2016,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2790, 2849","12869, 12764",1
+2016,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","164, 210","721, 1100",1
+2016,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","2029, 2231","8782, 9037",1
+2016,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","631, 661","3547, 3094",1
+2016,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","155","953, 1087",1
+2016,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","2576, 2748","15720, 17988",1
+2016,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","595, 657","4743, 5315",1
+2016,"Heavy transport driver, passenger or unknown position","ACT",1,0,"suppressed","suppressed","n.p.","n.p.",0
+2016,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","59, 74","461, 555",1
+2016,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 5","n.p., 11",0
+2016,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","66, 76","174, 678",1
+2016,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","19, 20","140, 114",1
+2016,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 70",0
+2016,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","45, 65","390, 723",1
+2016,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","22, 12","216, 228",1
+2016,"Motorcyclist","ACT",1,1,"reported","reported","72, 75","296, 331",1
+2016,"Motorcyclist","NSW",1,1,"reported","reported","1345, 1303","8322, 8053",1
+2016,"Motorcyclist","NT",1,1,"reported","reported","67, 84","249, 471",1
+2016,"Motorcyclist","Qld",1,1,"reported","reported","1082, 1077","5961, 6055",1
+2016,"Motorcyclist","SA",1,1,"reported","reported","279, 267","1602, 1300",1
+2016,"Motorcyclist","Tas",1,1,"reported","reported","89, 82","565, 531",1
+2016,"Motorcyclist","Vic",1,1,"reported","reported","967, 839","6527, 5989",1
+2016,"Motorcyclist","WA",1,1,"reported","reported","403, 399","3405, 2933",1
+2016,"Other or unknown","ACT",1,1,"reported, suppressed","reported, suppressed","5, n.p.","5, n.p.",0
+2016,"Other or unknown","NSW",1,1,"reported","reported","69, 65","450, 403",1
+2016,"Other or unknown","NT",1,1,"reported, suppressed","reported, suppressed","6, n.p.","21, n.p.",0
+2016,"Other or unknown","Qld",1,1,"reported","reported","73","399, 488",1
+2016,"Other or unknown","SA",1,1,"reported","reported","23","100, 68",1
+2016,"Other or unknown","Tas",1,1,"reported","reported","6, 9","121, 103",1
+2016,"Other or unknown","Vic",1,1,"reported","reported","77, 96","612, 647",1
+2016,"Other or unknown","WA",1,1,"reported","reported","35, 33","273, 139",1
+2016,"Pedal cyclist","ACT",1,1,"reported","reported","109, 106","294, 219",1
+2016,"Pedal cyclist","NSW",1,1,"reported","reported","955, 820","3049, 2209",1
+2016,"Pedal cyclist","NT",1,1,"reported","reported","33, 37","106, 65",1
+2016,"Pedal cyclist","Qld",1,1,"reported","reported","729, 713","2121, 1799",1
+2016,"Pedal cyclist","SA",1,1,"reported","reported","313, 214","863, 554",1
+2016,"Pedal cyclist","Tas",1,1,"reported","reported","57, 39","118, 58",1
+2016,"Pedal cyclist","Vic",1,1,"reported","reported","1100, 908","4012, 2596",1
+2016,"Pedal cyclist","WA",1,1,"reported","reported","345, 307","1265, 999",1
+2016,"Pedestrian","ACT",1,1,"reported","reported","16, 12","189, 88",1
+2016,"Pedestrian","NSW",1,1,"reported","reported","472, 492","4766, 5702",1
+2016,"Pedestrian","NT",1,1,"reported","reported","22, 37","336, 407",1
+2016,"Pedestrian","Qld",1,1,"reported","reported","233, 222","1570, 1849",1
+2016,"Pedestrian","SA",1,1,"reported","reported","88, 80","793, 864",1
+2016,"Pedestrian","Tas",1,1,"reported","reported","13, 28","40, 173",1
+2016,"Pedestrian","Vic",1,1,"reported","reported","370, 430","5050, 6069",1
+2016,"Pedestrian","WA",1,1,"reported","reported","88, 78","809, 1203",1
+2016,"Pick-up truck or van occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2016,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","35, 32","181, 39",1
+2016,"Pick-up truck or van occupant","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 12","n.p., 152",0
+2016,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","28, 29","117, 385",1
+2016,"Pick-up truck or van occupant","SA",1,1,"reported","reported","10, 12","58, 27",1
+2016,"Pick-up truck or van occupant","Tas",1,1,"reported, suppressed","reported, suppressed","5, n.p.","90, n.p.",0
+2016,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","33, 43","185, 645",1
+2016,"Pick-up truck or van occupant","WA",1,1,"reported","reported","12, 24","24, 243",1
+2017,"Bus occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"Bus occupant","NSW",1,1,"reported","reported","55, 54","415, 321",1
+2017,"Bus occupant","Qld",1,1,"reported","reported","14","105, 70",1
+2017,"Bus occupant","SA",1,1,"reported","reported","10, 5","30, 14",1
+2017,"Bus occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"Bus occupant","Vic",1,1,"reported","reported","30, 43","199, 230",1
+2017,"Bus occupant","WA",1,1,"reported","reported","8, 7","42, 14",1
+2017,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","112, 138","498, 701",1
+2017,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2700, 2595","11392, 12563",1
+2017,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","138, 228","924, 1167",1
+2017,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","2146, 2413","9386, 9075",1
+2017,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","618, 533","3370, 3533",1
+2017,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","153, 157","1000, 854",1
+2017,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","2733, 2795","15252, 13672",1
+2017,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","601, 676","4757, 4474",1
+2017,"Heavy transport driver, passenger or unknown position","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","75, 72","287, 483",1
+2017,"Heavy transport driver, passenger or unknown position","NT",1,1,"reported, suppressed","reported, suppressed","7, n.p.","44, n.p.",0
+2017,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","97, 73","382, 700",1
+2017,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","14, 17","35, 67",1
+2017,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 5","n.p., 53",0
+2017,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","57, 69","314, 450",1
+2017,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","12, 17","108, 64",1
+2017,"Motorcyclist","ACT",1,1,"reported","reported","64, 55","208, 246",1
+2017,"Motorcyclist","NSW",1,1,"reported","reported","1296, 1230","8418, 7951",1
+2017,"Motorcyclist","NT",1,1,"reported","reported","63, 86","277, 604",1
+2017,"Motorcyclist","Qld",1,1,"reported","reported","1095, 1113","5403, 5772",1
+2017,"Motorcyclist","SA",1,1,"reported","reported","295, 236","1604, 1640",1
+2017,"Motorcyclist","Tas",1,1,"reported","reported","98, 71","555, 489",1
+2017,"Motorcyclist","Vic",1,1,"reported","reported","1027, 952","7293, 6113",1
+2017,"Motorcyclist","WA",1,1,"reported","reported","512, 419","3096, 2343",1
+2017,"Other or unknown","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"Other or unknown","NSW",1,1,"reported","reported","66, 71","532, 554",1
+2017,"Other or unknown","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 9","n.p., 60",0
+2017,"Other or unknown","Qld",1,1,"reported","reported","61, 74","376, 510",1
+2017,"Other or unknown","SA",1,1,"reported","reported","30, 25","293, 232",1
+2017,"Other or unknown","Tas",1,1,"reported, suppressed","reported, suppressed","8, n.p.","65, n.p.",0
+2017,"Other or unknown","Vic",1,1,"reported","reported","83, 63","405, 546",1
+2017,"Other or unknown","WA",1,1,"reported","reported","45, 42","155, 148",1
+2017,"Pedal cyclist","ACT",1,1,"reported","reported","135, 76","363, 246",1
+2017,"Pedal cyclist","NSW",1,1,"reported","reported","906, 885","3069, 3563",1
+2017,"Pedal cyclist","NT",1,1,"reported","reported","37","120, 76",1
+2017,"Pedal cyclist","Qld",1,1,"reported","reported","759, 783","2114, 1947",1
+2017,"Pedal cyclist","SA",1,1,"reported","reported","272, 197","765, 540",1
+2017,"Pedal cyclist","Tas",1,1,"reported","reported","54, 53","178, 448",1
+2017,"Pedal cyclist","Vic",1,1,"reported","reported","1099, 990","2941, 3114",1
+2017,"Pedal cyclist","WA",1,1,"reported","reported","332, 305","895, 851",1
+2017,"Pedestrian","ACT",1,1,"reported","reported","17","86, 205",1
+2017,"Pedestrian","NSW",1,1,"reported","reported","461, 468","4121, 5536",1
+2017,"Pedestrian","NT",1,1,"reported","reported","42, 37","241, 393",1
+2017,"Pedestrian","Qld",1,1,"reported","reported","225, 214","1891, 1943",1
+2017,"Pedestrian","SA",1,1,"reported","reported","64, 63","783, 768",1
+2017,"Pedestrian","Tas",1,1,"reported","reported","13, 21","69, 244",1
+2017,"Pedestrian","Vic",1,1,"reported","reported","387, 399","6280, 6557",1
+2017,"Pedestrian","WA",1,1,"reported","reported","96, 98","857, 1019",1
+2017,"Pick-up truck or van occupant","ACT",1,0,"suppressed","suppressed","n.p.","n.p.",0
+2017,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","41","123, 186",1
+2017,"Pick-up truck or van occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","23, 30","85, 105",1
+2017,"Pick-up truck or van occupant","SA",1,1,"reported","reported","10, 5","46, 59",1
+2017,"Pick-up truck or van occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","32, 35","235, 453",1
+2017,"Pick-up truck or van occupant","WA",1,1,"reported","reported","10, 15","243, 94",1
+2018,"Bus occupant","ACT",1,0,"suppressed","suppressed","n.p.","n.p.",0
+2018,"Bus occupant","NSW",1,1,"reported","reported","39, 53","173, 349",1
+2018,"Bus occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2018,"Bus occupant","Qld",1,1,"reported","reported","16, 21","34, 61",1
+2018,"Bus occupant","SA",1,1,"suppressed, reported","suppressed, reported","n.p., 9","n.p., 86",0
+2018,"Bus occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2018,"Bus occupant","Vic",1,1,"reported","reported","38, 35","360, 182",1
+2018,"Bus occupant","WA",1,1,"reported","reported","6","18, 81",1
+2018,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","160, 127","584, 626",1
+2018,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2220, 2249","12273, 13747",1
+2018,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","246, 242","1244, 1829",1
+2018,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","2289, 2534","9123, 9493",1
+2018,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","575, 615","2910, 2850",1
+2018,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","196, 208","928, 1330",1
+2018,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","3003, 3096","15055, 16349",1
+2018,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","710, 775","3747, 3240",1
+2018,"Heavy transport driver, passenger or unknown position","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2018,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","73, 78","312, 1164",1
+2018,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2018,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","73, 90","452, 485",1
+2018,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","14, 6","75, 120",1
+2018,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 82",0
+2018,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","86, 57","320, 313",1
+2018,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","20, 26","78, 79",1
+2018,"Motorcyclist","ACT",1,1,"reported","reported","87, 74","373, 650",1
+2018,"Motorcyclist","NSW",1,1,"reported","reported","1187, 1160","7308, 7633",1
+2018,"Motorcyclist","NT",1,1,"reported","reported","77, 92","504, 524",1
+2018,"Motorcyclist","Qld",1,1,"reported","reported","1134, 1186","5911, 4869",1
+2018,"Motorcyclist","SA",1,1,"reported","reported","256, 303","1769, 1391",1
+2018,"Motorcyclist","Tas",1,1,"reported","reported","83, 88","443, 493",1
+2018,"Motorcyclist","Vic",1,1,"reported","reported","1007, 937","8174, 6187",1
+2018,"Motorcyclist","WA",1,1,"reported","reported","427, 361","2469, 1686",1
+2018,"Other or unknown","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 9","n.p., 41",0
+2018,"Other or unknown","NSW",1,1,"reported","reported","77, 86","551, 731",1
+2018,"Other or unknown","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 189",0
+2018,"Other or unknown","Qld",1,1,"reported","reported","67, 64","378, 312",1
+2018,"Other or unknown","SA",1,1,"reported","reported","24, 27","96, 106",1
+2018,"Other or unknown","Tas",1,1,"reported","reported","6, 9","14, 101",1
+2018,"Other or unknown","Vic",1,1,"reported","reported","82, 68","594, 855",1
+2018,"Other or unknown","WA",1,1,"reported","reported","34, 26","154, 144",1
+2018,"Pedal cyclist","ACT",1,1,"reported","reported","104, 113","195, 204",1
+2018,"Pedal cyclist","NSW",1,1,"reported","reported","864, 817","2928, 2837",1
+2018,"Pedal cyclist","NT",1,1,"reported","reported","35, 36","72, 172",1
+2018,"Pedal cyclist","Qld",1,1,"reported","reported","713, 695","2051, 1994",1
+2018,"Pedal cyclist","SA",1,1,"reported","reported","266, 230","952, 764",1
+2018,"Pedal cyclist","Tas",1,1,"reported","reported","57, 52","234, 106",1
+2018,"Pedal cyclist","Vic",1,1,"reported","reported","1197, 947","3510, 2669",1
+2018,"Pedal cyclist","WA",1,1,"reported","reported","343, 322","841, 837",1
+2018,"Pedestrian","ACT",1,1,"reported","reported","9, 15","76, 152",1
+2018,"Pedestrian","NSW",1,1,"reported","reported","415, 408","3993, 5323",1
+2018,"Pedestrian","NT",1,1,"reported","reported","36, 37","260, 324",1
+2018,"Pedestrian","Qld",1,1,"reported","reported","215","1618, 1490",1
+2018,"Pedestrian","SA",1,1,"reported","reported","73, 75","638, 650",1
+2018,"Pedestrian","Tas",1,1,"reported","reported","20, 39","125, 640",1
+2018,"Pedestrian","Vic",1,1,"reported","reported","445, 385","4059, 4749",1
+2018,"Pedestrian","WA",1,1,"reported","reported","89, 100","584, 1004",1
+2018,"Pick-up truck or van occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2018,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","42, 26","110, 92",1
+2018,"Pick-up truck or van occupant","NT",1,1,"reported, suppressed","reported, suppressed","7, n.p.","9, n.p.",0
+2018,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","40, 29","308, 260",1
+2018,"Pick-up truck or van occupant","SA",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 204",0
+2018,"Pick-up truck or van occupant","Tas",1,1,"reported, suppressed","reported, suppressed","5, n.p.","62, n.p.",0
+2018,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","43, 27","259, 209",1
+2018,"Pick-up truck or van occupant","WA",1,1,"reported","reported","10, 19","36, 82",1
+2019,"Bus occupant","ACT",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2019,"Bus occupant","NSW",1,1,"reported","reported","49, 48","170, 187",1
+2019,"Bus occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2019,"Bus occupant","Qld",1,1,"reported","reported","18, 21","77, 69",1
+2019,"Bus occupant","SA",1,1,"reported","reported","7","16, 20",1
+2019,"Bus occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2019,"Bus occupant","Vic",1,1,"reported","reported","33, 34","63, 128",1
+2019,"Bus occupant","WA",1,1,"reported","reported","7, 9","10, 64",1
+2019,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","159, 120","640, 437",1
+2019,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2181, 2216","13591, 12463",1
+2019,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","172, 175","699, 1167",1
+2019,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","2370, 2459","8213, 9434",1
+2019,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","477, 598","2288, 2774",1
+2019,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","194, 150","1137, 619",1
+2019,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","3048, 2948","14568, 14406",1
+2019,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","704, 836","3434, 4141",1
+2019,"Heavy transport driver, passenger or unknown position","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2019,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","68, 59","928, 152",1
+2019,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2019,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","73, 92","432, 409",1
+2019,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","27, 17","54, 28",1
+2019,"Heavy transport driver, passenger or unknown position","Tas",1,1,"reported, suppressed","reported, suppressed","9, n.p.","149, n.p.",0
+2019,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","59, 63","523, 377",1
+2019,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","23, 17","125, 215",1
+2019,"Motorcyclist","ACT",1,1,"reported","reported","65, 71","440, 468",1
+2019,"Motorcyclist","NSW",1,1,"reported","reported","1265, 1300","8203, 8651",1
+2019,"Motorcyclist","NT",1,1,"reported","reported","69, 84","422, 358",1
+2019,"Motorcyclist","Qld",1,1,"reported","reported","1116, 1206","5846, 6762",1
+2019,"Motorcyclist","SA",1,1,"reported","reported","300, 262","1166, 1140",1
+2019,"Motorcyclist","Tas",1,1,"reported","reported","75, 73","678, 348",1
+2019,"Motorcyclist","Vic",1,1,"reported","reported","1049, 890","7269, 6136",1
+2019,"Motorcyclist","WA",1,1,"reported","reported","421, 465","2335, 2834",1
+2019,"Other or unknown","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2019,"Other or unknown","NSW",1,1,"reported","reported","78, 90","693, 1354",1
+2019,"Other or unknown","NT",1,1,"reported","reported","8, 9","27, 187",1
+2019,"Other or unknown","Qld",1,1,"reported","reported","58, 62","210, 431",1
+2019,"Other or unknown","SA",1,1,"reported, suppressed","reported, suppressed","23, n.p.","155, n.p.",0
+2019,"Other or unknown","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 11","n.p., 105",0
+2019,"Other or unknown","Vic",1,1,"reported","reported","84, 85","425, 573",1
+2019,"Other or unknown","WA",1,1,"reported","reported","25, 37","247, 88",1
+2019,"Pedal cyclist","ACT",1,1,"reported","reported","120, 98","243, 421",1
+2019,"Pedal cyclist","NSW",1,1,"reported","reported","886, 792","3150, 2574",1
+2019,"Pedal cyclist","NT",1,1,"reported","reported","43, 41","241, 179",1
+2019,"Pedal cyclist","Qld",1,1,"reported","reported","753, 778","2311, 1931",1
+2019,"Pedal cyclist","SA",1,1,"reported","reported","289, 237","647, 916",1
+2019,"Pedal cyclist","Tas",1,1,"reported","reported","67, 54","148, 104",1
+2019,"Pedal cyclist","Vic",1,1,"reported","reported","1205, 1010","3751, 3590",1
+2019,"Pedal cyclist","WA",1,1,"reported","reported","370, 365","1216, 1027",1
+2019,"Pedestrian","ACT",1,1,"reported","reported","14, 8","39, 75",1
+2019,"Pedestrian","NSW",1,1,"reported","reported","439, 419","5220, 5456",1
+2019,"Pedestrian","NT",1,1,"reported","reported","22, 16","297, 112",1
+2019,"Pedestrian","Qld",1,1,"reported","reported","230, 214","1942, 1776",1
+2019,"Pedestrian","SA",1,1,"reported","reported","89, 78","753, 589",1
+2019,"Pedestrian","Tas",1,1,"reported","reported","33, 20","264, 244",1
+2019,"Pedestrian","Vic",1,1,"reported","reported","392, 423","3849, 4967",1
+2019,"Pedestrian","WA",1,1,"reported","reported","116, 111","1053, 914",1
+2019,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","23, 29","114, 92",1
+2019,"Pick-up truck or van occupant","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 56",0
+2019,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","25, 40","131, 215",1
+2019,"Pick-up truck or van occupant","SA",1,1,"reported, suppressed","reported, suppressed","9, n.p.","143, n.p.",0
+2019,"Pick-up truck or van occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2019,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","33, 36","221, 163",1
+2019,"Pick-up truck or van occupant","WA",1,1,"reported","reported","13, 15","82, 37",1
+2020,"Bus occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"Bus occupant","NSW",1,1,"reported","reported","32","239, 195",1
+2020,"Bus occupant","NT",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"Bus occupant","Qld",1,1,"reported","reported","12, 10","22, 13",1
+2020,"Bus occupant","SA",1,1,"reported","reported","16, 7","48, 8",1
+2020,"Bus occupant","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"Bus occupant","Vic",1,1,"reported","reported","16, 18","42, 149",1
+2020,"Bus occupant","WA",1,1,"reported","reported","7, 13","21, 44",1
+2020,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","106, 124","803, 448",1
+2020,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","1705, 2219","10624, 13347",1
+2020,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","128, 257","790, 1025",1
+2020,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","2006, 2830","7547, 9007",1
+2020,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","485, 604","2855, 3080",1
+2020,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","152, 226","679, 1260",1
+2020,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","2488, 2173","13185, 9822",1
+2020,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","635, 863","4152, 4498",1
+2020,"Heavy transport driver, passenger or unknown position","ACT",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","55, 70","411, 369",1
+2020,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 6","n.p., 19",0
+2020,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","86, 85","493, 536",1
+2020,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","14, 15","19, 120",1
+2020,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","46, 57","373, 451",1
+2020,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","18, 26","128, 63",1
+2020,"Motorcyclist","ACT",1,1,"reported","reported","68, 74","334, 220",1
+2020,"Motorcyclist","NSW",1,1,"reported","reported","1035, 1300","6681, 8581",1
+2020,"Motorcyclist","NT",1,1,"reported","reported","91, 104","294, 353",1
+2020,"Motorcyclist","Qld",1,1,"reported","reported","1061, 1386","5015, 6291",1
+2020,"Motorcyclist","SA",1,1,"reported","reported","250, 333","1418, 1546",1
+2020,"Motorcyclist","Tas",1,1,"reported","reported","85, 107","351, 366",1
+2020,"Motorcyclist","Vic",1,1,"reported","reported","852, 830","5291, 4567",1
+2020,"Motorcyclist","WA",1,1,"reported","reported","469, 480","2864, 3048",1
+2020,"Other or unknown","ACT",1,1,"reported","reported","6","108, 7",1
+2020,"Other or unknown","NSW",1,1,"reported","reported","64, 74","785, 649",1
+2020,"Other or unknown","NT",1,1,"reported","reported","13, 10","22, 88",1
+2020,"Other or unknown","Qld",1,1,"reported","reported","70, 72","532, 272",1
+2020,"Other or unknown","SA",1,1,"reported","reported","20, 12","37, 54",1
+2020,"Other or unknown","Tas",1,1,"reported","reported","6","30, 15",1
+2020,"Other or unknown","Vic",1,1,"reported","reported","78, 66","430, 370",1
+2020,"Other or unknown","WA",1,1,"reported","reported","32, 42","83, 160",1
+2020,"Pedal cyclist","ACT",1,1,"reported","reported","99, 124","169, 343",1
+2020,"Pedal cyclist","NSW",1,1,"reported","reported","963, 987","3373, 3993",1
+2020,"Pedal cyclist","NT",1,1,"reported","reported","58, 50","128, 137",1
+2020,"Pedal cyclist","Qld",1,1,"reported","reported","847, 837","2362, 2348",1
+2020,"Pedal cyclist","SA",1,1,"reported","reported","304, 289","1139, 624",1
+2020,"Pedal cyclist","Tas",1,1,"reported","reported","57, 76","118, 217",1
+2020,"Pedal cyclist","Vic",1,1,"reported","reported","1226, 1419","3352, 3317",1
+2020,"Pedal cyclist","WA",1,1,"reported","reported","451, 383","1375, 1089",1
+2020,"Pedestrian","ACT",1,1,"reported","reported","5, 9","30, 38",1
+2020,"Pedestrian","NSW",1,1,"reported","reported","299, 361","3643, 5072",1
+2020,"Pedestrian","NT",1,1,"reported","reported","25, 31","230, 300",1
+2020,"Pedestrian","Qld",1,1,"reported","reported","172, 242","1326, 1706",1
+2020,"Pedestrian","SA",1,1,"reported","reported","66, 65","514, 616",1
+2020,"Pedestrian","Tas",1,1,"reported","reported","13, 23","120, 166",1
+2020,"Pedestrian","Vic",1,1,"reported","reported","303, 255","4165, 2049",1
+2020,"Pedestrian","WA",1,1,"reported","reported","71, 112","426, 701",1
+2020,"Pick-up truck or van occupant","ACT",1,0,"suppressed","suppressed","n.p.","n.p.",0
+2020,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","38, 40","150, 259",1
+2020,"Pick-up truck or van occupant","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","33, 52","171, 209",1
+2020,"Pick-up truck or van occupant","SA",1,1,"reported","reported","16, 7","66, 36",1
+2020,"Pick-up truck or van occupant","Tas",1,1,"reported, suppressed","reported, suppressed","7, n.p.","15, n.p.",0
+2020,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","21, 36","176, 198",1
+2020,"Pick-up truck or van occupant","WA",1,1,"reported","reported","21, 13","92, 44",1
+2021,"Bus occupant","NSW",1,1,"reported","reported","32, 18","132, 123",1
+2021,"Bus occupant","NT",1,1,"reported, suppressed","reported, suppressed","5, n.p.","8, n.p.",0
+2021,"Bus occupant","Qld",1,1,"reported","reported","15, 23","68, 37",1
+2021,"Bus occupant","SA",1,1,"reported","reported","8, 6","19, 23",1
+2021,"Bus occupant","Tas",0,1,"suppressed","suppressed","n.p.","n.p.",0
+2021,"Bus occupant","Vic",1,1,"reported","reported","21, 16","90, 197",1
+2021,"Bus occupant","WA",1,1,"reported","reported","12, 10","15, 38",1
+2021,"Car driver, passenger or unknown position","ACT",1,1,"reported","reported","146, 88","798, 239",1
+2021,"Car driver, passenger or unknown position","NSW",1,1,"reported","reported","2160, 1509","13654, 9835",1
+2021,"Car driver, passenger or unknown position","NT",1,1,"reported","reported","175, 187","1021, 1497",1
+2021,"Car driver, passenger or unknown position","Qld",1,1,"reported","reported","2673, 2798","9711, 9091",1
+2021,"Car driver, passenger or unknown position","SA",1,1,"reported","reported","609, 622","2536, 3043",1
+2021,"Car driver, passenger or unknown position","Tas",1,1,"reported","reported","206, 193","1662, 1087",1
+2021,"Car driver, passenger or unknown position","Vic",1,1,"reported","reported","2909, 2493","13277, 11449",1
+2021,"Car driver, passenger or unknown position","WA",1,1,"reported","reported","789, 790","4646, 5294",1
+2021,"Heavy transport driver, passenger or unknown position","NSW",1,1,"reported","reported","54, 49","321, 369",1
+2021,"Heavy transport driver, passenger or unknown position","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2021,"Heavy transport driver, passenger or unknown position","Qld",1,1,"reported","reported","73, 71","326, 308",1
+2021,"Heavy transport driver, passenger or unknown position","SA",1,1,"reported","reported","11, 15","49, 36",1
+2021,"Heavy transport driver, passenger or unknown position","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2021,"Heavy transport driver, passenger or unknown position","Vic",1,1,"reported","reported","63, 73","621, 585",1
+2021,"Heavy transport driver, passenger or unknown position","WA",1,1,"reported","reported","23, 24","36, 127",1
+2021,"Motorcyclist","ACT",1,1,"reported","reported","93, 51","323, 218",1
+2021,"Motorcyclist","NSW",1,1,"reported","reported","1265, 988","8386, 5599",1
+2021,"Motorcyclist","NT",1,1,"reported","reported","76, 81","266, 374",1
+2021,"Motorcyclist","Qld",1,1,"reported","reported","1288, 1310","5581, 6495",1
+2021,"Motorcyclist","SA",1,1,"reported","reported","280, 276","1437, 1157",1
+2021,"Motorcyclist","Tas",1,1,"reported","reported","108, 90","676, 440",1
+2021,"Motorcyclist","Vic",1,1,"reported","reported","1084, 883","6655, 5072",1
+2021,"Motorcyclist","WA",1,1,"reported","reported","450, 432","3205, 3376",1
+2021,"Other or unknown","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2021,"Other or unknown","NSW",1,1,"reported","reported","86, 78","818, 627",1
+2021,"Other or unknown","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 124",0
+2021,"Other or unknown","Qld",1,1,"reported","reported","82, 70","387, 474",1
+2021,"Other or unknown","SA",1,1,"reported","reported","15, 25","120, 85",1
+2021,"Other or unknown","Tas",1,1,"reported, suppressed","reported, suppressed","8, n.p.","41, n.p.",0
+2021,"Other or unknown","Vic",1,1,"reported","reported","81, 54","596, 342",1
+2021,"Other or unknown","WA",1,1,"reported","reported","43, 28","338, 132",1
+2021,"Pedal cyclist","ACT",1,1,"reported","reported","183, 150","436, 528",1
+2021,"Pedal cyclist","NSW",1,1,"reported","reported","984, 1058","3603, 3488",1
+2021,"Pedal cyclist","NT",1,1,"reported","reported","43, 49","120, 95",1
+2021,"Pedal cyclist","Qld",1,1,"reported","reported","722, 782","2562, 2214",1
+2021,"Pedal cyclist","SA",1,1,"reported","reported","324, 253","1012, 801",1
+2021,"Pedal cyclist","Tas",1,1,"reported","reported","69, 49","337, 350",1
+2021,"Pedal cyclist","Vic",1,1,"reported","reported","1373, 1322","4386, 3495",1
+2021,"Pedal cyclist","WA",1,1,"reported","reported","361, 343","1373, 1651",1
+2021,"Pedestrian","ACT",1,1,"reported","reported","14, 8","74, 116",1
+2021,"Pedestrian","NSW",1,1,"reported","reported","381, 268","4081, 3659",1
+2021,"Pedestrian","NT",1,1,"reported","reported","30, 28","134, 249",1
+2021,"Pedestrian","Qld",1,1,"reported","reported","219, 229","1869, 1322",1
+2021,"Pedestrian","SA",1,1,"reported","reported","83, 89","871, 639",1
+2021,"Pedestrian","Tas",1,1,"reported","reported","21, 25","95, 107",1
+2021,"Pedestrian","Vic",1,1,"reported","reported","353, 329","3640, 3682",1
+2021,"Pedestrian","WA",1,1,"reported","reported","100, 120","832, 971",1
+2021,"Pick-up truck or van occupant","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2021,"Pick-up truck or van occupant","NSW",1,1,"reported","reported","43, 30","129, 274",1
+2021,"Pick-up truck or van occupant","NT",1,1,"reported, suppressed","reported, suppressed","9, n.p.","17, n.p.",0
+2021,"Pick-up truck or van occupant","Qld",1,1,"reported","reported","55, 37","306, 138",1
+2021,"Pick-up truck or van occupant","SA",1,1,"reported","reported","7, 9","14, 10",1
+2021,"Pick-up truck or van occupant","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 13","n.p., 17",0
+2021,"Pick-up truck or van occupant","Vic",1,1,"reported","reported","37, 39","286, 326",1
+2021,"Pick-up truck or van occupant","WA",1,1,"reported","reported","22, 21","109, 145",1

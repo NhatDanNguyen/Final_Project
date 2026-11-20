@@ -1,0 +1,100 @@
+"year","remoteness","sex","hospitalisations"
+2011,"Major Cities","Female",7727
+2011,"Major Cities","Male",14143
+2011,"Missing","Female",226
+2011,"Missing","Male",320
+2011,"Regional","Female",3432
+2011,"Regional","Male",7029
+2011,"Remote","Female",327
+2011,"Remote","Male",829
+2012,"Major Cities","Female",7563
+2012,"Major Cities","Male",14249
+2012,"Missing","Female",250
+2012,"Missing","Male",378
+2012,"Regional","Female",3386
+2012,"Regional","Male",6935
+2012,"Remote","Female",394
+2012,"Remote","Male",869
+2013,"Major Cities","Female",8201
+2013,"Major Cities","Male",14931
+2013,"Major Cities","intersex or indeterminate or missing",2
+2013,"Missing","Female",256
+2013,"Missing","Male",407
+2013,"Regional","Female",3221
+2013,"Regional","Male",6763
+2013,"Remote","Female",364
+2013,"Remote","Male",856
+2014,"Major Cities","Female",8331
+2014,"Major Cities","Male",15150
+2014,"Missing","Female",313
+2014,"Missing","Male",433
+2014,"Regional","Female",3259
+2014,"Regional","Male",6876
+2014,"Remote","Female",391
+2014,"Remote","Male",762
+2015,"Major Cities","Female",8941
+2015,"Major Cities","Male",15616
+2015,"Missing","Female",358
+2015,"Missing","Male",487
+2015,"Regional","Female",3491
+2015,"Regional","Male",7011
+2015,"Remote","Female",371
+2015,"Remote","Male",806
+2015,"Remote","intersex or indeterminate or missing",1
+2016,"Major Cities","Female",9614
+2016,"Major Cities","Male",16730
+2016,"Missing","Female",322
+2016,"Missing","Male",491
+2016,"Regional","Female",3649
+2016,"Regional","Male",7013
+2016,"Remote","Female",367
+2016,"Remote","Male",777
+2017,"Major Cities","Female",9594
+2017,"Major Cities","Male",16685
+2017,"Missing","Female",386
+2017,"Missing","Male",582
+2017,"Regional","Female",3776
+2017,"Regional","Male",7262
+2017,"Remote","Female",327
+2017,"Remote","Male",727
+2018,"Major Cities","Female",9624
+2018,"Major Cities","Male",16543
+2018,"Major Cities","intersex or indeterminate or missing",1
+2018,"Missing","Female",415
+2018,"Missing","Male",598
+2018,"Regional","Female",3806
+2018,"Regional","Male",7402
+2018,"Regional","intersex or indeterminate or missing",1
+2018,"Remote","Female",428
+2018,"Remote","Male",772
+2019,"Major Cities","Female",9795
+2019,"Major Cities","Male",16759
+2019,"Major Cities","intersex or indeterminate or missing",1
+2019,"Missing","Female",457
+2019,"Missing","Male",709
+2019,"Missing","intersex or indeterminate or missing",1
+2019,"Regional","Female",3855
+2019,"Regional","Male",7190
+2019,"Remote","Female",392
+2019,"Remote","Male",707
+2020,"Major Cities","Female",8518
+2020,"Major Cities","Male",16403
+2020,"Major Cities","intersex or indeterminate or missing",4
+2020,"Missing","Female",294
+2020,"Missing","Male",520
+2020,"Missing","intersex or indeterminate or missing",1
+2020,"Regional","Female",3653
+2020,"Regional","Male",7400
+2020,"Regional","intersex or indeterminate or missing",1
+2020,"Remote","Female",316
+2020,"Remote","Male",855
+2020,"Remote","intersex or indeterminate or missing",1
+2021,"Major Cities","Female",9432
+2021,"Major Cities","Male",16922
+2021,"Major Cities","intersex or indeterminate or missing",1
+2021,"Missing","Female",201
+2021,"Missing","Male",428
+2021,"Regional","Female",3739
+2021,"Regional","Male",7668
+2021,"Remote","Female",344
+2021,"Remote","Male",770

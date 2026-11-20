@@ -1,0 +1,617 @@
+"year","age_group","state","first_half","second_half","hospitalisations_status","bed_days_status","hospitalisations","bed_days","completeness"
+2011,"0-7","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 5","n.p., 10",0
+2011,"0-7","NSW",1,1,"reported","reported","100, 104","222, 563",1
+2011,"0-7","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 10",0
+2011,"0-7","Qld",1,1,"reported","reported","96, 101","249, 217",1
+2011,"0-7","SA",1,1,"reported","reported","23, 21","30, 56",1
+2011,"0-7","Tas",1,1,"reported","reported","14, 6","49, 22",1
+2011,"0-7","Vic",1,1,"reported","reported","76, 73","218, 175",1
+2011,"0-7","WA",1,1,"reported","reported","39, 45","336, 116",1
+2011,"17-25","ACT",1,1,"reported","reported","68, 50","390, 111",1
+2011,"17-25","NSW",1,1,"reported","reported","1173, 1329","5029, 4813",1
+2011,"17-25","NT",1,1,"reported","reported","59, 60","290, 317",1
+2011,"17-25","Qld",1,1,"reported","reported","735, 764","3258, 2805",1
+2011,"17-25","SA",1,1,"reported","reported","260, 267","1039, 879",1
+2011,"17-25","Tas",1,1,"reported","reported","64, 62","367, 414",1
+2011,"17-25","Vic",1,1,"reported","reported","1055, 1092","3001, 3015",1
+2011,"17-25","WA",1,1,"reported","reported","443, 413","1933, 2128",1
+2011,"26-39","ACT",1,1,"reported","reported","79, 63","292, 220",1
+2011,"26-39","NSW",1,1,"reported","reported","1255, 1207","4630, 4557",1
+2011,"26-39","NT",1,1,"reported","reported","64, 70","487, 278",1
+2011,"26-39","Qld",1,1,"reported","reported","686, 771","3414, 3312",1
+2011,"26-39","SA",1,1,"reported","reported","254, 287","1675, 1238",1
+2011,"26-39","Tas",1,1,"reported","reported","43, 54","217, 474",1
+2011,"26-39","Vic",1,1,"reported","reported","1159, 1199","3790, 3968",1
+2011,"26-39","WA",1,1,"reported","reported","391, 432","2117, 2266",1
+2011,"40-64","ACT",1,1,"reported","reported","83, 94","417, 312",1
+2011,"40-64","NSW",1,1,"reported","reported","1602, 1750","7448, 8361",1
+2011,"40-64","NT",1,1,"reported","reported","52, 72","563, 459",1
+2011,"40-64","Qld",1,1,"reported","reported","925, 1011","4479, 4856",1
+2011,"40-64","SA",1,1,"reported","reported","405, 369","2428, 2007",1
+2011,"40-64","Tas",1,1,"reported","reported","71, 72","424, 505",1
+2011,"40-64","Vic",1,1,"reported","reported","1483, 1531","5346, 6044",1
+2011,"40-64","WA",1,1,"reported","reported","523, 525","3387, 3116",1
+2011,"65-74","ACT",1,1,"reported, suppressed","reported, suppressed","10, n.p.","104, n.p.",0
+2011,"65-74","NSW",1,1,"reported","reported","341, 314","2969, 2294",1
+2011,"65-74","NT",1,1,"reported, suppressed","reported, suppressed","8, n.p.","188, n.p.",0
+2011,"65-74","Qld",1,1,"reported","reported","156, 174","937, 960",1
+2011,"65-74","SA",1,1,"reported","reported","59, 84","376, 579",1
+2011,"65-74","Tas",1,1,"reported","reported","14, 13","98, 95",1
+2011,"65-74","Vic",1,1,"reported","reported","275, 306","1557, 1304",1
+2011,"65-74","WA",1,1,"reported","reported","99, 84","457, 461",1
+2011,"75+","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"75+","NSW",1,1,"reported","reported","338, 350","3770, 2743",1
+2011,"75+","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2011,"75+","Qld",1,1,"reported","reported","119, 152","871, 1467",1
+2011,"75+","SA",1,1,"reported","reported","71, 98","602, 606",1
+2011,"75+","Tas",1,1,"reported","reported","18, 16","152, 156",1
+2011,"75+","Vic",1,1,"reported","reported","262, 282","2178, 1892",1
+2011,"75+","WA",1,1,"reported","reported","82, 72","529, 400",1
+2011,"8-16","ACT",1,1,"reported","reported","22, 16","112, 281",1
+2011,"8-16","NSW",1,1,"reported","reported","414, 341","2021, 924",1
+2011,"8-16","NT",1,1,"reported","reported","26, 28","197, 88",1
+2011,"8-16","Qld",1,1,"reported","reported","300, 332","759, 949",1
+2011,"8-16","SA",1,1,"reported","reported","75, 86","296, 221",1
+2011,"8-16","Tas",1,1,"reported","reported","23","53, 80",1
+2011,"8-16","Vic",1,1,"reported","reported","275, 258","609, 827",1
+2011,"8-16","WA",1,1,"reported","reported","147","625, 614",1
+2012,"0-7","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"0-7","NSW",1,1,"reported","reported","113, 133","630, 628",1
+2012,"0-7","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"0-7","Qld",1,1,"reported","reported","96, 97","220, 303",1
+2012,"0-7","SA",1,1,"reported","reported","21, 19","51, 30",1
+2012,"0-7","Tas",1,1,"reported","reported","8, 11","9, 34",1
+2012,"0-7","Vic",1,1,"reported","reported","67, 59","185, 136",1
+2012,"0-7","WA",1,1,"reported","reported","43, 50","184, 274",1
+2012,"17-25","ACT",1,1,"reported","reported","69, 72","318, 190",1
+2012,"17-25","NSW",1,1,"reported","reported","1277, 1239","4476, 4170",1
+2012,"17-25","NT",1,1,"reported","reported","47, 74","307, 400",1
+2012,"17-25","Qld",1,1,"reported","reported","763, 884","2991, 3374",1
+2012,"17-25","SA",1,1,"reported","reported","262, 276","1138, 1164",1
+2012,"17-25","Tas",1,1,"reported","reported","68, 66","377, 234",1
+2012,"17-25","Vic",1,1,"reported","reported","1121, 770","2909, 2631",1
+2012,"17-25","WA",1,1,"reported","reported","373, 447","1965, 2021",1
+2012,"26-39","ACT",1,1,"reported","reported","91, 66","320, 198",1
+2012,"26-39","NSW",1,1,"reported","reported","1281, 1359","4766, 5350",1
+2012,"26-39","NT",1,1,"reported","reported","69, 81","285, 577",1
+2012,"26-39","Qld",1,1,"reported","reported","731, 862","3025, 3387",1
+2012,"26-39","SA",1,1,"reported","reported","228, 240","1292, 1021",1
+2012,"26-39","Tas",1,1,"reported","reported","53, 49","316, 211",1
+2012,"26-39","Vic",1,1,"reported","reported","1178, 872","3604, 3293",1
+2012,"26-39","WA",1,1,"reported","reported","465, 437","2388, 2172",1
+2012,"40-64","ACT",1,1,"reported","reported","91, 114","359, 437",1
+2012,"40-64","NSW",1,1,"reported","reported","1763, 1828","8344, 8316",1
+2012,"40-64","NT",1,1,"reported","reported","69, 74","548, 458",1
+2012,"40-64","Qld",1,1,"reported","reported","982, 1157","4850, 5669",1
+2012,"40-64","SA",1,1,"reported","reported","378, 382","2270, 2577",1
+2012,"40-64","Tas",1,1,"reported","reported","80, 90","414, 465",1
+2012,"40-64","Vic",1,1,"reported","reported","1456, 1075","4853, 4363",1
+2012,"40-64","WA",1,1,"reported","reported","495, 533","2645, 2955",1
+2012,"65-74","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 24",0
+2012,"65-74","NSW",1,1,"reported","reported","315, 349","2135, 2122",1
+2012,"65-74","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 12","n.p., 102",0
+2012,"65-74","Qld",1,1,"reported","reported","171, 198","1357, 1336",1
+2012,"65-74","SA",1,1,"reported","reported","71, 79","408, 457",1
+2012,"65-74","Tas",1,1,"reported","reported","16, 11","193, 52",1
+2012,"65-74","Vic",1,1,"reported","reported","302, 224","1592, 1392",1
+2012,"65-74","WA",1,1,"reported","reported","70, 80","308, 450",1
+2012,"75+","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"75+","NSW",1,1,"reported","reported","328, 377","2361, 3545",1
+2012,"75+","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2012,"75+","Qld",1,1,"reported","reported","150, 160","1048, 1326",1
+2012,"75+","SA",1,1,"reported","reported","84, 132","700, 935",1
+2012,"75+","Tas",1,1,"reported","reported","25, 17","247, 103",1
+2012,"75+","Vic",1,1,"reported","reported","296, 256","2242, 1918",1
+2012,"75+","WA",1,1,"reported","reported","87, 99","607, 786",1
+2012,"8-16","ACT",1,1,"reported","reported","26, 10","74, 41",1
+2012,"8-16","NSW",1,1,"reported","reported","353, 406","973, 2142",1
+2012,"8-16","NT",1,1,"reported","reported","16, 30","91, 62",1
+2012,"8-16","Qld",1,1,"reported","reported","273, 289","825, 703",1
+2012,"8-16","SA",1,1,"reported","reported","63, 76","238, 152",1
+2012,"8-16","Tas",1,1,"reported","reported","21","142, 51",1
+2012,"8-16","Vic",1,1,"reported","reported","249, 173","622, 505",1
+2012,"8-16","WA",1,1,"reported","reported","159, 155","723, 421",1
+2013,"0-7","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"0-7","NSW",1,1,"reported","reported","106, 132","407, 285",1
+2013,"0-7","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"0-7","Qld",1,1,"reported","reported","88, 129","149, 273",1
+2013,"0-7","SA",1,1,"reported","reported","13, 21","37, 41",1
+2013,"0-7","Tas",1,1,"reported, suppressed","reported, suppressed","8, n.p.","20, n.p.",0
+2013,"0-7","Vic",1,1,"reported","reported","61, 67","155, 137",1
+2013,"0-7","WA",1,1,"reported","reported","41, 29","61, 207",1
+2013,"17-25","ACT",1,1,"reported","reported","56, 53","188, 253",1
+2013,"17-25","NSW",1,1,"reported","reported","1193, 1352","4480, 4164",1
+2013,"17-25","NT",1,1,"reported","reported","76, 73","374, 533",1
+2013,"17-25","Qld",1,1,"reported","reported","835, 885","2345, 2666",1
+2013,"17-25","SA",1,1,"reported","reported","209, 252","1177, 1260",1
+2013,"17-25","Tas",1,1,"reported","reported","63, 72","243, 241",1
+2013,"17-25","Vic",1,1,"reported","reported","849, 830","2914, 2085",1
+2013,"17-25","WA",1,1,"reported","reported","450, 366","1881, 1750",1
+2013,"26-39","ACT",1,1,"reported","reported","81, 79","369, 231",1
+2013,"26-39","NSW",1,1,"reported","reported","1298, 1327","4235, 4143",1
+2013,"26-39","NT",1,1,"reported","reported","70, 96","561, 630",1
+2013,"26-39","Qld",1,1,"reported","reported","843, 998","3279, 3422",1
+2013,"26-39","SA",1,1,"reported","reported","244, 264","1027, 1301",1
+2013,"26-39","Tas",1,1,"reported","reported","66, 56","239, 224",1
+2013,"26-39","Vic",1,1,"reported","reported","938, 990","2998, 2837",1
+2013,"26-39","WA",1,1,"reported","reported","502, 427","2346, 1759",1
+2013,"40-64","ACT",1,1,"reported","reported","116, 88","528, 350",1
+2013,"40-64","NSW",1,1,"reported","reported","1749, 1984","7491, 8775",1
+2013,"40-64","NT",1,1,"reported","reported","66, 80","509, 531",1
+2013,"40-64","Qld",1,1,"reported","reported","1245, 1358","5207, 5445",1
+2013,"40-64","SA",1,1,"reported","reported","356, 379","1629, 2054",1
+2013,"40-64","Tas",1,1,"reported","reported","82, 80","425, 397",1
+2013,"40-64","Vic",1,1,"reported","reported","1325, 1280","5415, 5150",1
+2013,"40-64","WA",1,1,"reported","reported","529, 532","2686, 2906",1
+2013,"65-74","ACT",1,1,"reported","reported","25, 9","148, 29",1
+2013,"65-74","NSW",1,1,"reported","reported","373, 400","2449, 2459",1
+2013,"65-74","NT",1,1,"reported","reported","10, 5","64, 36",1
+2013,"65-74","Qld",1,1,"reported","reported","203, 223","1390, 1046",1
+2013,"65-74","SA",1,1,"reported","reported","63, 66","858, 428",1
+2013,"65-74","Tas",1,1,"reported","reported","21, 24","180, 130",1
+2013,"65-74","Vic",1,1,"reported","reported","278, 258","1488, 1166",1
+2013,"65-74","WA",1,1,"reported","reported","82, 98","504, 756",1
+2013,"75+","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"75+","NSW",1,1,"reported","reported","368","2706, 3162",1
+2013,"75+","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2013,"75+","Qld",1,1,"reported","reported","172, 183","967, 1162",1
+2013,"75+","SA",1,1,"reported","reported","94, 84","766, 535",1
+2013,"75+","Tas",1,1,"reported, suppressed","reported, suppressed","15, n.p.","185, n.p.",0
+2013,"75+","Vic",1,1,"reported","reported","286, 261","1848, 1900",1
+2013,"75+","WA",1,1,"reported","reported","73, 80","548, 814",1
+2013,"8-16","ACT",1,1,"reported","reported","10, 16","58, 28",1
+2013,"8-16","NSW",1,1,"reported","reported","381, 390","1117, 1166",1
+2013,"8-16","NT",1,1,"reported","reported","21, 39","92, 190",1
+2013,"8-16","Qld",1,1,"reported","reported","333, 326","754, 914",1
+2013,"8-16","SA",1,1,"reported","reported","84, 92","217, 241",1
+2013,"8-16","Tas",1,1,"reported","reported","23, 25","92, 61",1
+2013,"8-16","Vic",1,1,"reported","reported","161, 200","498, 475",1
+2013,"8-16","WA",1,1,"reported","reported","125, 141","451, 557",1
+2014,"0-7","ACT",1,1,"reported, suppressed","reported, suppressed","6, n.p.","25, n.p.",0
+2014,"0-7","NSW",1,1,"reported","reported","112, 105","297, 449",1
+2014,"0-7","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2014,"0-7","Qld",1,1,"reported","reported","114, 102","217, 426",1
+2014,"0-7","SA",1,1,"reported","reported","20, 25","31, 75",1
+2014,"0-7","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 9",0
+2014,"0-7","Vic",1,1,"reported","reported","64, 73","182, 188",1
+2014,"0-7","WA",1,1,"reported","reported","41, 38","108, 362",1
+2014,"17-25","ACT",1,1,"reported","reported","70, 53","198, 158",1
+2014,"17-25","NSW",1,1,"reported","reported","1144, 1184","3626, 3448",1
+2014,"17-25","NT",1,1,"reported","reported","74, 80","457, 315",1
+2014,"17-25","Qld",1,1,"reported","reported","823, 928","2422, 2667",1
+2014,"17-25","SA",1,1,"reported","reported","279, 230","807, 775",1
+2014,"17-25","Tas",1,1,"reported","reported","62, 74","204, 194",1
+2014,"17-25","Vic",1,1,"reported","reported","913, 894","2970, 2329",1
+2014,"17-25","WA",1,1,"reported","reported","354, 321","1608, 1753",1
+2014,"26-39","ACT",1,1,"reported","reported","71, 76","186, 237",1
+2014,"26-39","NSW",1,1,"reported","reported","1343, 1359","4489, 4943",1
+2014,"26-39","NT",1,1,"reported","reported","92, 80","481, 378",1
+2014,"26-39","Qld",1,1,"reported","reported","925, 894","3263, 2935",1
+2014,"26-39","SA",1,1,"reported","reported","284, 237","1055, 887",1
+2014,"26-39","Tas",1,1,"reported","reported","84, 65","355, 238",1
+2014,"26-39","Vic",1,1,"reported","reported","1016, 1076","2844, 2796",1
+2014,"26-39","WA",1,1,"reported","reported","417","1976, 2236",1
+2014,"40-64","ACT",1,1,"reported","reported","85, 86","320, 337",1
+2014,"40-64","NSW",1,1,"reported","reported","1887, 1862","8131, 7391",1
+2014,"40-64","NT",1,1,"reported","reported","78, 87","356, 643",1
+2014,"40-64","Qld",1,1,"reported","reported","1231, 1315","5244, 5773",1
+2014,"40-64","SA",1,1,"reported","reported","417, 419","2096, 2806",1
+2014,"40-64","Tas",1,1,"reported","reported","108, 99","589, 427",1
+2014,"40-64","Vic",1,1,"reported","reported","1476, 1394","5323, 4462",1
+2014,"40-64","WA",1,1,"reported","reported","497, 507","2655, 2754",1
+2014,"65-74","ACT",1,1,"reported","reported","16, 14","98, 40",1
+2014,"65-74","NSW",1,1,"reported","reported","442, 400","2497, 2267",1
+2014,"65-74","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 10","n.p., 46",0
+2014,"65-74","Qld",1,1,"reported","reported","199, 258","974, 1141",1
+2014,"65-74","SA",1,1,"reported","reported","72, 80","556, 507",1
+2014,"65-74","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 16","n.p., 136",0
+2014,"65-74","Vic",1,1,"reported","reported","303, 316","1740, 1631",1
+2014,"65-74","WA",1,1,"reported","reported","90, 79","491, 656",1
+2014,"75+","ACT",1,1,"reported, suppressed","reported, suppressed","13, n.p.","163, n.p.",0
+2014,"75+","NSW",1,1,"reported","reported","371, 445","3252, 3453",1
+2014,"75+","NT",1,1,"reported, suppressed","reported, suppressed","7, n.p.","90, n.p.",0
+2014,"75+","Qld",1,1,"reported","reported","166, 177","1006, 1274",1
+2014,"75+","SA",1,1,"reported","reported","88, 83","644, 625",1
+2014,"75+","Tas",1,1,"reported","reported","35, 24","258, 249",1
+2014,"75+","Vic",1,1,"reported","reported","260, 295","1780, 1775",1
+2014,"75+","WA",1,1,"reported","reported","75, 74","798, 479",1
+2014,"8-16","ACT",1,1,"reported","reported","17, 16","30, 51",1
+2014,"8-16","NSW",1,1,"reported","reported","323, 336","1007, 790",1
+2014,"8-16","NT",1,1,"reported","reported","25, 23","86, 62",1
+2014,"8-16","Qld",1,1,"reported","reported","285, 308","891, 783",1
+2014,"8-16","SA",1,1,"reported","reported","65, 82","191, 141",1
+2014,"8-16","Tas",1,1,"reported","reported","22, 28","56, 79",1
+2014,"8-16","Vic",1,1,"reported","reported","205, 238","439, 566",1
+2014,"8-16","WA",1,1,"reported","reported","135, 109","409, 304",1
+2015,"0-7","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 7",0
+2015,"0-7","NSW",1,1,"reported","reported","100, 112","297, 498",1
+2015,"0-7","NT",1,1,"reported, suppressed","reported, suppressed","6, n.p.","25, n.p.",0
+2015,"0-7","Qld",1,1,"reported","reported","96, 110","161, 601",1
+2015,"0-7","SA",1,1,"reported","reported","23, 14","38, 21",1
+2015,"0-7","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2015,"0-7","Vic",1,1,"reported","reported","84, 83","174, 134",1
+2015,"0-7","WA",1,1,"reported","reported","48, 42","306, 137",1
+2015,"17-25","ACT",1,1,"reported","reported","52, 78","233, 270",1
+2015,"17-25","NSW",1,1,"reported","reported","1225, 1177","3720, 5191",1
+2015,"17-25","NT",1,1,"reported","reported","68, 89","357, 437",1
+2015,"17-25","Qld",1,1,"reported","reported","866, 903","2340, 2918",1
+2015,"17-25","SA",1,1,"reported","reported","236, 246","884, 763",1
+2015,"17-25","Tas",1,1,"reported","reported","78, 79","334, 349",1
+2015,"17-25","Vic",1,1,"reported","reported","912, 917","2474, 5409",1
+2015,"17-25","WA",1,1,"reported","reported","312, 343","1571, 1832",1
+2015,"26-39","ACT",1,1,"reported","reported","84, 87","221, 249",1
+2015,"26-39","NSW",1,1,"reported","reported","1286, 1277","3889, 6428",1
+2015,"26-39","NT",1,1,"reported","reported","87, 110","341, 496",1
+2015,"26-39","Qld",1,1,"reported","reported","931, 997","2701, 4857",1
+2015,"26-39","SA",1,1,"reported","reported","248, 302","886, 1386",1
+2015,"26-39","Tas",1,1,"reported","reported","83, 77","408, 352",1
+2015,"26-39","Vic",1,1,"reported","reported","1136, 1215","3117, 7349",1
+2015,"26-39","WA",1,1,"reported","reported","386, 417","1789, 2309",1
+2015,"40-64","ACT",1,1,"reported","reported","133, 117","514, 609",1
+2015,"40-64","NSW",1,1,"reported","reported","1883, 1796","7547, 12336",1
+2015,"40-64","NT",1,1,"reported","reported","116, 125","469, 931",1
+2015,"40-64","Qld",1,1,"reported","reported","1393, 1387","5047, 7537",1
+2015,"40-64","SA",1,1,"reported","reported","403, 453","2183, 1981",1
+2015,"40-64","Tas",1,1,"reported","reported","110, 108","436, 577",1
+2015,"40-64","Vic",1,1,"reported","reported","1529, 1502","5037, 10586",1
+2015,"40-64","WA",1,1,"reported","reported","523, 471","2982, 3451",1
+2015,"65-74","ACT",1,1,"reported","reported","23, 29","123, 209",1
+2015,"65-74","NSW",1,1,"reported","reported","391, 395","2442, 3007",1
+2015,"65-74","NT",1,1,"reported","reported","5, 9","28, 49",1
+2015,"65-74","Qld",1,1,"reported","reported","274, 243","1262, 1918",1
+2015,"65-74","SA",1,1,"reported","reported","87, 91","442, 649",1
+2015,"65-74","Tas",1,1,"reported","reported","17, 27","145, 196",1
+2015,"65-74","Vic",1,1,"reported","reported","329, 333","1519, 4191",1
+2015,"65-74","WA",1,1,"reported","reported","82, 101","547, 713",1
+2015,"75+","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 31","n.p., 197",0
+2015,"75+","NSW",1,1,"reported","reported","401, 389","2622, 4443",1
+2015,"75+","NT",1,1,"reported, suppressed","reported, suppressed","7, n.p.","87, n.p.",0
+2015,"75+","Qld",1,1,"reported","reported","207, 238","1315, 2111",1
+2015,"75+","SA",1,1,"reported","reported","108, 97","651, 781",1
+2015,"75+","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2015,"75+","Vic",1,1,"reported","reported","296, 350","1915, 6329",1
+2015,"75+","WA",1,1,"reported","reported","89, 82","848, 1148",1
+2015,"8-16","ACT",1,1,"reported","reported","28, 15","60, 54",1
+2015,"8-16","NSW",1,1,"reported","reported","335, 317","1074, 837",1
+2015,"8-16","NT",1,1,"reported","reported","34, 23","94, 107",1
+2015,"8-16","Qld",1,1,"reported","reported","315, 346","683, 819",1
+2015,"8-16","SA",1,1,"reported","reported","75, 84","148, 354",1
+2015,"8-16","Tas",1,1,"reported","reported","31, 21","60, 32",1
+2015,"8-16","Vic",1,1,"reported","reported","246, 266","679, 1159",1
+2015,"8-16","WA",1,1,"reported","reported","147, 140","401, 411",1
+2016,"0-7","ACT",1,1,"reported, suppressed","reported, suppressed","12, n.p.","25, n.p.",0
+2016,"0-7","NSW",1,1,"reported","reported","84, 90","459, 356",1
+2016,"0-7","NT",1,1,"reported, suppressed","reported, suppressed","8, n.p.","22, n.p.",0
+2016,"0-7","Qld",1,1,"reported","reported","93, 108","249, 221",1
+2016,"0-7","SA",1,1,"reported","reported","25","45",1
+2016,"0-7","Tas",1,1,"reported","reported","6, 5","11, 9",1
+2016,"0-7","Vic",1,1,"reported","reported","86, 87","314, 322",1
+2016,"0-7","WA",1,1,"reported","reported","41","69, 84",1
+2016,"17-25","ACT",1,1,"reported","reported","68, 70","170, 320",1
+2016,"17-25","NSW",1,1,"reported","reported","1192, 1223","4897, 5126",1
+2016,"17-25","NT",1,1,"reported","reported","93, 104","385, 379",1
+2016,"17-25","Qld",1,1,"reported","reported","1000, 1021","3113, 3127",1
+2016,"17-25","SA",1,1,"reported","reported","284, 281","938, 1141",1
+2016,"17-25","Tas",1,1,"reported","reported","94, 88","527, 444",1
+2016,"17-25","Vic",1,1,"reported","reported","1105, 1020","5228, 5007",1
+2016,"17-25","WA",1,1,"reported","reported","271, 306","1778, 2413",1
+2016,"26-39","ACT",1,1,"reported","reported","77","225, 155",1
+2016,"26-39","NSW",1,1,"reported","reported","1425, 1288","6385, 6030",1
+2016,"26-39","NT",1,1,"reported","reported","80, 118","281, 602",1
+2016,"26-39","Qld",1,1,"reported","reported","1010, 1055","3905, 4477",1
+2016,"26-39","SA",1,1,"reported","reported","289, 272","1399, 1122",1
+2016,"26-39","Tas",1,1,"reported","reported","59, 69","212, 376",1
+2016,"26-39","Vic",1,1,"reported","reported","1282, 1367","6653, 6986",1
+2016,"26-39","WA",1,1,"reported","reported","356, 387","2408, 2637",1
+2016,"40-64","ACT",1,1,"reported","reported","115, 99","518, 396",1
+2016,"40-64","NSW",1,1,"reported","reported","1887, 1948","11063, 10689",1
+2016,"40-64","NT",1,1,"reported","reported","84, 108","458, 729",1
+2016,"40-64","Qld",1,1,"reported","reported","1343, 1442","7388, 7723",1
+2016,"40-64","SA",1,1,"reported","reported","466, 411","2658, 1843",1
+2016,"40-64","Tas",1,1,"reported","reported","96, 88","569, 717",1
+2016,"40-64","Vic",1,1,"reported","reported","1762, 1725","10731, 12409",1
+2016,"40-64","WA",1,1,"reported","reported","505, 517","3834, 3567",1
+2016,"65-74","ACT",1,1,"reported, suppressed","reported, suppressed","28, n.p.","137, n.p.",0
+2016,"65-74","NSW",1,1,"reported","reported","409, 423","3191, 3028",1
+2016,"65-74","NT",1,1,"reported, suppressed","reported, suppressed","11, n.p.","121, n.p.",0
+2016,"65-74","Qld",1,1,"reported","reported","264, 289","2086, 2096",1
+2016,"65-74","SA",1,1,"reported","reported","109, 115","706, 760",1
+2016,"65-74","Tas",1,1,"reported","reported","21, 25","241, 235",1
+2016,"65-74","Vic",1,1,"reported","reported","348, 377","3923, 3320",1
+2016,"65-74","WA",1,1,"reported","reported","111, 76","1269, 820",1
+2016,"75+","ACT",1,1,"reported","reported","16, 27","288, 200",1
+2016,"75+","NSW",1,1,"reported","reported","404, 396","3298, 3894",1
+2016,"75+","NT",1,1,"reported","reported","6, 7","86, 333",1
+2016,"75+","Qld",1,1,"reported","reported","223, 210","1782, 2318",1
+2016,"75+","SA",1,1,"reported","reported","113, 109","1241, 874",1
+2016,"75+","Tas",1,1,"reported","reported","22, 24","289, 218",1
+2016,"75+","Vic",1,1,"reported","reported","335, 338","5333, 6075",1
+2016,"75+","WA",1,1,"reported","reported","77, 86","891, 1255",1
+2016,"8-16","ACT",1,1,"reported","reported","19, 32","59, 52",1
+2016,"8-16","NSW",1,1,"reported","reported","375, 330","1020, 913",1
+2016,"8-16","NT",1,1,"reported","reported","29, 32","148, 75",1
+2016,"8-16","Qld",1,1,"reported","reported","335, 309","751, 581",1
+2016,"8-16","SA",1,1,"reported","reported","84, 71","176, 247",1
+2016,"8-16","Tas",1,1,"reported","reported","32, 28","58",1
+2016,"8-16","Vic",1,1,"reported","reported","282, 246","768, 709",1
+2016,"8-16","WA",1,1,"reported","reported","147, 110","515, 362",1
+2017,"0-7","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"0-7","NSW",1,1,"reported","reported","108, 82","284, 298",1
+2017,"0-7","NT",1,1,"reported","reported","6, 14","14, 103",1
+2017,"0-7","Qld",1,1,"reported","reported","95, 122","153, 260",1
+2017,"0-7","SA",1,1,"reported","reported","19, 21","74, 194",1
+2017,"0-7","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"0-7","Vic",1,1,"reported","reported","90, 103","112, 199",1
+2017,"0-7","WA",1,1,"reported","reported","35, 28","81, 66",1
+2017,"17-25","ACT",1,1,"reported","reported","52, 61","141, 215",1
+2017,"17-25","NSW",1,1,"reported","reported","1180, 1213","4264, 4814",1
+2017,"17-25","NT",1,1,"reported","reported","61, 118","198, 448",1
+2017,"17-25","Qld",1,1,"reported","reported","987, 1054","3264, 3556",1
+2017,"17-25","SA",1,1,"reported","reported","252, 211","961, 1036",1
+2017,"17-25","Tas",1,1,"reported","reported","66, 83","220, 326",1
+2017,"17-25","Vic",1,1,"reported","reported","1124, 1088","4974, 5445",1
+2017,"17-25","WA",1,1,"reported","reported","276, 336","1652, 1681",1
+2017,"26-39","ACT",1,1,"reported","reported","74, 79","166, 353",1
+2017,"26-39","NSW",1,1,"reported","reported","1314, 1196","5910, 6592",1
+2017,"26-39","NT",1,1,"reported","reported","107, 90","379, 558",1
+2017,"26-39","Qld",1,1,"reported","reported","1081, 1061","4181, 3449",1
+2017,"26-39","SA",1,1,"reported","reported","292, 233","1478, 1333",1
+2017,"26-39","Tas",1,1,"reported","reported","58, 46","395, 282",1
+2017,"26-39","Vic",1,1,"reported","reported","1444, 1319","7446, 6323",1
+2017,"26-39","WA",1,1,"reported","reported","408, 396","2168, 1965",1
+2017,"40-64","ACT",1,1,"reported","reported","146, 91","440, 382",1
+2017,"40-64","NSW",1,1,"reported","reported","1854, 1793","10788, 10243",1
+2017,"40-64","NT",1,1,"reported","reported","77, 127","708, 865",1
+2017,"40-64","Qld",1,1,"reported","reported","1440, 1564","7014, 7090",1
+2017,"40-64","SA",1,1,"reported","reported","460, 331","2210, 2271",1
+2017,"40-64","Tas",1,1,"reported","reported","117, 116","540, 1037",1
+2017,"40-64","Vic",1,1,"reported","reported","1826, 1781","11652, 9672",1
+2017,"40-64","WA",1,1,"reported","reported","571, 509","3795, 2938",1
+2017,"65-74","ACT",1,1,"reported","reported","26, 16","168, 92",1
+2017,"65-74","NSW",1,1,"reported","reported","443, 404","2581, 2836",1
+2017,"65-74","NT",1,1,"reported","reported","16, 14","247, 72",1
+2017,"65-74","Qld",1,1,"reported","reported","270, 310","2196, 2086",1
+2017,"65-74","SA",1,1,"reported","reported","101, 104","785, 751",1
+2017,"65-74","Tas",1,1,"reported","reported","36, 32","268, 313",1
+2017,"65-74","Vic",1,1,"reported","reported","356, 428","3483, 4109",1
+2017,"65-74","WA",1,1,"reported","reported","98, 79","1158, 943",1
+2017,"75+","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"75+","NSW",1,1,"reported","reported","393, 406","3535, 5502",1
+2017,"75+","NT",1,1,"reported","reported","8, 9","87, 210",1
+2017,"75+","Qld",1,1,"reported","reported","206, 245","2177, 2668",1
+2017,"75+","SA",1,1,"reported","reported","109, 111","1138, 1054",1
+2017,"75+","Tas",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2017,"75+","Vic",1,1,"reported","reported","324, 337","4104, 4728",1
+2017,"75+","WA",1,1,"reported","reported","83, 88","700, 924",1
+2017,"8-16","ACT",1,1,"reported","reported","20","87, 34",1
+2017,"8-16","NSW",1,1,"reported","reported","308, 322","995, 872",1
+2017,"8-16","NT",1,1,"reported","reported","21, 35","34, 74",1
+2017,"8-16","Qld",1,1,"reported","reported","341, 358","757, 1013",1
+2017,"8-16","SA",1,1,"reported","reported","80, 70","280, 214",1
+2017,"8-16","Tas",1,1,"reported","reported","34, 16","97, 24",1
+2017,"8-16","Vic",1,1,"reported","reported","284, 290","1148, 659",1
+2017,"8-16","WA",1,1,"reported","reported","145, 143","599, 490",1
+2018,"0-7","ACT",1,1,"reported","reported","9, 5","17, 7",1
+2018,"0-7","NSW",1,1,"reported","reported","63, 67","205, 478",1
+2018,"0-7","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 12","n.p., 23",0
+2018,"0-7","Qld",1,1,"reported","reported","92, 112","224, 169",1
+2018,"0-7","SA",1,1,"reported","reported","23, 13","172, 75",1
+2018,"0-7","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 8","n.p., 10",0
+2018,"0-7","Vic",1,1,"reported","reported","126, 102","243, 346",1
+2018,"0-7","WA",1,1,"reported","reported","38","215, 222",1
+2018,"17-25","ACT",1,1,"reported","reported","62, 81","229, 201",1
+2018,"17-25","NSW",1,1,"reported","reported","1008, 966","4435, 6193",1
+2018,"17-25","NT",1,1,"reported","reported","105, 116","428, 915",1
+2018,"17-25","Qld",1,1,"reported","reported","963, 1098","3041, 3386",1
+2018,"17-25","SA",1,1,"reported","reported","229, 253","1110, 1150",1
+2018,"17-25","Tas",1,1,"reported","reported","80, 84","401, 646",1
+2018,"17-25","Vic",1,1,"reported","reported","1182, 1129","4557, 4844",1
+2018,"17-25","WA",1,1,"reported","reported","317, 310","1100, 934",1
+2018,"26-39","ACT",1,1,"reported","reported","92, 79","263, 501",1
+2018,"26-39","NSW",1,1,"reported","reported","1155, 1130","5005, 4581",1
+2018,"26-39","NT",1,1,"reported","reported","138, 118","905, 748",1
+2018,"26-39","Qld",1,1,"reported","reported","1100, 1186","4082, 4153",1
+2018,"26-39","SA",1,1,"reported","reported","263, 309","1317, 970",1
+2018,"26-39","Tas",1,1,"reported","reported","71, 90","231, 635",1
+2018,"26-39","Vic",1,1,"reported","reported","1526, 1336","6363, 5795",1
+2018,"26-39","WA",1,1,"reported","reported","416, 392","2030, 1862",1
+2018,"40-64","ACT",1,1,"reported","reported","142, 106","379, 434",1
+2018,"40-64","NSW",1,1,"reported","reported","1649, 1634","9713, 10953",1
+2018,"40-64","NT",1,1,"reported","reported","116, 125","429, 999",1
+2018,"40-64","Qld",1,1,"reported","reported","1514, 1538","6943, 6160",1
+2018,"40-64","SA",1,1,"reported","reported","421, 432","2140, 2577",1
+2018,"40-64","Tas",1,1,"reported","reported","132, 134","716, 789",1
+2018,"40-64","Vic",1,1,"reported","reported","1961, 1819","11865, 10981",1
+2018,"40-64","WA",1,1,"reported","reported","543, 568","2420, 2139",1
+2018,"65-74","ACT",1,1,"reported","reported","24, 26","134, 147",1
+2018,"65-74","NSW",1,1,"reported","reported","378, 401","3511, 3738",1
+2018,"65-74","NT",1,1,"reported","reported","7, 14","66, 204",1
+2018,"65-74","Qld",1,1,"reported","reported","303, 318","2584, 1967",1
+2018,"65-74","SA",1,1,"reported","reported","102, 78","816, 533",1
+2018,"65-74","Tas",1,1,"reported","reported","38, 31","196, 380",1
+2018,"65-74","Vic",1,1,"reported","reported","449, 451","4029, 3618",1
+2018,"65-74","WA",1,1,"reported","reported","105, 112","1070, 468",1
+2018,"75+","ACT",1,1,"reported","reported","22, 27","171, 362",1
+2018,"75+","NSW",1,1,"reported","reported","383, 398","3871, 4912",1
+2018,"75+","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 7","n.p., 80",0
+2018,"75+","Qld",1,1,"reported","reported","236, 250","2351, 2399",1
+2018,"75+","SA",1,1,"reported","reported","89, 98","688, 615",1
+2018,"75+","Tas",1,1,"suppressed, reported","suppressed, reported","n.p., 30","n.p., 299",0
+2018,"75+","Vic",1,1,"reported","reported","381, 414","4608, 5274",1
+2018,"75+","WA",1,1,"reported","reported","85, 91","737, 1065",1
+2018,"8-16","ACT",1,1,"reported","reported","17, 20","52, 87",1
+2018,"8-16","NSW",1,1,"reported","reported","281","908, 1021",1
+2018,"8-16","NT",1,1,"reported","reported","38, 28","232, 127",1
+2018,"8-16","Qld",1,1,"reported","reported","339, 332","650, 730",1
+2018,"8-16","SA",1,1,"reported","reported","89, 90","244, 251",1
+2018,"8-16","Tas",1,1,"reported","reported","22, 32","46, 66",1
+2018,"8-16","Vic",1,1,"reported","reported","276, 301","666, 655",1
+2018,"8-16","WA",1,1,"reported","reported","135, 124","355, 463",1
+2019,"0-7","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2019,"0-7","NSW",1,1,"reported","reported","71, 78","621, 310",1
+2019,"0-7","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 12","n.p., 54",0
+2019,"0-7","Qld",1,1,"reported","reported","85, 80","267, 169",1
+2019,"0-7","SA",1,1,"reported","reported","27, 26","49, 37",1
+2019,"0-7","Tas",1,1,"reported, suppressed","reported, suppressed","8, n.p.","10, n.p.",0
+2019,"0-7","Vic",1,1,"reported","reported","99, 84","327, 214",1
+2019,"0-7","WA",1,1,"reported","reported","51","112, 259",1
+2019,"17-25","ACT",1,1,"reported","reported","71, 57","302, 250",1
+2019,"17-25","NSW",1,1,"reported","reported","1015, 935","5852, 4633",1
+2019,"17-25","NT",1,1,"reported","reported","93, 85","510, 484",1
+2019,"17-25","Qld",1,1,"reported","reported","963, 1041","2925, 3910",1
+2019,"17-25","SA",1,1,"reported","reported","240, 258","916, 905",1
+2019,"17-25","Tas",1,1,"reported","reported","94, 59","360, 148",1
+2019,"17-25","Vic",1,1,"reported","reported","1189, 996","6164, 5510",1
+2019,"17-25","WA",1,1,"reported","reported","288, 334","1146, 1068",1
+2019,"26-39","ACT",1,1,"reported","reported","95, 86","305, 206",1
+2019,"26-39","NSW",1,1,"reported","reported","1134, 1106","5419, 5067",1
+2019,"26-39","NT",1,1,"reported","reported","98, 82","438, 346",1
+2019,"26-39","Qld",1,1,"reported","reported","1091, 1125","4215, 3391",1
+2019,"26-39","SA",1,1,"reported","reported","281, 258","1073, 1190",1
+2019,"26-39","Tas",1,1,"reported","reported","81, 82","739, 340",1
+2019,"26-39","Vic",1,1,"reported","reported","1525, 1369","6474, 4974",1
+2019,"26-39","WA",1,1,"reported","reported","419, 445","1909, 1765",1
+2019,"40-64","ACT",1,1,"reported","reported","120, 97","437, 548",1
+2019,"40-64","NSW",1,1,"reported","reported","1710, 1647","10582, 10450",1
+2019,"40-64","NT",1,1,"reported","reported","81, 104","486, 780",1
+2019,"40-64","Qld",1,1,"reported","reported","1585, 1580","6803, 7746",1
+2019,"40-64","SA",1,1,"reported","reported","409, 400","1792, 1939",1
+2019,"40-64","Tas",1,1,"reported","reported","114, 97","960, 384",1
+2019,"40-64","Vic",1,1,"reported","reported","1973, 1865","10005, 10003",1
+2019,"40-64","WA",1,1,"reported","reported","585, 639","3295, 3786",1
+2019,"65-74","ACT",1,1,"reported","reported","29, 24","132, 258",1
+2019,"65-74","NSW",1,1,"reported","reported","383, 453","3630, 3882",1
+2019,"65-74","NT",1,1,"reported","reported","12, 17","87, 130",1
+2019,"65-74","Qld",1,1,"reported","reported","349, 368","2410, 2441",1
+2019,"65-74","SA",1,1,"reported","reported","113, 104","572, 600",1
+2019,"65-74","Tas",1,1,"reported","reported","29, 30","164, 285",1
+2019,"65-74","Vic",1,1,"reported","reported","434, 453","2863, 4176",1
+2019,"65-74","WA",1,1,"reported","reported","117, 116","761, 721",1
+2019,"75+","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 18","n.p., 140",0
+2019,"75+","NSW",1,1,"reported","reported","393, 434","4952, 5623",1
+2019,"75+","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 12","n.p., 197",0
+2019,"75+","Qld",1,1,"reported","reported","246, 287","1834, 2340",1
+2019,"75+","SA",1,1,"reported","reported","69, 121","641, 795",1
+2019,"75+","Tas",1,1,"reported","reported","34, 24","292, 279",1
+2019,"75+","Vic",1,1,"reported","reported","388, 416","4096, 4397",1
+2019,"75+","WA",1,1,"reported","reported","94, 111","1032, 1287",1
+2019,"8-16","ACT",1,1,"reported, suppressed","reported, suppressed","29, n.p.","37, n.p.",0
+2019,"8-16","NSW",1,1,"reported","reported","283, 300","1013, 964",1
+2019,"8-16","NT",1,1,"reported","reported","20, 24","30, 88",1
+2019,"8-16","Qld",1,1,"reported","reported","324, 391","708, 1030",1
+2019,"8-16","SA",1,1,"reported","reported","82, 69","179, 115",1
+2019,"8-16","Tas",1,1,"reported, suppressed","reported, suppressed","28, n.p.","56, n.p.",0
+2019,"8-16","Vic",1,1,"reported","reported","295, 306","740, 1066",1
+2019,"8-16","WA",1,1,"reported","reported","125, 159","247, 434",1
+2020,"0-7","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"0-7","NSW",1,1,"reported","reported","82, 69","487, 420",1
+2020,"0-7","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"0-7","Qld",1,1,"reported","reported","96, 137","184, 223",1
+2020,"0-7","SA",1,1,"reported","reported","22, 8","59, 16",1
+2020,"0-7","Tas",1,1,"reported","reported","16, 10","46, 69",1
+2020,"0-7","Vic",1,1,"reported","reported","90, 86","185, 179",1
+2020,"0-7","WA",1,1,"reported","reported","35, 37","64, 119",1
+2020,"17-25","ACT",1,1,"reported","reported","39, 62","235, 135",1
+2020,"17-25","NSW",1,1,"reported","reported","880, 1037","3738, 4223",1
+2020,"17-25","NT",1,1,"reported","reported","81, 121","357, 420",1
+2020,"17-25","Qld",1,1,"reported","reported","910, 1273","3446, 4361",1
+2020,"17-25","SA",1,1,"reported","reported","224, 273","848, 954",1
+2020,"17-25","Tas",1,1,"reported","reported","83, 109","300, 518",1
+2020,"17-25","Vic",1,1,"reported","reported","958, 959","3655, 3784",1
+2020,"17-25","WA",1,1,"reported","reported","354, 339","1700, 1515",1
+2020,"26-39","ACT",1,1,"reported","reported","76, 98","233, 282",1
+2020,"26-39","NSW",1,1,"reported","reported","939, 1137","3973, 5765",1
+2020,"26-39","NT",1,1,"reported","reported","77, 129","329, 577",1
+2020,"26-39","Qld",1,1,"reported","reported","975, 1321","3798, 4460",1
+2020,"26-39","SA",1,1,"reported","reported","272, 314","1348, 1285",1
+2020,"26-39","Tas",1,1,"reported","reported","75, 95","237, 379",1
+2020,"26-39","Vic",1,1,"reported","reported","1291, 1206","5096, 4473",1
+2020,"26-39","WA",1,1,"reported","reported","422, 502","2036, 1934",1
+2020,"40-64","ACT",1,1,"reported","reported","104, 116","653, 371",1
+2020,"40-64","NSW",1,1,"reported","reported","1368, 1703","9260, 11143",1
+2020,"40-64","NT",1,1,"reported","reported","94, 138","484, 673",1
+2020,"40-64","Qld",1,1,"reported","reported","1499, 1700","5833, 6409",1
+2020,"40-64","SA",1,1,"reported","reported","369, 438","2096, 2165",1
+2020,"40-64","Tas",1,1,"reported","reported","89, 132","363, 478",1
+2020,"40-64","Vic",1,1,"reported","reported","1689, 1596","8696, 7220",1
+2020,"40-64","WA",1,1,"reported","reported","572, 645","3825, 3370",1
+2020,"65-74","ACT",1,1,"reported","reported","24, 23","151, 83",1
+2020,"65-74","NSW",1,1,"reported","reported","320, 406","3389, 3897",1
+2020,"65-74","NT",1,1,"reported","reported","21, 23","145, 172",1
+2020,"65-74","Qld",1,1,"reported","reported","286, 384","1605, 2214",1
+2020,"65-74","SA",1,1,"reported","reported","108, 116","1071, 670",1
+2020,"65-74","Tas",1,1,"reported","reported","30, 37","230, 234",1
+2020,"65-74","Vic",1,1,"reported","reported","382, 338","4232, 2051",1
+2020,"65-74","WA",1,1,"reported","reported","134, 123","660, 845",1
+2020,"75+","ACT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"75+","NSW",1,1,"reported","reported","295, 395","4053, 5845",1
+2020,"75+","NT",1,1,"suppressed","suppressed","n.p.","n.p.",0
+2020,"75+","Qld",1,1,"reported","reported","196, 252","1966, 1732",1
+2020,"75+","SA",1,1,"reported","reported","69, 103","468, 640",1
+2020,"75+","Tas",1,1,"reported","reported","15, 26","151, 339",1
+2020,"75+","Vic",1,1,"reported","reported","311, 267","4039, 2302",1
+2020,"75+","WA",1,1,"reported","reported","63, 124","559, 1424",1
+2020,"8-16","ACT",1,1,"reported","reported","27, 29","77, 123",1
+2020,"8-16","NSW",1,1,"reported","reported","307, 336","1006, 1172",1
+2020,"8-16","NT",1,1,"reported","reported","37, 36","54, 75",1
+2020,"8-16","Qld",1,1,"reported","reported","325, 447","636, 983",1
+2020,"8-16","SA",1,1,"reported","reported","107, 80","206, 354",1
+2020,"8-16","Tas",1,1,"reported","reported","20, 41","46, 92",1
+2020,"8-16","Vic",1,1,"reported","reported","309, 402","1111, 914",1
+2020,"8-16","WA",1,1,"reported","reported","124, 162","297, 440",1
+2021,"0-7","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 10","n.p., 12",0
+2021,"0-7","NSW",1,1,"reported","reported","69, 77","301, 353",1
+2021,"0-7","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 12","n.p., 32",0
+2021,"0-7","Qld",1,1,"reported","reported","102, 84","208, 150",1
+2021,"0-7","SA",1,1,"reported","reported","26, 22","61, 83",1
+2021,"0-7","Tas",1,1,"reported","reported","5","25, 50",1
+2021,"0-7","Vic",1,1,"reported","reported","110, 104","201, 225",1
+2021,"0-7","WA",1,1,"reported","reported","39, 28","136, 85",1
+2021,"17-25","ACT",1,1,"reported","reported","76, 42","136, 85",1
+2021,"17-25","NSW",1,1,"reported","reported","980, 782","5037, 3657",1
+2021,"17-25","NT",1,1,"reported","reported","100, 78","443, 304",1
+2021,"17-25","Qld",1,1,"reported","reported","1136, 1180","4083, 3456",1
+2021,"17-25","SA",1,1,"reported","reported","275, 248","869, 1049",1
+2021,"17-25","Tas",1,1,"reported","reported","99, 100","549, 501",1
+2021,"17-25","Vic",1,1,"reported","reported","1094, 976","4520, 3848",1
+2021,"17-25","WA",1,1,"reported","reported","337, 348","2193, 1841",1
+2021,"26-39","ACT",1,1,"reported","reported","109, 65","356, 280",1
+2021,"26-39","NSW",1,1,"reported","reported","1085, 871","4292, 4411",1
+2021,"26-39","NT",1,1,"reported","reported","99, 100","545, 469",1
+2021,"26-39","Qld",1,1,"reported","reported","1225, 1278","4127, 4278",1
+2021,"26-39","SA",1,1,"reported","reported","299, 290","1381, 1166",1
+2021,"26-39","Tas",1,1,"reported","reported","85, 78","290, 206",1
+2021,"26-39","Vic",1,1,"reported","reported","1483, 1321","6151, 5374",1
+2021,"26-39","WA",1,1,"reported","reported","420, 404","2398, 2839",1
+2021,"40-64","ACT",1,1,"reported","reported","174, 114","600, 518",1
+2021,"40-64","NSW",1,1,"reported","reported","1758, 1269","11084, 7394",1
+2021,"40-64","NT",1,1,"reported","reported","105, 110","411, 898",1
+2021,"40-64","Qld",1,1,"reported","reported","1673, 1757","6812, 7216",1
+2021,"40-64","SA",1,1,"reported","reported","435, 413","1933, 1781",1
+2021,"40-64","Tas",1,1,"reported","reported","127, 100","853, 539",1
+2021,"40-64","Vic",1,1,"reported","reported","2046, 1668","10917, 8375",1
+2021,"40-64","WA",1,1,"reported","reported","597, 604","3227, 3789",1
+2021,"65-74","ACT",1,1,"reported","reported","28, 20","121, 83",1
+2021,"65-74","NSW",1,1,"reported","reported","414, 335","4001, 2979",1
+2021,"65-74","NT",1,1,"reported","reported","12, 23","131, 72",1
+2021,"65-74","Qld",1,1,"reported","reported","344, 362","2200, 2217",1
+2021,"65-74","SA",1,1,"reported","reported","138, 127","903, 839",1
+2021,"65-74","Tas",1,1,"reported","reported","46, 36","610, 266",1
+2021,"65-74","Vic",1,1,"reported","reported","464, 385","3505, 2651",1
+2021,"65-74","WA",1,1,"reported","reported","147, 129","1207, 1262",1
+2021,"75+","ACT",1,1,"suppressed, reported","suppressed, reported","n.p., 15","n.p., 72",0
+2021,"75+","NSW",1,1,"reported","reported","406, 301","5015, 4203",1
+2021,"75+","NT",1,1,"suppressed, reported","suppressed, reported","n.p., 5","n.p., 603",0
+2021,"75+","Qld",1,1,"reported","reported","281, 272","2495, 1864",1
+2021,"75+","SA",1,1,"reported","reported","82, 95","546, 663",1
+2021,"75+","Tas",1,1,"reported","reported","35, 30","451, 396",1
+2021,"75+","Vic",1,1,"reported","reported","325, 346","3242, 3374",1
+2021,"75+","WA",1,1,"reported","reported","113, 118","1007, 1429",1
+2021,"8-16","ACT",1,1,"reported","reported","27, 33","232, 53",1
+2021,"8-16","NSW",1,1,"reported","reported","293, 363","1394, 977",1
+2021,"8-16","NT",1,1,"reported","reported","22, 34","45, 75",1
+2021,"8-16","Qld",1,1,"reported","reported","366, 387","885, 898",1
+2021,"8-16","SA",1,1,"reported","reported","82, 100","365, 213",1
+2021,"8-16","Tas",1,1,"reported","reported","25, 34","64, 60",1
+2021,"8-16","Vic",1,1,"reported","reported","399, 409","1015, 1301",1
+2021,"8-16","WA",1,1,"reported","reported","147, 137","386, 489",1
