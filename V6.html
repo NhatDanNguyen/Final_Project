@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/V6.css">
+  <title>V6 | First Nations - Team Dank</title>
+</head>
+<body>
+
+  <header>
+    <nav>
+      <a href="index.html">← Back to Homepage</a>
+    </nav>
+  </header>
+
+  <main id="v6">
+    <h1>First Nations Hospitalisations</h1>
+
+    <p>
+      How does the distribution of road-crash hospitalisations
+      differ between First Nations peoples and
+      non-Indigenous Australians?
+    </p>
+
+    <label for="year-select">Select Year:</label>
+    <select id="year-select">
+      <option value="2021">2021</option>
+    </select>
+
+    
+<section aria-labelledby="comparison-title">
+  <h2 id="comparison-title">Remoteness Comparison</h2>
+
+  <div id="bar-chart"></div>
+
+  <button
+    type="button"
+    id="v6-show-bar-data"
+    aria-expanded="false"
+    aria-controls="v6-bar-data-table"
+  >
+    Show Data
+  </button>
+
+  <div id="v6-bar-data-table" hidden></div>
+</section>
+
+
+    <section aria-labelledby="trend-title">
+      <h2 id="trend-title">Hospitalisations Over Time</h2>
+      <div id="line-chart"></div>
+    </section>
+
+    <p>
+      Note: These charts show hospitalisation counts and
+      their distributions, not population-adjusted risk.
+      Remoteness refers to usual residence.
+    </p>
+  </main>
+
+<!-- D3.js library -->
+<script src="https://cdn.jsdelivr.net/npm/d3@7/dist/d3.min.js"></script>
+
+<!-- V6 JavaScript -->
+<script src="js/v6.js "></script>
+
+</body>
+</html>
