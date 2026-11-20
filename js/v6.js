@@ -446,6 +446,72 @@ chart.selectAll(".v6-bar")
         }
       });
 
+
+    // STEP 12: Download the selected year's data
+
+    d3.select("#v6-download-bar-data")
+      .on("click", function () {
+
+        const selectedYear = Number(
+          d3.select("#year-select").property("value")
+        );
+
+        // Reuse our existing table calculation.
+        renderBarDataTable(selectedYear);
+
+        // Extract the six rows from the table.
+        const rows = tableContainer
+          .selectAll("tbody tr")
+          .nodes()
+          .map(tr => {
+            const cells = Array.from(
+              tr.querySelectorAll("td"),
+              td => td.textContent
+            );
+
+            return {
+              year: selectedYear,
+              remoteness: cells[0],
+              population_group: cells[1],
+              hospitalisations:
+                cells[2] === "Not reported"
+                  ? ""
+                  : cells[2].replace(/,/g, ""),
+              share_percent:
+                cells[3] === "Not reported"
+                  ? ""
+                  : cells[3].replace("%", "")
+            };
+          });
+
+        if (rows.length === 0) {
+          alert("No data available to download.");
+          return;
+        }
+
+        // Convert the table data into CSV.
+        const csv = d3.csvFormat(rows);
+
+        // Create a downloadable file.
+        const blob = new Blob([csv], {
+          type: "text/csv;charset=utf-8"
+        });
+
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement("a");
+
+        link.href = url;
+        link.download =
+          `v6_remoteness_${selectedYear}.csv`;
+
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+
+        setTimeout(() => URL.revokeObjectURL(url), 1000);
+      });
+
+
   })
   .catch(function (error) {
     console.error("Failed to load V6 data:", error);
@@ -704,6 +770,127 @@ d3.csv(
   ) || 2021;
 
   updateLineHighlight(initialYear);
+
+
+  // STEP 13: Show Data table for the line chart
+
+  const lineDataButton = d3.select("#v6-show-line-data");
+  const lineTableContainer = d3.select("#v6-line-data-table");
+
+  function renderLineDataTable() {
+
+    // Sort records by year and population group.
+    const rows = [...lineData].sort((a, b) =>
+      a.year - b.year ||
+      a.population_group.localeCompare(b.population_group)
+    );
+
+    lineTableContainer.html("");
+
+    const table = lineTableContainer
+      .append("table")
+      .attr("class", "v6-data-table");
+
+    table.append("caption")
+      .text("Annual hospitalisations, 2011–2021");
+
+    // Column headings
+    const headings = [
+      "Year",
+      "Population Group",
+      "Hospitalisations"
+    ];
+
+    table.append("thead")
+      .append("tr")
+      .selectAll("th")
+      .data(headings)
+      .join("th")
+      .attr("scope", "col")
+      .text(d => d);
+
+    // Create table rows
+    const tbody = table.append("tbody");
+
+    tbody.selectAll("tr")
+      .data(rows)
+      .join("tr")
+      .each(function(d) {
+
+        const count = Number.isFinite(d.hospitalisations)
+          ? d.hospitalisations.toLocaleString("en-AU")
+          : "Not reported";
+
+        d3.select(this)
+          .selectAll("td")
+          .data([
+            d.year,
+            d.population_group,
+            count
+          ])
+          .join("td")
+          .text(value => value);
+      });
+  }
+
+  // Show or hide the table.
+  lineDataButton.on("click", function() {
+
+    const isOpening = lineTableContainer.property("hidden");
+
+    lineTableContainer.property("hidden", !isOpening);
+
+    lineDataButton
+      .text(isOpening ? "Hide Data" : "Show Data")
+      .attr("aria-expanded", String(isOpening));
+
+    if (isOpening) {
+      renderLineDataTable();
+    }
+  });
+
+  // STEP 14: Download annual hospitalisation data
+
+  d3.select("#v6-download-line-data")
+    .on("click", function () {
+
+      // Prepare all 22 records in chronological order.
+      const exportData = [...lineData]
+        .sort((a, b) =>
+          a.year - b.year ||
+          a.population_group.localeCompare(b.population_group)
+        )
+        .map(d => ({
+          year: d.year,
+          population_group: d.population_group,
+
+          // Never replace missing values with zero.
+          hospitalisations:
+            Number.isFinite(d.hospitalisations)
+              ? d.hospitalisations
+              : ""
+        }));
+
+      // Convert the records to CSV format.
+      const csv = d3.csvFormat(exportData);
+
+      // Create a downloadable CSV file.
+      const blob = new Blob([csv], {
+        type: "text/csv;charset=utf-8"
+      });
+
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement("a");
+
+      link.href = url;
+      link.download = "v6_first_nations_trend_2011_2021.csv";
+
+      document.body.appendChild(link);
+      link.click();
+      link.remove();
+
+      setTimeout(() => URL.revokeObjectURL(url), 1000);
+    });
 
 
 })
