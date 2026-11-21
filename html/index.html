@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en-AU">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f4f3ee">
+  <meta name="description" content="Explore recorded road-traffic hospitalisations across Australia from 2011 to 2021.">
+  <title>Road Crash Hospitalisations in Australia · Overview</title>
+  <link rel="stylesheet" href="../css/v1.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+  <script type="module" src="../js/v1-chart.js?v=two-modules"></script>
+
+</head>
+<body data-page="overview">
+  <section class="v1-card" aria-labelledby="v1-title">
+    <div class="v1-head">
+      <div class="v1-title-row">
+        <h2 id="v1-title">National Road-Crash Hospitalizations</h2>
+        <button id="v1-info-btn" class="info-btn" type="button" aria-expanded="false" aria-controls="v1-info" aria-label="About counting-practice changes">
+          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M8 7v4.5M8 4.6v.1" stroke-linecap="round"/></svg>
+        </button>
+        <div id="v1-info" class="info-pop" role="dialog" aria-label="Comparing years" tabindex="-1" hidden>
+          <p>Comparisons over time should be treated with caution. Victoria changed its counting practices in 2012 and NSW in 2017, affecting recorded hospitalization counts. The chart uses different line styles to mark those periods.</p>
+          <button id="v1-info-close" class="info-close" type="button" aria-label="Close">×</button>
+        </div>
+      </div>
+      <div id="v1-toggle" class="seg"></div>
+    </div>
+    <p id="v1-subtitle" class="v1-subtitle"></p>
+
+    <div class="v1-range">
+      <div class="year-range">
+        <div class="range-values">
+          <label for="v1-start">From <output id="v1-start-value" for="v1-start">2011</output></label>
+          <label for="v1-end">To <output id="v1-end-value" for="v1-end">2021</output></label>
+        </div>
+        <div id="v1-range-slider" class="range-slider" style="--range-start: 0%; --range-end: 100%">
+          <div class="range-selected" aria-hidden="true"></div>
+          <input id="v1-start" type="range" min="2011" max="2021" step="1" value="2011" aria-label="Start year">
+          <input id="v1-end" type="range" min="2011" max="2021" step="1" value="2021" aria-label="End year">
+        </div>
+      </div>
+      <button id="v1-reset" class="btn-ghost" type="button">Reset</button>
+      <p id="v1-range-status" role="status"></p>
+    </div>
+
+    <div id="v1-chart" class="v1-chart" aria-busy="true"><p class="v1-loading">Loading data…</p></div>
+    <div class="v1-key" role="group" aria-label="Chart key">
+      <div class="key-item">
+        <svg aria-hidden="true"><line class="key-hospital" x1="0" x2="32" y1="6" y2="6"/></svg>
+        <span id="v1-key-measure" class="key-label">Hospitalised injuries</span>
+      </div>
+      <div class="key-item">
+        <svg aria-hidden="true"><line class="key-victoria" x1="0" x2="32" y1="6" y2="6"/></svg>
+        <span class="key-label">Change in admission criteria 2012 (VIC)</span>
+      </div>
+      <div class="key-item">
+        <svg aria-hidden="true"><line class="key-nsw" x1="0" x2="32" y1="6" y2="6"/></svg>
+        <span class="key-label">Change in admission criteria 2017 (NSW)</span>
+      </div>
+    </div>
+
+  </section>
+  <footer class="site-footer">
+    <div class="footer-inner"><span>Road injury monitor</span><span>Australia · 2011–2021</span></div>
+  </footer>
+</body>
+</html>
