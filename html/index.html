@@ -1,68 +1,263 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en-AU">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#f4f3ee">
-  <meta name="description" content="Explore recorded road-traffic hospitalisations across Australia from 2011 to 2021.">
-  <title>Road Crash Hospitalisations in Australia · Overview</title>
-  <link rel="stylesheet" href="../css/v1.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
-  <script type="module" src="../js/v1-chart.js?v=two-modules"></script>
-
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The Quiet Surge: Why pedal cyclists became Australia’s fastest-growing road trauma hospitalisation burden from 2011 to 2021, using BITRE and AIHW data.">
+    <title>The Quiet Surge — Why Pedal Cyclists Became Australia’s Fastest-Growing Road Trauma Burden (2011–2021)</title>
+    <!-- Paths are relative to this page inside the html folder. -->
+    <link rel="stylesheet" href="../css/styles.css">
 </head>
-<body data-page="overview">
-  <section class="v1-card" aria-labelledby="v1-title">
-    <div class="v1-head">
-      <div class="v1-title-row">
-        <h2 id="v1-title">National Road-Crash Hospitalizations</h2>
-        <button id="v1-info-btn" class="info-btn" type="button" aria-expanded="false" aria-controls="v1-info" aria-label="About counting-practice changes">
-          <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="M8 7v4.5M8 4.6v.1" stroke-linecap="round"/></svg>
-        </button>
-        <div id="v1-info" class="info-pop" role="dialog" aria-label="Comparing years" tabindex="-1" hidden>
-          <p>Comparisons over time should be treated with caution. Victoria changed its counting practices in 2012 and NSW in 2017, affecting recorded hospitalization counts. The chart uses different line styles to mark those periods.</p>
-          <button id="v1-info-close" class="info-close" type="button" aria-label="Close">×</button>
-        </div>
-      </div>
-      <div id="v1-toggle" class="seg"></div>
-    </div>
-    <p id="v1-subtitle" class="v1-subtitle"></p>
+<body>
+    <a href="#main-content" class="skip-link">Skip to main content</a>
 
-    <div class="v1-range">
-      <div class="year-range">
-        <div class="range-values">
-          <label for="v1-start">From <output id="v1-start-value" for="v1-start">2011</output></label>
-          <label for="v1-end">To <output id="v1-end-value" for="v1-end">2021</output></label>
+    <header class="site-header">
+        <div class="header-inner">
+            <div class="site-brand">
+                <a href="#intro" class="brand-title">The Quiet Surge</a>
+                <p class="brand-subtitle">Australia’s Road-Trauma Hospitalisation Burden, 2011–2021</p>
+            </div>
+            <nav class="chapter-nav" aria-label="Story chapters">
+                <ul class="nav-list">
+                    <li><a href="#act-1">1. The Outlier</a></li>
+                    <li><a href="#act-2">2. The Myth</a></li>
+                    <li><a href="#act-3">3. Ageing Riders</a></li>
+                    <li><a href="#act-4">4. The Map</a></li>
+                    <li><a href="#limits">Limits</a></li>
+                    <li><a href="about.html">About the Data</a></li>
+                </ul>
+            </nav>
         </div>
-        <div id="v1-range-slider" class="range-slider" style="--range-start: 0%; --range-end: 100%">
-          <div class="range-selected" aria-hidden="true"></div>
-          <input id="v1-start" type="range" min="2011" max="2021" step="1" value="2011" aria-label="Start year">
-          <input id="v1-end" type="range" min="2011" max="2021" step="1" value="2021" aria-label="End year">
+    </header>
+
+    <main id="main-content">
+        <section id="intro" class="hero" aria-labelledby="hero-title">
+            <div class="hero-inner">
+                <p class="hero-kicker">Data Investigation · BITRE &amp; AIHW Hospitalised Injury Records (2011–2021)</p>
+                <h1 id="hero-title">The Quiet Surge: Why Pedal Cyclists Became Australia’s Fastest-Growing Road Trauma Burden (2011–2021)</h1>
+                <p class="hero-lead">
+                    Road-safety headlines understandably focus on fatalities and motor vehicles, yet national hospital records tell a quieter, rapidly shifting story. Between 2011 and 2021, Australian hospitals recorded 75,362 pedal-cyclist traffic admissions—a sustained rise that challenges default assumptions about how cyclists get hurt, who is occupying hospital beds, and where healthcare demand is concentrated.
+                </p>
+
+                <dl class="kpi-strip" aria-label="Key headline findings">
+                    <div class="kpi-item">
+                        <dt>Decade rise (5,391 to 8,163)</dt>
+                        <dd>+51.4%</dd>
+                    </div>
+                    <div class="kpi-item">
+                        <dt>Confirmed solo non-collision crashes</dt>
+                        <dd>44.3%</dd>
+                    </div>
+                    <div class="kpi-item">
+                        <dt>Decade growth driven by riders aged 40+</dt>
+                        <dd>75.1%</dd>
+                    </div>
+                </dl>
+
+                <p class="framing-note" role="note">
+                    All figures represent recorded hospitalisations (excluding in-hospital deaths within 30 days) — counts of healthcare demand, not population-adjusted crash risk.
+                </p>
+            </div>
+        </section>
+
+        <p id="chart-error" class="chart-error" role="alert" hidden></p>
+        <noscript>
+            <p class="noscript-notice">Please enable JavaScript to view the interactive visualisations and expandable data tables. Static source CSVs remain available via the download links in each section.</p>
+        </noscript>
+
+        <!-- Act 1: The Outlier & The Pandemic Paradox -->
+        <section id="act-1" class="story-act" aria-labelledby="act1-title">
+            <article class="act-card">
+                <header class="act-header">
+                    <p class="act-eyebrow">Act 1 of 4 · The Outlier &amp; The Pandemic Paradox</p>
+                    <h2 id="act1-title">Pedal cyclists are Australia’s fastest-growing road trauma group</h2>
+                    <p class="act-narrative">
+                        Over the decade from 2011 to 2021, pedal-cyclist hospitalisations climbed +51.4% (from 5,391 to 8,163), far outpacing motorcyclists (+17.4%), car occupants (+11.1% — merging BITRE’s <em>Car driver</em>, <em>Car passenger</em>, and <em>Car unknown position</em> categories), and pedestrians (-15.3%). That divergence sharpened during 2020 lockdowns: while car-occupant admissions dropped -10.3% and pedestrian admissions fell -22.5%, pedal-cyclist admissions surged +14.1% to a record 8,332. Series breaks in 2012 (Victoria) and 2017 (NSW) are marked directly on the timeline, with NSW’s 2017 change shifting counts downward—confirming the national rise is not merely a reporting artefact.
+                    </p>
+                </header>
+
+                <div class="chart-controls">
+                    <div id="act1-mode-toggle" class="control-group" role="group" aria-label="Act 1 scale mode">
+                        <button type="button" id="act1-btn-indexed" class="toggle-btn" data-act="1" data-mode="indexed" aria-pressed="true">Indexed (2011 = 100)</button>
+                        <button type="button" id="act1-btn-raw" class="toggle-btn" data-act="1" data-mode="raw" aria-pressed="false">Raw counts</button>
+                    </div>
+                </div>
+
+                <figure class="chart-figure">
+                    <p class="chart-subtitle">Annual recorded road-traffic hospitalisations by transport mode, Australia, 2011–2021 — Counts, not rates / safety rankings.</p>
+                    <div id="chart-act1-trend" class="chart-container" data-chart="act1-trend" role="img" aria-label="Line chart comparing annual hospitalisation trends across Australian road users from 2011 to 2021"></div>
+                    <figcaption class="chart-caption">
+                        Source: BITRE / AIHW National Hospital Morbidity Database (National workbook, <em>Cause of injury = Traffic</em>). Car occupant combines driver, passenger, and unknown-position records. Dashed markers indicate state admission-criteria breaks in 2012 (Vic) and 2017 (NSW).
+                    </figcaption>
+                </figure>
+
+                <div class="data-actions">
+                    <details class="data-table-drawer">
+                        <summary>Show data table</summary>
+                        <div id="table-act1" class="data-table-container"></div>
+                    </details>
+                    <a href="../data/act1_road_user_annual.csv" download class="btn-download">Download CSV</a>
+                </div>
+            </article>
+        </section>
+
+        <!-- Act 2: The Myth of the Car Collision -->
+        <section id="act-2" class="story-act" aria-labelledby="act2-title">
+            <article class="act-card">
+                <header class="act-header">
+                    <p class="act-eyebrow">Act 2 of 4 · The Myth of the Car Collision</p>
+                    <h2 id="act2-title">More hospitalised cyclists crashed alone than with cars</h2>
+                    <p class="act-narrative">
+                        Public debate often assumes rising cyclist hospitalisations are driven primarily by cars hitting bikes, yet confirmed non-collision crashes—falls and loss of control with no other vehicle involved—account for 44.3% of all admissions (33,421 cases), more than double confirmed car, pick-up truck, or van collisions (21.4%, or 16,124 cases). Non-collision crashes also accounted for 76% of the 2020 pandemic jump. Crucially, 21.6% of admissions (16,270 cases) are coded as <em>Other &amp; unspecified transport accidents</em>; this category remains visibly hatched on the chart so potentially uncoded motor-vehicle collisions are never hidden.
+                    </p>
+                </header>
+
+                <div class="chart-controls">
+                    <div id="act2-period-toggle" class="control-group" role="group" aria-label="Act 2 period comparison">
+                        <button type="button" id="act2-btn-total" class="toggle-btn" data-act="2" data-period="total" aria-pressed="true">2011–2021 Total</button>
+                        <button type="button" id="act2-btn-pandemic" class="toggle-btn" data-act="2" data-period="pandemic" aria-pressed="false">2019 vs. 2020 Jump</button>
+                    </div>
+                </div>
+
+                <figure class="chart-figure">
+                    <p class="chart-subtitle">Pedal-cyclist traffic hospitalisations by crash counterparty, Australia, 2011–2021 — Counts, not rates / safety rankings.</p>
+                    <div id="chart-act2-counterparty" class="chart-container" data-chart="act2-counterparty" role="img" aria-label="Horizontal bar chart of pedal-cyclist hospitalisations by counterparty from 2011 to 2021"></div>
+                    <figcaption class="chart-caption">
+                        Source: BITRE / AIHW National Hospital Morbidity Database (National workbook, <em>Cause of injury = Traffic</em>; n = 75,362). The hatched bar marks <em>Other &amp; unspecified transport accidents</em> (21.6%), which may include uncoded vehicle collisions.
+                    </figcaption>
+                </figure>
+
+                <div class="data-actions">
+                    <details class="data-table-drawer">
+                        <summary>Show data table</summary>
+                        <div id="table-act2" class="data-table-container"></div>
+                    </details>
+                    <a href="../data/act2_cyclist_counterparty.csv" download class="btn-download">Download CSV</a>
+                </div>
+            </article>
+        </section>
+
+        <!-- Act 3: The Ageing Rider Boom -->
+        <section id="act-3" class="story-act" aria-labelledby="act3-title">
+            <article class="act-card">
+                <header class="act-header">
+                    <p class="act-eyebrow">Act 3 of 4 · The Ageing Rider Boom</p>
+                    <h2 id="act3-title">The ageing rider boom is reshaping hospital demand</h2>
+                    <p class="act-narrative">
+                        While 78.5% of hospitalised cyclists are male, the decade’s real shift is demographic: riders aged 40 and older generated 75.1% of total growth (+2,083 of +2,772 added annual cases), with admissions more than tripling among riders aged 65–74 (+212%) and 75+ (+228%). Volume alone understates the clinical stakes. Average net hospital bed days rise steadily with age—from 1.59 days for ages 0–7 to 2.34 days for riders in their 30s (26–39), reaching 5.45 days for 65–74 and 7.13 days for 75+, up to three times longer per admission.
+                    </p>
+                </header>
+
+                <div class="chart-controls">
+                    <p class="interaction-hint">Hover or select any age band to compare volume growth and average hospital stay.</p>
+                </div>
+
+                <figure class="chart-figure">
+                    <p class="chart-subtitle">Pedal-cyclist hospitalisation growth (2011 vs. 2021) paired with average net hospital bed days by age band — Counts, not rates / safety rankings.</p>
+                    <div id="chart-act3-age-beddays" class="chart-container chart-paired" data-chart="act3-age-beddays">
+                        <div id="chart-act3-growth" class="chart-panel" role="img" aria-label="Dumbbell chart showing 2011 to 2021 pedal-cyclist hospitalisation growth by age band"></div>
+                        <div id="chart-act3-beddays" class="chart-panel" role="img" aria-label="Horizontal bar chart showing average hospital bed days per admission by age band"></div>
+                    </div>
+                    <figcaption class="chart-caption">
+                        Source: BITRE / AIHW National Hospital Morbidity Database (National workbook, <em>Cause of injury = Traffic</em>). Net bed days exclude bed days for patients who died in hospital within 30 days of admission.
+                    </figcaption>
+                </figure>
+
+                <div class="data-actions">
+                    <details class="data-table-drawer">
+                        <summary>Show data table</summary>
+                        <div id="table-act3" class="data-table-container"></div>
+                    </details>
+                    <a href="../data/act3_cyclist_age_beddays.csv" download class="btn-download">Download CSV</a>
+                </div>
+            </article>
+        </section>
+
+        <!-- Act 4: The Map Puzzle -->
+        <section id="act-4" class="story-act" aria-labelledby="act4-title">
+            <article class="act-card">
+                <header class="act-header">
+                    <p class="act-eyebrow">Act 4 of 4 · The Map Puzzle</p>
+                    <h2 id="act4-title">Where population doesn’t explain the hospital burden</h2>
+                    <p class="act-narrative">
+                        Hospital demand does not simply mirror state population rankings. In 2021, Victoria recorded 2,695 pedal-cyclist hospitalisations—32% more than New South Wales (2,042)—and outpaced NSW across the decade despite roughly 1.6 million fewer residents, while the ACT (333) recorded nearly triple Tasmania’s admissions (118). An equal-area tile-grid map prevents large landmasses like WA and NT from visually distorting counts; state totals sum slightly below national totals because the State &amp; Territory workbook excludes unrecorded or offshore residence and is never joined across workbooks.
+                    </p>
+                </header>
+
+                <div class="chart-controls chart-controls-split">
+                    <div class="control-group control-slider">
+                        <label for="act4-year-slider">Selected year: <output id="act4-year-output" for="act4-year-slider">2021</output></label>
+                        <input type="range" id="act4-year-slider" data-act="4" min="2011" max="2021" step="1" value="2021">
+                    </div>
+                    <div id="act4-view-toggle" class="control-group" role="group" aria-label="Act 4 view layout">
+                        <button type="button" id="act4-btn-tiles" class="toggle-btn" data-act="4" data-view="tiles" aria-pressed="true">Tile-grid map</button>
+                        <button type="button" id="act4-btn-bars" class="toggle-btn" data-act="4" data-view="bars" aria-pressed="false">Sorted bars</button>
+                    </div>
+                </div>
+
+                <figure class="chart-figure">
+                    <p class="chart-subtitle">Recorded pedal-cyclist hospitalisations and 2011–2021 trends by Australian state and territory — Counts, not rates / safety rankings.</p>
+                    <div id="chart-act4-state-map" class="chart-container" data-chart="act4-state-map" role="img" aria-label="Equal-area tile-grid map of Australian states and territories showing pedal-cyclist hospitalisations and 2011 to 2021 trends"></div>
+                    <figcaption class="chart-caption">
+                        Source: BITRE / AIHW National Hospital Morbidity Database (State &amp; Territory workbook, <em>Road user = Pedal cyclist</em>; kept separate from the National workbook with no cross-workbook joins). State counts sum slightly below national totals due to unrecorded or offshore residence.
+                    </figcaption>
+                </figure>
+
+                <div class="data-actions">
+                    <details class="data-table-drawer">
+                        <summary>Show data table</summary>
+                        <div id="table-act4" class="data-table-container"></div>
+                    </details>
+                    <a href="../data/act4_cyclist_state_annual.csv" download class="btn-download">Download CSV</a>
+                </div>
+            </article>
+        </section>
+
+        <!-- Closing Section: Limits & What Comes Next -->
+        <section id="limits" class="limits-section" aria-labelledby="limits-title">
+            <div class="limits-inner">
+                <p class="act-eyebrow">Limits of the Evidence</p>
+                <h2 id="limits-title">What the numbers prove — and the question Australia still can’t answer</h2>
+                <div class="limits-grid">
+                    <article class="limit-card">
+                        <h3>Hospital demand, not crash risk</h3>
+                        <p>
+                            BITRE hospitalisation counts measure confirmed hospital admissions and bed-day demand. Without consistent national denominators for kilometres cycled or active-rider participation, raw counts cannot rank how risky cycling is per trip or per kilometre.
+                        </p>
+                    </article>
+                    <article class="limit-card">
+                        <h3>Reporting breaks &amp; uncoded records</h3>
+                        <p>
+                            State admission-policy changes in Victoria (2012) and NSW (2017), the 21.6% share of unspecified crash counterparties, and unrecorded-residence gaps between State and National workbooks must be read alongside every trend.
+                        </p>
+                    </article>
+                    <article class="limit-card">
+                        <h3>The next question for policymakers</h3>
+                        <p>
+                            Are older Australians, Victorians, and Canberrans crashing at higher individual rates—or simply cycling far more often? Pairing hospital demand with national exposure surveys is the missing link needed to target infrastructure and safety policy.
+                        </p>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <div id="chart-tooltip" class="tooltip" role="status" aria-live="polite" hidden></div>
+    </main>
+
+    <footer class="site-footer">
+        <div class="footer-inner">
+            <p class="footer-team">
+                <strong>Team DanK</strong> (Nguyen Nhat Dan &amp; Duong Nguyen Khoi) · COS30045 Data Visualisation, Swinburne University of Technology.
+            </p>
+            <p class="footer-source">
+                Data attribution: Bureau of Infrastructure and Transport Research Economics (BITRE) / Australian Institute of Health and Welfare (AIHW), 2011–2021.
+            </p>
+            <p class="footer-links">
+                <a href="about.html">About the Data — Data processing, KNIME workflow, and glossary</a>
+            </p>
         </div>
-      </div>
-      <button id="v1-reset" class="btn-ghost" type="button">Reset</button>
-      <p id="v1-range-status" role="status"></p>
-    </div>
+    </footer>
 
-    <div id="v1-chart" class="v1-chart" aria-busy="true"><p class="v1-loading">Loading data…</p></div>
-    <div class="v1-key" role="group" aria-label="Chart key">
-      <div class="key-item">
-        <svg aria-hidden="true"><line class="key-hospital" x1="0" x2="32" y1="6" y2="6"/></svg>
-        <span id="v1-key-measure" class="key-label">Hospitalised injuries</span>
-      </div>
-      <div class="key-item">
-        <svg aria-hidden="true"><line class="key-victoria" x1="0" x2="32" y1="6" y2="6"/></svg>
-        <span class="key-label">Change in admission criteria 2012 (VIC)</span>
-      </div>
-      <div class="key-item">
-        <svg aria-hidden="true"><line class="key-nsw" x1="0" x2="32" y1="6" y2="6"/></svg>
-        <span class="key-label">Change in admission criteria 2017 (NSW)</span>
-      </div>
-    </div>
-
-  </section>
-  <footer class="site-footer">
-    <div class="footer-inner"><span>Road injury monitor</span><span>Australia · 2011–2021</span></div>
-  </footer>
+    <!-- D3.js and project scripts (../js/share-constants.js, ../js/read-data.js, and chart modules) will be linked here later -->
 </body>
 </html>
